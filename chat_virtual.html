@@ -1,10 +1,9 @@
-
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MultiMind - 4 LLMs, 1 Prompt</title>
+<title>MultiMind — 4 LLMs, 1 Prompt</title>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -27,7 +26,7 @@ body {
   height: 100vh;
 }
 
-/* -- TOP BAR ------------------------------- */
+/* ── TOP BAR ─────────────────────────────── */
 .topbar {
   display: flex;
   align-items: center;
@@ -85,7 +84,7 @@ body {
 }
 .cfg-btn:hover { background: #2a2a2a; color: #ddd; }
 
-/* -- GRID ---------------------------------- */
+/* ── GRID ────────────────────────────────── */
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -106,9 +105,9 @@ body {
 }
 .panel:last-child { border-right: none; }
 
-/* ----------------------------------------
-   CLAUDE - warm cream, Söhne-inspired
----------------------------------------- */
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   CLAUDE — warm cream, Söhne-inspired
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 .panel-claude {
   background: #f5f0eb;
   font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
@@ -158,9 +157,9 @@ body {
   white-space: pre-wrap; word-break: break-word; padding-top: 3px;
 }
 
-/* ----------------------------------------
-   CHATGPT - dark #212121
----------------------------------------- */
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   CHATGPT — dark #212121
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 .panel-gpt {
   background: #212121;
   font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
@@ -208,9 +207,9 @@ body {
   white-space: pre-wrap; word-break: break-word; flex: 1; padding-top: 2px;
 }
 
-/* ----------------------------------------
-   GEMINI - dark #1c1c1e, Google Sans
----------------------------------------- */
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   GEMINI — dark #1c1c1e, Google Sans
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 .panel-gemini {
   background: #1c1c1e;
   font-family: 'Google Sans', 'Roboto', sans-serif;
@@ -253,9 +252,9 @@ body {
   white-space: pre-wrap; word-break: break-word; flex: 1; padding-top: 3px;
 }
 
-/* ----------------------------------------
-   MISTRAL - near-black, Inter
----------------------------------------- */
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   MISTRAL — near-black, Inter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 .panel-mistral {
   background: #0e0e0e;
   font-family: 'Inter', ui-sans-serif, sans-serif;
@@ -298,7 +297,7 @@ body {
   white-space: pre-wrap; word-break: break-word; flex: 1; padding-top: 3px;
 }
 
-/* -- STATUS PILL --------------------------- */
+/* ── STATUS PILL ─────────────────────────── */
 .sp {
   font-size: 10px; padding: 2px 8px;
   border-radius: 10px; margin-left: auto; font-weight: 500;
@@ -310,7 +309,7 @@ body {
 .sp-err     { background: #3a1a1a; color: #e05555; }
 @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.45} }
 
-/* -- TYPING DOTS --------------------------- */
+/* ── TYPING DOTS ─────────────────────────── */
 .td { display: flex; align-items: center; gap: 4px; padding: 4px 0; }
 .td span {
   width: 6px; height: 6px; border-radius: 50%;
@@ -323,7 +322,7 @@ body {
 .panel-gemini .td span { background:#4a90d9; }
 .panel-mistral .td span { background:#fa520f; }
 
-/* -- EMPTY STATE --------------------------- */
+/* ── EMPTY STATE ─────────────────────────── */
 .empty {
   flex: 1; display: flex; flex-direction: column;
   align-items: center; justify-content: center;
@@ -337,7 +336,7 @@ body {
 .panel-gemini .el { color:#9aa0a6; font-family:'Google Sans',sans-serif; }
 .panel-mistral .el { color:#555; }
 
-/* -- BOTTOM BAR ---------------------------- */
+/* ── BOTTOM BAR ──────────────────────────── */
 .bottom {
   background: #111;
   border-top: 1px solid #2a2a2a;
@@ -377,7 +376,7 @@ textarea#prompt::placeholder { color: #444; }
 .sbtn:disabled { opacity: .3; cursor: not-allowed; }
 .sbtn svg { width: 15px; height: 15px; }
 
-/* -- CONFIG MODAL -------------------------- */
+/* ── CONFIG MODAL ────────────────────────── */
 .ov {
   display: none; position: fixed; inset: 0;
   background: rgba(0,0,0,.78); z-index: 999;
@@ -439,7 +438,7 @@ textarea#prompt::placeholder { color: #444; }
   </div>
   <div class="topbar-spacer"></div>
   <button class="clear-btn" onclick="clearAll()">Limpar</button>
-
+  
 </div>
 
 <div class="grid">
@@ -540,8 +539,7 @@ textarea#prompt::placeholder { color: #444; }
 </div>
 
 <script>
-const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/
-/g,'<br>');
+const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');
 
 function pill(m,cls,txt){ const e=document.getElementById(`st-${m}`); e.className=`sp ${cls}`; e.textContent=txt; }
 function scrollBot(id){ const e=document.getElementById(id); e.scrollTop=e.scrollHeight; }
@@ -633,6 +631,3 @@ async function send(){
 </script>
 </body>
 </html>
-
-
-    
