@@ -1,0 +1,167 @@
+{
+  "533221ea-732a-4632-927b-f1189e3b6fd3": {
+    "pre": {
+      "timestamp": "2026-04-30T00:02:22.760336",
+      "topic": "economic",
+      "answers": {
+        "participant_id": "533221ea-732a-4632-927b-f1189e3b6fd3",
+        "phase": "pre",
+        "topic": "economic",
+        "age": "21",
+        "gender": "M",
+        "nationality": "Portuguesa",
+        "university": "bla",
+        "course": "bla",
+        "q_Posições Socioeconómicas — Económico_0": "0",
+        "q_Posições Socioeconómicas — Económico_1": "0",
+        "q_Posições Socioeconómicas — Económico_2": "0",
+        "q_Posições Socioeconómicas — Económico_3": "0",
+        "q_Posições Socioeconómicas — Económico_4": "0",
+        "q_Posições Socioeconómicas — Económico_5": "0",
+        "q_Posições Socioeconómicas — Económico_6": "0",
+        "q_Posições Socioeconómicas — Económico_7": "0",
+        "q_Conhecimento sobre o tema_0": "0",
+        "q_Conhecimento sobre o tema_1": "0",
+        "q_Conhecimento sobre o tema_2": "0",
+        "q_Conhecimento sobre o tema_3": "0"
+      }
+    },
+    "pro": {
+      "timestamp": "2026-04-30T00:05:26.780697",
+      "topic": "economic",
+      "answers": {
+        "participant_id": "533221ea-732a-4632-927b-f1189e3b6fd3",
+        "phase": "pro",
+        "topic": "economic",
+        "q_Posições Socioeconómicas — Económico_0": "0",
+        "q_Posições Socioeconómicas — Económico_1": "0",
+        "q_Posições Socioeconómicas — Económico_2": "0",
+        "q_Posições Socioeconómicas — Económico_3": "0",
+        "q_Posições Socioeconómicas — Económico_4": "0",
+        "q_Posições Socioeconómicas — Económico_5": "0",
+        "q_Posições Socioeconómicas — Económico_6": "0",
+        "q_Posições Socioeconómicas — Económico_7": "0",
+        "party": "CDU",
+        "ai_freq": "Não utilizei nos últimos seis meses",
+        "robot_freq": "Não interagi nos últimos seis meses",
+        "robot_types": "Dash"
+      }
+    }
+  },
+  "9c91e670-e1f7-44ed-8bf7-55222d4ef207": {
+    "pre": {
+      "timestamp": "2026-04-30T00:12:05.477805",
+      "topic": "economic",
+      "answers": {
+        "participant_id": "9c91e670-e1f7-44ed-8bf7-55222d4ef207",
+        "phase": "pre",
+        "topic": "economic",
+        "age": "1",
+        "gender": "a",
+        "nationality": "a",
+        "university": "a",
+        "course": "a",
+        "q_Posições Socioeconómicas — Económico_1": "1",
+        "q_Posições Socioeconómicas — Económico_2": "1",
+        "q_Posições Socioeconómicas — Económico_3": "1",
+        "q_Posições Socioeconómicas — Económico_4": "1",
+        "q_Posições Socioeconómicas — Económico_5": "1",
+        "q_Posições Socioeconómicas — Económico_6": "1",
+        "q_Posições Socioeconómicas — Económico_7": "1",
+        "q_Posições Socioeconómicas — Económico_8": "1",
+        "q_Conhecimento sobre o tema_1": "1",
+        "q_Conhecimento sobre o tema_2": "1",
+        "q_Conhecimento sobre o tema_3": "1",
+        "q_Conhecimento sobre o tema_4": "1"
+      }
+    }
+  },
+  "45c6fcb8-1b0f-40f0-897f-476a08ef4934": {
+    "pre": {
+      "timestamp": "2026-04-30T00:37:54.784664",
+      "topic": "economic",
+      "answers": {
+        "participant_id": "45c6fcb8-1b0f-40f0-897f-476a08ef4934",
+        "phase": "pre",
+        "topic": "economic",
+        "age": "2",
+        "gender": "ads",
+        "nationality": "das",
+        "university": "dsa",
+        "course": "sad",
+        "q_economic_1": "1",
+        "q_economic_2": "1",
+        "q_economic_3": "1",
+        "q_economic_4": "1",
+        "q_economic_5": "1",
+        "q_economic_6": "1",
+        "q_economic_7": "1",
+        "q_economic_8": "1",
+        "q_knowledge_1": "1",
+        "q_knowledge_2": "1",
+        "q_knowledge_3": "1",
+        "q_knowledge_4": "1"
+      }
+    }
+  },
+  "afd3a50c-ef35-47ab-b6d0-1746faf724c4": {
+    "pre": {
+      "timestamp": "2026-05-02T16:18:34.582182",
+      "topic": "robot-related",
+      "answers": {
+        "participant_id": "afd3a50c-ef35-47ab-b6d0-1746faf724c4",
+        "phase": "pre",
+        "topic": "robot-related",
+        "age": "21",
+        "gender": "m",
+        "nationality": "s",
+        "university": "s",
+        "course": "s",
+        "q_robot-related_1": "1",
+        "q_robot-related_2": "7",
+        "q_robot-related_3": "1",
+        "q_robot-related_4": "7",
+        "q_robot-related_5": "1",
+        "q_robot-related_6": "7",
+        "q_robot-related_7": "1",
+        "q_robot-related_8": "7",
+        "q_robot-related_9": "1",
+        "q_robot-related_10": "7",
+        "q_knowledge_1": "5",
+        "q_knowledge_2": "5",
+        "q_knowledge_3": "5",
+        "q_knowledge_4": "5"
+      }
+    }
+  },
+  "4e8916b9-dc38-4a2d-8f20-dc200b9bee02": {
+    "pre": {
+      "timestamp": "2026-05-02T16:35:02.252798",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "4e8916b9-dc38-4a2d-8f20-dc200b9bee02",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "M",
+        "nationality": "Portuguesa",
+        "university": "Uni",
+        "course": "LEI",
+        "q_robot_related_1": "1",
+        "q_robot_related_2": "7",
+        "q_robot_related_3": "1",
+        "q_robot_related_4": "7",
+        "q_robot_related_5": "1",
+        "q_robot_related_6": "7",
+        "q_robot_related_7": "1",
+        "q_robot_related_8": "7",
+        "q_robot_related_9": "1",
+        "q_robot_related_10": "7",
+        "q_knowledge_1": "5",
+        "q_knowledge_2": "5",
+        "q_knowledge_3": "5",
+        "q_knowledge_4": "5"
+      }
+    }
+  }
+}

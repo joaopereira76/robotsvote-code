@@ -1,0 +1,30 @@
+{
+  "533221ea-732a-4632-927b-f1189e3b6fd3": {
+    "pre": {
+      "timestamp": "2026-04-30T00:02:22.760336",
+      "topic": "economic",
+      "answers": {
+        "participant_id": "533221ea-732a-4632-927b-f1189e3b6fd3",
+        "phase": "pre",
+        "topic": "economic",
+        "age": "21",
+        "gender": "M",
+        "nationality": "Portuguesa",
+        "university": "bla",
+        "course": "bla",
+        "q_Posições Socioeconómicas — Económico_0": "0",
+        "q_Posições Socioeconómicas — Económico_1": "0",
+        "q_Posições Socioeconómicas — Económico_2": "0",
+        "q_Posições Socioeconómicas — Económico_3": "0",
+        "q_Posições Socioeconómicas — Económico_4": "0",
+        "q_Posições Socioeconómicas — Económico_5": "0",
+        "q_Posições Socioeconómicas — Económico_6": "0",
+        "q_Posições Socioeconómicas — Económico_7": "0",
+        "q_Conhecimento sobre o tema_0": "0",
+        "q_Conhecimento sobre o tema_1": "0",
+        "q_Conhecimento sobre o tema_2": "0",
+        "q_Conhecimento sobre o tema_3": "0"
+      }
+    }
+  }
+}
