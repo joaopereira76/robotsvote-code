@@ -163,5 +163,35 @@
         "q_knowledge_4": "5"
       }
     }
+  },
+  "93422d62-30f4-42d5-8f46-9e9131a70cbe": {
+    "pre": {
+      "timestamp": "2026-05-03T22:48:49.001363",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "93422d62-30f4-42d5-8f46-9e9131a70cbe",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "m",
+        "nationality": "ffasasf",
+        "university": "asfafs",
+        "course": "asfafs",
+        "q_robot_related_1": "1",
+        "q_robot_related_2": "7",
+        "q_robot_related_3": "1",
+        "q_robot_related_4": "7",
+        "q_robot_related_5": "1",
+        "q_robot_related_6": "7",
+        "q_robot_related_7": "1",
+        "q_robot_related_8": "7",
+        "q_robot_related_9": "1",
+        "q_robot_related_10": "7",
+        "q_knowledge_1": "5",
+        "q_knowledge_2": "5",
+        "q_knowledge_3": "5",
+        "q_knowledge_4": "5"
+      }
+    }
   }
 }
