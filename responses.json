@@ -193,5 +193,215 @@
         "q_knowledge_4": "5"
       }
     }
+  },
+  "933f56ea-64e1-4bb4-a5ed-a765d4a62c27": {
+    "pre": {
+      "timestamp": "2026-05-04T11:06:15.969015",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "933f56ea-64e1-4bb4-a5ed-a765d4a62c27",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "sd",
+        "nationality": "portuguesa",
+        "university": "po",
+        "course": "dassd",
+        "q_robot_related_1": "1",
+        "q_robot_related_2": "7",
+        "q_robot_related_3": "1",
+        "q_robot_related_4": "7",
+        "q_robot_related_5": "1",
+        "q_robot_related_6": "7",
+        "q_robot_related_7": "1",
+        "q_robot_related_8": "7",
+        "q_robot_related_9": "1",
+        "q_robot_related_10": "7",
+        "q_knowledge_1": "4",
+        "q_knowledge_2": "6",
+        "q_knowledge_3": "4",
+        "q_knowledge_4": "6"
+      }
+    }
+  },
+  "a121af60-8bb5-4b40-98f4-c3bfea3f67f2": {
+    "pre": {
+      "timestamp": "2026-05-04T11:11:28.206566",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "a121af60-8bb5-4b40-98f4-c3bfea3f67f2",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "d",
+        "nationality": "d",
+        "university": "d",
+        "course": "d",
+        "q_robot_related_1": "3",
+        "q_robot_related_2": "5",
+        "q_robot_related_3": "5",
+        "q_robot_related_4": "3",
+        "q_robot_related_5": "5",
+        "q_robot_related_6": "3",
+        "q_robot_related_7": "5",
+        "q_robot_related_8": "3",
+        "q_robot_related_9": "5",
+        "q_robot_related_10": "5",
+        "q_knowledge_1": "4",
+        "q_knowledge_2": "7",
+        "q_knowledge_3": "4",
+        "q_knowledge_4": "7"
+      }
+    }
+  },
+  "0653bf96-3d00-46ad-9fff-ea3e29c4de80": {
+    "pre": {
+      "timestamp": "2026-05-04T11:17:59.594689",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "0653bf96-3d00-46ad-9fff-ea3e29c4de80",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "m",
+        "nationality": "portu",
+        "university": "sad",
+        "course": "sda",
+        "q_robot_related_1": "1",
+        "q_robot_related_2": "7",
+        "q_robot_related_3": "1",
+        "q_robot_related_4": "7",
+        "q_robot_related_5": "1",
+        "q_robot_related_6": "7",
+        "q_robot_related_7": "1",
+        "q_robot_related_8": "7",
+        "q_robot_related_9": "1",
+        "q_robot_related_10": "7",
+        "q_knowledge_1": "4",
+        "q_knowledge_2": "6",
+        "q_knowledge_3": "4",
+        "q_knowledge_4": "6"
+      }
+    }
+  },
+  "f8e8cf13-91a0-4cf2-84d0-bd8668d1b039": {
+    "pre": {
+      "timestamp": "2026-05-04T11:37:58.073952",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "f8e8cf13-91a0-4cf2-84d0-bd8668d1b039",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "fsa",
+        "nationality": "fas",
+        "university": "fasf",
+        "course": "fsaf",
+        "q_robot_related_1": "3",
+        "q_robot_related_2": "5",
+        "q_robot_related_3": "3",
+        "q_robot_related_4": "5",
+        "q_robot_related_5": "3",
+        "q_robot_related_6": "5",
+        "q_robot_related_7": "3",
+        "q_robot_related_8": "5",
+        "q_robot_related_9": "3",
+        "q_robot_related_10": "5",
+        "q_knowledge_1": "6",
+        "q_knowledge_2": "6",
+        "q_knowledge_3": "6",
+        "q_knowledge_4": "6"
+      }
+    }
+  },
+  "dea1779a-7396-4159-aa7e-28bb20e06b54": {
+    "pre": {
+      "timestamp": "2026-05-04T11:49:44.476861",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "dea1779a-7396-4159-aa7e-28bb20e06b54",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "das",
+        "nationality": "asd",
+        "university": "dsa",
+        "course": "dsa",
+        "q_robot_related_1": "3",
+        "q_robot_related_2": "5",
+        "q_robot_related_3": "3",
+        "q_robot_related_4": "5",
+        "q_robot_related_5": "3",
+        "q_robot_related_6": "5",
+        "q_robot_related_7": "3",
+        "q_robot_related_8": "5",
+        "q_robot_related_9": "3",
+        "q_robot_related_10": "5",
+        "q_knowledge_1": "4",
+        "q_knowledge_2": "6",
+        "q_knowledge_3": "4",
+        "q_knowledge_4": "6"
+      }
+    }
+  },
+  "a0fef9a4-dc25-441b-9fd2-6ff7765f0d96": {
+    "pre": {
+      "timestamp": "2026-05-04T21:20:11.591324",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "a0fef9a4-dc25-441b-9fd2-6ff7765f0d96",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "M",
+        "nationality": "sad",
+        "university": "dsa",
+        "course": "ads",
+        "q_robot_related_1": "3",
+        "q_robot_related_2": "5",
+        "q_robot_related_3": "3",
+        "q_robot_related_4": "5",
+        "q_robot_related_5": "3",
+        "q_robot_related_6": "5",
+        "q_robot_related_7": "3",
+        "q_robot_related_8": "5",
+        "q_robot_related_9": "3",
+        "q_robot_related_10": "5",
+        "q_knowledge_1": "5",
+        "q_knowledge_2": "5",
+        "q_knowledge_3": "5",
+        "q_knowledge_4": "5"
+      }
+    }
+  },
+  "a2a880fb-4cdd-4b7a-91d2-4c56dc20c9df": {
+    "pre": {
+      "timestamp": "2026-05-04T22:59:08.519604",
+      "topic": "robot_related",
+      "answers": {
+        "participant_id": "a2a880fb-4cdd-4b7a-91d2-4c56dc20c9df",
+        "phase": "pre",
+        "topic": "robot_related",
+        "age": "21",
+        "gender": "m",
+        "nationality": "fsa",
+        "university": "fsafs",
+        "course": "asffsa",
+        "q_robot_related_1": "5",
+        "q_robot_related_2": "3",
+        "q_robot_related_3": "5",
+        "q_robot_related_4": "3",
+        "q_robot_related_5": "5",
+        "q_robot_related_6": "3",
+        "q_robot_related_7": "5",
+        "q_robot_related_8": "3",
+        "q_robot_related_9": "5",
+        "q_robot_related_10": "3",
+        "q_knowledge_1": "5",
+        "q_knowledge_2": "5",
+        "q_knowledge_3": "5",
+        "q_knowledge_4": "5"
+      }
+    }
   }
 }
