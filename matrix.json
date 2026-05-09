@@ -11,37 +11,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio1.wav"
+                        "audio_path":"audio1.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio1.wav"
+                        "audio_path":"audio1.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio2.wav"
+                        "audio_path":"audio2.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio1.wav"
+                        "audio_path":"audio1.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             },
@@ -49,37 +65,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio2.wav"
+                        "audio_path":"audio2.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio2.wav"
+                        "audio_path":"audio2.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio2.wav"
+                        "audio_path":"audio2.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio1.wav"
+                        "audio_path":"audio1.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             }
@@ -90,37 +122,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio3.wav"
+                        "audio_path":"audio3.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my3"
+                        "audio_path":"my3",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio3.wav"
+                        "audio_path":"audio3.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my3"
+                        "audio_path":"my3",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio4.wav"
+                        "audio_path":"audio4.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my4"
+                        "audio_path":"my4",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio3.wav"
+                        "audio_path":"audio3.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my3"
+                        "audio_path":"my3",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             },
@@ -128,37 +176,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio4.wav"
+                        "audio_path":"audio4.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my4"
+                        "audio_path":"my4",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio4.wav"
+                        "audio_path":"audio4.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my4"
+                        "audio_path":"my4",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio4.wav"
+                        "audio_path":"audio4.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my4"
+                        "audio_path":"my4",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio3.wav"
+                        "audio_path":"audio3.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my3"
+                        "audio_path":"my3",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             }
@@ -169,37 +233,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio5.wav"
+                        "audio_path":"audio5.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my5"
+                        "audio_path":"my5",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio5.wav"
+                        "audio_path":"audio5.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my5"
+                        "audio_path":"my5",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio6.wav"
+                        "audio_path":"audio6.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my6"
+                        "audio_path":"my6",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio5.wav"
+                        "audio_path":"audio5.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my5"
+                        "audio_path":"my5",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             },
@@ -207,37 +287,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio6.wav"
+                        "audio_path":"audio6.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my6"
+                        "audio_path":"my6",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio6.wav"
+                        "audio_path":"audio6.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"m6"
+                        "audio_path":"m6",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio6.wav"
+                        "audio_path":"audio6.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my6"
+                        "audio_path":"my6",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio5.wav"
+                        "audio_path":"audio5.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my5"
+                        "audio_path":"my5",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             }
@@ -248,37 +344,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio7.wav"
+                        "audio_path":"audio7.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my7"
+                        "audio_path":"my7",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio7.wav"
+                        "audio_path":"audio7.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my7"
+                        "audio_path":"my7",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio8.wav"
+                        "audio_path":"audio8.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my8"
+                        "audio_path":"my8",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio7.wav"
+                        "audio_path":"audio7.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my7"
+                        "audio_path":"my7",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             },
@@ -286,37 +398,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio8.wav"
+                        "audio_path":"audio8.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my8"
+                        "audio_path":"my8",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio8.wav"
+                        "audio_path":"audio8.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my8"
+                        "audio_path":"my8",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio8.wav"
+                        "audio_path":"audio8.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my8"
+                        "audio_path":"my8",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio7.wav"
+                        "audio_path":"audio7.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my7"
+                        "audio_path":"my7",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             }
@@ -327,37 +455,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio9.wav"
+                        "audio_path":"audio9.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my9"
+                        "audio_path":"my9",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio9.wav"
+                        "audio_path":"audio9.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my9"
+                        "audio_path":"my9",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio10.wav"
+                        "audio_path":"audio10.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my10"
+                        "audio_path":"my10",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio9.wav"
+                        "audio_path":"audio9.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my9"
+                        "audio_path":"my9",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             },
@@ -365,37 +509,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio10.wav"
+                        "audio_path":"audio10.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my10"
+                        "audio_path":"my10",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio10.wav"
+                        "audio_path":"audio10.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my10"
+                        "audio_path":"my10",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio10.wav"
+                        "audio_path":"audio10.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot7":{
                         "type":"dash",
-                        "audio_path":"my10"
+                        "audio_path":"my10",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio9.wav"
+                        "audio_path":"audio9.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot8":{
                         "type":"dash",
-                        "audio_path":"my9"
+                        "audio_path":"my9",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             }
@@ -406,37 +566,53 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio11.wav"
+                        "audio_path":"audio11.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio11.wav"
+                        "audio_path":"audio11.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio12.wav"
+                        "audio_path":"audio12.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio11.wav"
+                        "audio_path":"audio11.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             },
@@ -444,42 +620,57 @@
                 "all_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio12.wav"
+                        "audio_path":"audio12.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio12.wav"
+                        "audio_path":"audio12.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     }
                 },
                 "half_disagree":{
                     "Robot1":{
                         "type":"reachy",
-                        "audio_path":"audio12.wav"
+                        "audio_path":"audio12.wav",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2"
+                        "audio_path":"my2",
+                        "vote": 1,
+                        "vote_label": "Discordo totalmente"
                     },
                     "Robot2":{
                         "type":"reachy",
-                        "audio_path":"audio11.wav"
+                        "audio_path":"audio11.wav",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1"
+                        "audio_path":"my1",
+                        "vote": 6,
+                        "vote_label": "Concordo totalmente"
                     }
                 }
             }
         }
-            
     },
     "virtuals": {
       "1": {
