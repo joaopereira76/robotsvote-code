@@ -598,6 +598,8 @@ async function send(){
   ta.value=''; ta.style.height='auto';
   document.getElementById('send-btn').disabled=true;
 
+    
+    
   // mostrar prompt e typing em todos os paineis
   ['claude','gpt','gemini','mistral'].forEach(m=>{
     addMsg(m,'user',esc(p));
@@ -613,11 +615,14 @@ async function send(){
     });
     const data = await r.json();
 
-    ['claude','gpt','gemini','mistral'].forEach(m=>{
-      removeTyping(m);
-      addMsg(m,'assistant', esc(data.responses[m] || '(sem resposta)'));
-      pill(m,'sp-done','✓');
-    });
+    const agents = ['claude', 'gpt', 'gemini', 'mistral'];
+    
+    for (const agent of agents) {
+      await new Promise(r => setTimeout(r, 2000)); // espera 2s
+      removeTyping(agent);
+      addMsg(agent, 'assistant', esc(data.responses[agent]));
+      pill(agent, 'sp-done', '✓');
+    }
   } catch(err) {
     ['claude','gpt','gemini','mistral'].forEach(m=>{
       removeTyping(m);
