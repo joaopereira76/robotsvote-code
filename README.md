@@ -19,7 +19,7 @@ python --version
 ## 2. Criar ambiente virtual
 
 ```bash
-python -m venv venv
+py -3.11 -m venv venv
 ```
 
 Ativar:
@@ -48,6 +48,8 @@ pip install -r requirements.txt
 
 ---
 
+
+
 ## 4. Abrir Jupyter
 
 ```bash
@@ -58,4 +60,9 @@ Abrir:
 
 ```text
 robots_vote_support.ipynb
+```
+
+## 5. Se for necessário especificar o kernel para o jupyter
+```bash
+py -3.11 -m ipykernel install --user --name=robots_env --display-name "Python 3.11 (robots_env)"
 ```
