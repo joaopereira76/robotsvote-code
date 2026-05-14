@@ -524,20 +524,6 @@ textarea#prompt::placeholder { color: #444; }
 
 </div>
 
-<!-- BOTTOM PROMPT -->
-<div class="bottom">
-  <div class="pw">
-    <textarea id="prompt" rows="1"
-      placeholder="Escreve o teu prompt… (Enter envia · Shift+Enter nova linha)"
-      onkeydown="onKey(event)" oninput="resize(this)"></textarea>
-    <button class="sbtn" id="send-btn" onclick="send()">
-      <svg viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-        <line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/>
-      </svg>
-    </button>
-  </div>
-</div>
-
 <script>
 const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');
 
@@ -592,47 +578,50 @@ function resize(el){ el.style.height='auto'; el.style.height=Math.min(el.scrollH
 function onKey(e){ if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send();} }
 
 async function send(){
-  const ta=document.getElementById('prompt');
-  const p=ta.value.trim();
-  if(!p) return;
-  ta.value=''; ta.style.height='auto';
-  document.getElementById('send-btn').disabled=true;
+  
+    while(true){
+      try {
+        const r = await fetch('/ask');
+
+        
+        const data = await r.json();
+
+        if (data.ok) {
+            continue;
+        }
+
+        console.log(data);
 
     
+        // mostrar prompt e typing em todos os paineis
+        ['claude','gpt','gemini','mistral'].forEach(m=>{
+            addTyping(m);
+            pill(m,'sp-loading','a pensar…');
+          });
     
-  // mostrar prompt e typing em todos os paineis
-  ['claude','gpt','gemini','mistral'].forEach(m=>{
-    addMsg(m,'user',esc(p));
-    addTyping(m);
-    pill(m,'sp-loading','a pensar…');
-  });
-
-  try {
-    const r = await fetch('/ask', {
-      method: 'POST',
-      headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({prompt: p})
-    });
-    const data = await r.json();
-
-    const agents = ['claude', 'gpt', 'gemini', 'mistral'];
+        const agents = ['claude', 'gpt', 'gemini', 'mistral'];
+        
+        for (const agent of agents) {
+          await new Promise(r => setTimeout(r, 2000)); // espera 2s
+          removeTyping(agent);
+          addMsg(agent, 'assistant', esc(data.responses[agent]));
+          pill(agent, 'sp-done', '✓');
+        }
+        
+          
+      } catch(err) {
+        ['claude','gpt','gemini','mistral'].forEach(m=>{
+          removeTyping(m);
+          addMsg(m,'assistant',`⚠ Erro: ${esc(err.message)}`);
+          pill(m,'sp-err','erro');
+        });
+      }
     
-    for (const agent of agents) {
-      await new Promise(r => setTimeout(r, 2000)); // espera 2s
-      removeTyping(agent);
-      addMsg(agent, 'assistant', esc(data.responses[agent]));
-      pill(agent, 'sp-done', '✓');
+      
     }
-  } catch(err) {
-    ['claude','gpt','gemini','mistral'].forEach(m=>{
-      removeTyping(m);
-      addMsg(m,'assistant',`⚠ Erro: ${esc(err.message)}`);
-      pill(m,'sp-err','erro');
-    });
-  }
-
-  document.getElementById('send-btn').disabled=false;
 }
+
+send();
 </script>
 </body>
 </html>
