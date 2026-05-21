@@ -1,7 +1,1817 @@
 {
-  "economic": {
-  },
-  "social": {
+  "socio-economic": {
+    "virtuals": {
+      "1": {
+        "statement": "Portugal deve reduzir drasticamente a imigração, colocando em primeiro lugar a segurança nacional e a proteção dos empregos e dos recursos dos cidadãos portugueses.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "Os serviços públicos já estão no limite",
+              "quote": "Concordo totalmente, o Serviço Nacional de Saúde tem hoje mais de 1,5 milhões de utentes sem médico de família atribuído. A escola pública debate-se com a falta de professores. Num contexto em que o Estado já não consegue servir adequadamente quem cá vive, receber um número crescente de novos residentes sem capacidade de resposta não é generosidade — é irresponsabilidade.",
+              "img_path": "image27.jpg"
+            },
+            "Virtual2": {
+              "title": "A pressão sobre os trabalhadores mais vulneráveis é real",
+              "quote": "Concordo totalmente, a imigração massiva e pouco regulada tende a concentrar-se nos setores de trabalho menos qualificado — construção, restauração, agricultura —, criando uma concorrência direta com os portugueses de menores rendimentos. Não é xenofobia reconhecer que, quando a oferta de trabalho aumenta muito rapidamente num dado setor, os salários descem e as condições de trabalho pioram para todos.",
+              "img_path": "image28.jpg"
+            },
+            "Virtual3": {
+              "title": "Integração mal feita gera problemas a longo prazo",
+              "quote": "Concordo totalmente, países que apostaram em políticas de portas abertas sem investir seriamente em integração — língua, habitação, reconhecimento de qualificações — criaram bolsas de exclusão social. Em França, os subúrbios com maior concentração de imigração apresentam taxas de desemprego juvenil que chegam aos 40%. A intenção de acolher não chega; sem estratégia, cria-se um problema onde antes havia uma solução.",
+              "img_path": "image29.jpg"
+            },
+            "Virtual4": {
+              "title": "Controlo de fronteiras é uma função legítima do Estado",
+              "quote": "Concordo totalmente, nenhum país do mundo tem fronteiras completamente abertas. Definir quem entra, em que condições e com que propósito é um exercício normal de soberania. Não regular esse fluxo não é progressista — é uma falha de governação que, historicamente, alimenta reações políticas de sentido contrário, muito mais radicais e exclusivistas.",
+              "img_path": "image30.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "Portugal está a envelhecer e nenhuma política natalista consegue travá-lo",
+              "quote": "Discordo totalmente, o país tem hoje cerca de 2,5 ativos por reformado; em 2050, essa proporção pode chegar a 1,5 para 1. Sem imigração, o sistema de segurança social colapsa não por falta de vontade política, mas por falta de gente a pagar descontos. Fechar a porta à imigração, neste contexto, é cortar o oxigénio a um doente que já tem dificuldade em respirar.",
+              "img_path": "image31.jpg"
+            },
+            "Virtual2": {
+              "title": "Criminalidade e imigração não têm a relação causal que muitos assumem",
+              "quote": "Discordo totalmente, confiar tarefas de vida ou morte exclusivamente a algoritmos e máquinas é um risco enorme se houver uma falha de energia ou erro de sistema. Embora a precisão seja alta, a falta de intuição humana em momentos de erro técnico pode ser fatal. A tecnologia não substitui a capacidade humana necessária em situações críticas na área da saúde.",
+              "img_path": "image32.jpg"
+            },
+            "Virtual3": {
+              "title": "Integração mal feita gera problemas a longo prazo",
+              "quote": "Concordo totalmente, países que apostaram em políticas de portas abertas sem investir seriamente em integração — língua, habitação, reconhecimento de qualificações — criaram bolsas de exclusão social. Em França, os subúrbios com maior concentração de imigração apresentam taxas de desemprego juvenil que chegam aos 40%. A intenção de acolher não chega; sem estratégia, cria-se um problema onde antes havia uma solução.",
+              "img_path": "image29.jpg"
+            },
+            "Virtual4": {
+              "title": "Controlo de fronteiras é uma função legítima do Estado",
+              "quote": "Concordo totalmente, nenhum país do mundo tem fronteiras completamente abertas. Definir quem entra, em que condições e com que propósito é um exercício normal de soberania. Não regular esse fluxo não é progressista — é uma falha de governação que, historicamente, alimenta reações políticas de sentido contrário, muito mais radicais e exclusivistas.",
+              "img_path": "image30.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "Portugal está a envelhecer e nenhuma política natalista consegue travá-lo",
+              "quote": "Discordo totalmente, o país tem hoje cerca de 2,5 ativos por reformado; em 2050, essa proporção pode chegar a 1,5 para 1. Sem imigração, o sistema de segurança social colapsa não por falta de vontade política, mas por falta de gente a pagar descontos. Fechar a porta à imigração, neste contexto, é cortar o oxigénio a um doente que já tem dificuldade em respirar.",
+              "img_path": "image31.jpg"
+            },
+            "Virtual2": {
+              "title": "Criminalidade e imigração não têm a relação causal que muitos assumem",
+              "quote": "Discordo totalmente, confiar tarefas de vida ou morte exclusivamente a algoritmos e máquinas é um risco enorme se houver uma falha de energia ou erro de sistema. Embora a precisão seja alta, a falta de intuição humana em momentos de erro técnico pode ser fatal. A tecnologia não substitui a capacidade humana necessária em situações críticas na área da saúde.",
+              "img_path": "image32.jpg"
+            },
+            "Virtual3": {
+              "title": "A economia portuguesa depende estruturalmente dos imigrantes",
+              "quote": "Discordo totalmente, setores como a construção, a hotelaria, os cuidados a idosos e a agricultura funcionam, em parte significativa, graças a trabalhadores imigrantes. Reduzir drasticamente estes fluxos não vai criar empregos para os portugueses — vai criar escassez de mão-de-obra e aumentar os preços ao consumidor final.",
+              "img_path": "image33.jpg"
+            },
+            "Virtual4": {
+              "title": "Portugal foi durante séculos um país de emigrantes",
+              "quote": "Discordo totalmente, há hoje mais de dois milhões de portugueses a viver no estrangeiro. A ideia de que a imigração é um problema e a emigração é uma liberdade individual revela uma contradição que vale a pena reconhecer: exigimos dos outros países que acolham os nossos, mas recusamos estender o mesmo à escala doméstica.",
+              "img_path": "image34.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "Portugal está a envelhecer e nenhuma política natalista consegue travá-lo",
+              "quote": "Discordo totalmente, o país tem hoje cerca de 2,5 ativos por reformado; em 2050, essa proporção pode chegar a 1,5 para 1. Sem imigração, o sistema de segurança social colapsa não por falta de vontade política, mas por falta de gente a pagar descontos. Fechar a porta à imigração, neste contexto, é cortar o oxigénio a um doente que já tem dificuldade em respirar.",
+              "img_path": "image31.jpg"
+            },
+            "Virtual2": {
+              "title": "Criminalidade e imigração não têm a relação causal que muitos assumem",
+              "quote": "Discordo totalmente, confiar tarefas de vida ou morte exclusivamente a algoritmos e máquinas é um risco enorme se houver uma falha de energia ou erro de sistema. Embora a precisão seja alta, a falta de intuição humana em momentos de erro técnico pode ser fatal. A tecnologia não substitui a capacidade humana necessária em situações críticas na área da saúde.",
+              "img_path": "image32.jpg"
+            },
+            "Virtual3": {
+              "title": "Integração mal feita gera problemas a longo prazo",
+              "quote": "Concordo totalmente, países que apostaram em políticas de portas abertas sem investir seriamente em integração — língua, habitação, reconhecimento de qualificações — criaram bolsas de exclusão social. Em França, os subúrbios com maior concentração de imigração apresentam taxas de desemprego juvenil que chegam aos 40%. A intenção de acolher não chega; sem estratégia, cria-se um problema onde antes havia uma solução.",
+              "img_path": "image29.jpg"
+            },
+            "Virtual4": {
+              "title": "Controlo de fronteiras é uma função legítima do Estado",
+              "quote": "Concordo totalmente, nenhum país do mundo tem fronteiras completamente abertas. Definir quem entra, em que condições e com que propósito é um exercício normal de soberania. Não regular esse fluxo não é progressista — é uma falha de governação que, historicamente, alimenta reações políticas de sentido contrário, muito mais radicais e exclusivistas.",
+              "img_path": "image30.jpg"
+            }
+          }
+        }
+      },
+      "2": {
+        "statement": "Em Portugal, o sucesso depende sobretudo da origem social e das redes de contactos. A crença de que o mérito por si só chega não passa de um mito que encobre as profundas desigualdades estruturais do país.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "Os números sobre mobilidade social não deixam dúvidas",
+              "quote": "Concordo totalmente, a OCDE classifica Portugal como um dos países europeus com menor mobilidade intergeracional. Em média, um jovem português nascido numa família de baixos rendimentos demora cerca de cinco gerações a atingir um rendimento médio — nos países nórdicos, são duas. Isto não é uma impressão subjetiva; é uma medida objetiva de quanto o berço pesa no destino.",
+              "img_path": "image35.jpg"
+            },
+            "Virtual2": {
+              "title": "O acesso à educação de qualidade ainda depende demasiado do código postal",
+              "quote": "Concordo totalmente, um aluno de uma escola pública num bairro periférico de Lisboa ou do interior não tem as mesmas oportunidades que um aluno de um colégio privado no centro da cidade. As explicações, as redes de estágio, os contactos com universidades de prestígio — tudo isto está distribuído de forma profundamente desigual. O mérito até pode existir, mas raramente é reconhecido em igualdade de condições.",
+              "img_path": "image36.png"
+            },
+            "Virtual3": {
+              "title": "O mercado de trabalho português é marcado pelo nepotismo e pelo 'quem conheces'",
+              "quote": "Concordo totalmente, não faltam estudos e inquéritos a confirmá-lo: uma fatia significativa dos postos de trabalho — sobretudo os mais bem remunerados — é preenchida por via de contactos pessoais, familiares ou políticos. O concurso público existe no papel; na prática, a vaga muitas vezes já tem nome antes de ser aberta.",
+              "img_path": "image37.jpg"
+            },
+            "Virtual4": {
+              "title": "A concentração de riqueza em Portugal é das mais acentuadas da Europa",
+              "quote": "Concordo totalmente, o coeficiente de Gini coloca Portugal consistentemente no grupo dos países da UE com maior desigualdade de rendimentos. Quando 10% da população detém mais de metade da riqueza nacional, falar de mérito como motor igualitário de sucesso é, no mínimo, ingénuo.",
+              "img_path": "image38.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "O determinismo estrutural, levado ao extremo, paralisa",
+              "quote": "Discordo totalmente, se a mensagem que passa é 'a tua origem determina o teu destino e não há muito que possas fazer', cria-se uma mentalidade de vitimização que pode ser tão nociva quanto a desigualdade que pretende denunciar. As estruturas importam, mas a agência individual também — e ignorar este segundo fator empobrece a análise.",
+              "img_path": "image39.png"
+            },
+            "Virtual2": {
+              "title": "A expansão do ensino superior em Portugal nas últimas décadas é uma história de mobilidade real",
+              "quote": "Discordo totalmente, em 1980, menos de 5% dos portugueses tinham curso superior. Hoje, esse número ultrapassa os 35%. Muitos destes diplomados são filhos de famílias sem tradição académica, que acederam a empregos e rendimentos que os seus pais nunca tiveram. O sistema tem falhas profundas, mas não é completamente impermeável ao esforço e ao talento.",
+              "img_path": "image40.jpg"
+            },
+            "Virtual3": {
+              "title": "O mercado de trabalho português é marcado pelo nepotismo e pelo 'quem conheces'",
+              "quote": "Concordo totalmente, não faltam estudos e inquéritos a confirmá-lo: uma fatia significativa dos postos de trabalho — sobretudo os mais bem remunerados — é preenchida por via de contactos pessoais, familiares ou políticos. O concurso público existe no papel; na prática, a vaga muitas vezes já tem nome antes de ser aberta.",
+              "img_path": "image37.jpg"
+            },
+            "Virtual4": {
+              "title": "A concentração de riqueza em Portugal é das mais acentuadas da Europa",
+              "quote": "Concordo totalmente, o coeficiente de Gini coloca Portugal consistentemente no grupo dos países da UE com maior desigualdade de rendimentos. Quando 10% da população detém mais de metade da riqueza nacional, falar de mérito como motor igualitário de sucesso é, no mínimo, ingénuo.",
+              "img_path": "image38.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "O determinismo estrutural, levado ao extremo, paralisa",
+              "quote": "Discordo totalmente, se a mensagem que passa é 'a tua origem determina o teu destino e não há muito que possas fazer', cria-se uma mentalidade de vitimização que pode ser tão nociva quanto a desigualdade que pretende denunciar. As estruturas importam, mas a agência individual também — e ignorar este segundo fator empobrece a análise.",
+              "img_path": "image39.png"
+            },
+            "Virtual2": {
+              "title": "A expansão do ensino superior em Portugal nas últimas décadas é uma história de mobilidade real",
+              "quote": "Discordo totalmente, em 1980, menos de 5% dos portugueses tinham curso superior. Hoje, esse número ultrapassa os 35%. Muitos destes diplomados são filhos de famílias sem tradição académica, que acederam a empregos e rendimentos que os seus pais nunca tiveram. O sistema tem falhas profundas, mas não é completamente impermeável ao esforço e ao talento.",
+              "img_path": "image40.jpg"
+            },
+            "Virtual3": {
+              "title": "O argumento do mérito como 'mito' pode servir interesses instalados",
+              "quote": "Discordo totalmente, paradoxalmente, desacreditar completamente a ideia de que o esforço compensa pode beneficiar quem já tem posição garantida: se ninguém acredita que pode mudar de vida pelo trabalho, a pressão para reformar o sistema diminui, e as elites estabelecidas ficam mais protegidas. A crítica às desigualdades estruturais é legítima; declarar o mérito irrelevante é outra coisa.",
+              "img_path": "image41.jpg"
+            },
+            "Virtual4": {
+              "title": "Há exemplos concretos e numerosos de mobilidade ascendente em Portugal",
+              "quote": "Discordo totalmente, do desporto à cultura, do empreendedorismo à política, não é difícil encontrar percursos de vida que contradizem o fatalismo da afirmação. Isso não invalida as desigualdades estruturais, mas sugere que o quadro é mais complexo do que 'a origem social é tudo'.",
+              "img_path": "image42.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "O determinismo estrutural, levado ao extremo, paralisa",
+              "quote": "Discordo totalmente, se a mensagem que passa é 'a tua origem determina o teu destino e não há muito que possas fazer', cria-se uma mentalidade de vitimização que pode ser tão nociva quanto a desigualdade que pretende denunciar. As estruturas importam, mas a agência individual também — e ignorar este segundo fator empobrece a análise.",
+              "img_path": "image39.png"
+            },
+            "Virtual2": {
+              "title": "A expansão do ensino superior em Portugal nas últimas décadas é uma história de mobilidade real",
+              "quote": "Discordo totalmente, em 1980, menos de 5% dos portugueses tinham curso superior. Hoje, esse número ultrapassa os 35%. Muitos destes diplomados são filhos de famílias sem tradição académica, que acederam a empregos e rendimentos que os seus pais nunca tiveram. O sistema tem falhas profundas, mas não é completamente impermeável ao esforço e ao talento.",
+              "img_path": "image40.jpg"
+            },
+            "Virtual3": {
+              "title": "O mercado de trabalho português é marcado pelo nepotismo e pelo 'quem conheces'",
+              "quote": "Concordo totalmente, não faltam estudos e inquéritos a confirmá-lo: uma fatia significativa dos postos de trabalho — sobretudo os mais bem remunerados — é preenchida por via de contactos pessoais, familiares ou políticos. O concurso público existe no papel; na prática, a vaga muitas vezes já tem nome antes de ser aberta.",
+              "img_path": "image37.jpg"
+            },
+            "Virtual4": {
+              "title": "A concentração de riqueza em Portugal é das mais acentuadas da Europa",
+              "quote": "Concordo totalmente, o coeficiente de Gini coloca Portugal consistentemente no grupo dos países da UE com maior desigualdade de rendimentos. Quando 10% da população detém mais de metade da riqueza nacional, falar de mérito como motor igualitário de sucesso é, no mínimo, ingénuo.",
+              "img_path": "image38.jpg"
+            }
+          }
+        }
+      },
+      "3": {
+        "statement": "O Estado deve regular ativamente o mercado imobiliário para assegurar que ter onde viver é um direito e não um privilégio.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "A habitação é um direito consagrado na Constituição portuguesa — e está a ser violado a olhos vistos",
+              "quote": "Concordo totalmente, em Lisboa, o preço mediano de compra por metro quadrado ultrapassou os 4.500 euros. Um agregado com dois salários medianos (cerca de 1.400 euros líquidos cada) precisa de mais de 30 anos de rendimento bruto para comprar um T2. Quando os preços atingem este nível de desconexão dos salários reais, o mercado deixou de funcionar para a maioria das pessoas.",
+              "img_path": "image43.jpg"
+            },
+            "Virtual2": {
+              "title": "A experiência europeia mostra que habitação pública robusta funciona",
+              "quote": "Concordo totalmente, Viena tem mais de 60% dos seus residentes em habitação de custos controlados — e é consistentemente classificada como uma das cidades com melhor qualidade de vida do mundo. Em Singapura, o Estado providencia habitação a mais de 80% da população. Estes exemplos contradizem a ideia de que a intervenção pública é necessariamente ineficiente.",
+              "img_path": "image44.jpg"
+            },
+            "Virtual3": {
+              "title": "O mercado livre, sem regulação, favorece a especulação sobre o uso real",
+              "quote": "Concordo totalmente, uma proporção significativa dos imóveis em Lisboa está nas mãos de fundos de investimento que os mantêm vazios ou exclusivamente para arrendamento turístico de curto prazo. Isto não é mercado a funcionar bem — é mercado a funcionar para uma minoria, à custa de toda a restante população.",
+              "img_path": "image45.jpg"
+            },
+            "Virtual4": {
+              "title": "Quem paga o preço desta crise são sempre os mesmos",
+              "quote": "Concordo totalmente, os profissionais jovens, os professores, os enfermeiros, as famílias de rendimento médio — pessoas sem quem as cidades não funcionam — estão a ser expulsos dos centros urbanos para periferias cada vez mais distantes. Esta segregação espacial tem custos sociais e económicos que o Estado acabará por suportar de qualquer maneira, mais tarde e com mais dificuldade.",
+              "img_path": "image46.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "O congelamento de rendas reduz a oferta e agrava o problema que pretende resolver",
+              "quote": "Discordo totalmente, quando o Estado impõe um teto às rendas, os proprietários têm dois incentivos: retirar o imóvel do mercado de arrendamento e não investir em manutenção. Em Berlim, a lei de congelamento de rendas aprovada em 2020 foi declarada inconstitucional em 2021, mas enquanto vigorou, a oferta de arrendamento no mercado livre caiu a pique e os preços dos imóveis para venda dispararam.",
+              "img_path": "image47.jpg"
+            },
+            "Virtual2": {
+              "title": "O problema central não é a regulação, é a falta de oferta",
+              "quote": "Discordo totalmente, Portugal tem uma das taxas de construção nova mais baixas da Europa Ocidental. Enquanto não se construir muito mais — e mais depressa —, qualquer medida de controlo de preços será um penso rápido numa ferida que precisa de sutura. O foco deveria estar em desburocratizar o licenciamento, libertar solos e criar incentivos reais à construção acessível.",
+              "img_path": "image48.jpg"
+            },
+            "Virtual3": {
+              "title": "O mercado livre, sem regulação, favorece a especulação sobre o uso real",
+              "quote": "Concordo totalmente, uma proporção significativa dos imóveis em Lisboa está nas mãos de fundos de investimento que os mantêm vazios ou exclusivamente para arrendamento turístico de curto prazo. Isto não é mercado a funcionar bem — é mercado a funcionar para uma minoria, à custa de toda a restante população.",
+              "img_path": "image45.jpg"
+            },
+            "Virtual4": {
+              "title": "Quem paga o preço desta crise são sempre os mesmos",
+              "quote": "Concordo totalmente, os profissionais jovens, os professores, os enfermeiros, as famílias de rendimento médio — pessoas sem quem as cidades não funcionam — estão a ser expulsos dos centros urbanos para periferias cada vez mais distantes. Esta segregação espacial tem custos sociais e económicos que o Estado acabará por suportar de qualquer maneira, mais tarde e com mais dificuldade.",
+              "img_path": "image46.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "O congelamento de rendas reduz a oferta e agrava o problema que pretende resolver",
+              "quote": "Discordo totalmente, quando o Estado impõe um teto às rendas, os proprietários têm dois incentivos: retirar o imóvel do mercado de arrendamento e não investir em manutenção. Em Berlim, a lei de congelamento de rendas aprovada em 2020 foi declarada inconstitucional em 2021, mas enquanto vigorou, a oferta de arrendamento no mercado livre caiu a pique e os preços dos imóveis para venda dispararam.",
+              "img_path": "image47.jpg"
+            },
+            "Virtual2": {
+              "title": "O problema central não é a regulação, é a falta de oferta",
+              "quote": "Discordo totalmente, Portugal tem uma das taxas de construção nova mais baixas da Europa Ocidental. Enquanto não se construir muito mais — e mais depressa —, qualquer medida de controlo de preços será um penso rápido numa ferida que precisa de sutura. O foco deveria estar em desburocratizar o licenciamento, libertar solos e criar incentivos reais à construção acessível.",
+              "img_path": "image48.jpg"
+            },
+            "Virtual3": {
+              "title": "O Estado português não tem um historial brilhante na gestão de habitação pública",
+              "quote": "Discordo totalmente, os bairros sociais construídos nas décadas de 80 e 90 tornaram-se, em muitos casos, bolsas de exclusão e degradação, com custos de manutenção que o Estado nunca conseguiu suportar adequadamente. Replicar esse modelo à grande escala sem uma mudança profunda na forma como é gerido seria repetir erros já conhecidos.",
+              "img_path": "image49.jpg"
+            },
+            "Virtual4": {
+              "title": "Regulação excessiva afasta o investimento privado que também é necessário",
+              "quote": "Discordo totalmente, construir habitação acessível exige capital, e o capital privado não entra em mercados onde as regras se podem mudar arbitrariamente. Um enquadramento regulatório instável ou punitivo pode resolver o problema a curto prazo criando um deserto de investimento a médio prazo — e aí o Estado terá de assumir sozinho uma fatura que não tem condições de pagar.",
+              "img_path": "image50.png"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "O congelamento de rendas reduz a oferta e agrava o problema que pretende resolver",
+              "quote": "Discordo totalmente, quando o Estado impõe um teto às rendas, os proprietários têm dois incentivos: retirar o imóvel do mercado de arrendamento e não investir em manutenção. Em Berlim, a lei de congelamento de rendas aprovada em 2020 foi declarada inconstitucional em 2021, mas enquanto vigorou, a oferta de arrendamento no mercado livre caiu a pique e os preços dos imóveis para venda dispararam.",
+              "img_path": "image47.jpg"
+            },
+            "Virtual2": {
+              "title": "O problema central não é a regulação, é a falta de oferta",
+              "quote": "Discordo totalmente, Portugal tem uma das taxas de construção nova mais baixas da Europa Ocidental. Enquanto não se construir muito mais — e mais depressa —, qualquer medida de controlo de preços será um penso rápido numa ferida que precisa de sutura. O foco deveria estar em desburocratizar o licenciamento, libertar solos e criar incentivos reais à construção acessível.",
+              "img_path": "image48.jpg"
+            },
+            "Virtual3": {
+              "title": "O mercado livre, sem regulação, favorece a especulação sobre o uso real",
+              "quote": "Concordo totalmente, uma proporção significativa dos imóveis em Lisboa está nas mãos de fundos de investimento que os mantêm vazios ou exclusivamente para arrendamento turístico de curto prazo. Isto não é mercado a funcionar bem — é mercado a funcionar para uma minoria, à custa de toda a restante população.",
+              "img_path": "image45.jpg"
+            },
+            "Virtual4": {
+              "title": "Quem paga o preço desta crise são sempre os mesmos",
+              "quote": "Concordo totalmente, os profissionais jovens, os professores, os enfermeiros, as famílias de rendimento médio — pessoas sem quem as cidades não funcionam — estão a ser expulsos dos centros urbanos para periferias cada vez mais distantes. Esta segregação espacial tem custos sociais e económicos que o Estado acabará por suportar de qualquer maneira, mais tarde e com mais dificuldade.",
+              "img_path": "image46.jpg"
+            }
+          }
+        }
+      },
+      "4": {
+        "statement": "A ameaça militar russa à Europa é séria e não pode ser ignorada. Portugal deve aumentar significativamente os seus gastos de defesa e assumir um papel mais ativo na segurança coletiva europeia.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "A invasão da Ucrânia em 2022 foi um choque de realidade que não admite relativizações",
+              "quote": "Concordo totalmente, pela primeira vez desde a Segunda Guerra Mundial, um país europeu soberano foi invadido por outro Estado, com recurso a tanques, mísseis e ocupação territorial. Quem, antes de fevereiro de 2022, dizia que isto era impossível na Europa do século XXI ficou sem argumentos. A ameaça deixou de ser hipotética.",
+              "img_path": "image51.jpg"
+            },
+            "Virtual2": {
+              "title": "Portugal gasta apenas cerca de 1,6% do PIB em defesa, abaixo do compromisso de 2% acordado na NATO",
+              "quote": "Concordo totalmente, isto não é apenas uma questão de cumprir promessas formais — é uma questão de equidade. Países como a Polónia, a Estónia e os Estados Bálticos estão a gastar 3% ou mais do PIB. Que Portugal, à distância, contribua menos do que o mínimo acordado é uma posição difícil de defender em termos de solidariedade aliada.",
+              "img_path": "image52.jpg"
+            },
+            "Virtual3": {
+              "title": "A dissuasão coletiva funciona precisamente porque é coletiva",
+              "quote": "Concordo totalmente, a NATO manteve a paz entre os seus membros durante mais de 70 anos, em parte porque qualquer agressor sabe que um ataque a um é um ataque a todos. Esta garantia só é credível se todos os membros contribuírem de forma real. Portugal a subcontribuir enfraquece a dissuasão para todos — incluindo para si próprio.",
+              "img_path": "image53.jpg"
+            },
+            "Virtual4": {
+              "title": "O investimento em defesa tem retorno económico e tecnológico",
+              "quote": "Concordo totalmente, a indústria de defesa é um dos principais motores de inovação tecnológica — a internet, o GPS, os drones civis, os materiais avançados, todos têm raízes em programas militares. Um Portugal mais ativo na defesa europeia pode atrair investimento em setores de alto valor, desenvolver capacidades industriais e criar emprego qualificado.",
+              "img_path": "image54.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "Portugal está geograficamente no extremo ocidental da Europa",
+              "quote": "Discordo totalmente, a fronteira com a Rússia mais próxima fica a mais de três mil quilómetros. A ameaça direta ao território nacional é, objetivamente, muito baixa. Aumentar drasticamente os gastos militares para fazer face a uma ameaça que não é imediata, num país com défices sérios em saúde, habitação e educação, implica escolhas que a população tem todo o direito de questionar.",
+              "img_path": "image55.png"
+            },
+            "Virtual2": {
+              "title": "O dinheiro gasto em armas é dinheiro que não vai para causas mais urgentes",
+              "quote": "Discordo totalmente, Portugal tem listas de espera no SNS que matam, tem escolas a degradar-se, tem uma crise habitacional que expulsa os jovens das cidades. Cada euro adicional em defesa é um euro que não vai para um bloco operatório, para um professor ou para um programa de habitação pública. Este trade-off não desaparece só porque a geopolítica está mais tensa.",
+              "img_path": "image56.jpg"
+            },
+            "Virtual3": {
+              "title": "A dissuasão coletiva funciona precisamente porque é coletiva",
+              "quote": "Concordo totalmente, a NATO manteve a paz entre os seus membros durante mais de 70 anos, em parte porque qualquer agressor sabe que um ataque a um é um ataque a todos. Esta garantia só é credível se todos os membros contribuírem de forma real. Portugal a subcontribuir enfraquece a dissuasão para todos — incluindo para si próprio.",
+              "img_path": "image53.jpg"
+            },
+            "Virtual4": {
+              "title": "O investimento em defesa tem retorno económico e tecnológico",
+              "quote": "Concordo totalmente, a indústria de defesa é um dos principais motores de inovação tecnológica — a internet, o GPS, os drones civis, os materiais avançados, todos têm raízes em programas militares. Um Portugal mais ativo na defesa europeia pode atrair investimento em setores de alto valor, desenvolver capacidades industriais e criar emprego qualificado.",
+              "img_path": "image54.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "Portugal está geograficamente no extremo ocidental da Europa",
+              "quote": "Discordo totalmente, a fronteira com a Rússia mais próxima fica a mais de três mil quilómetros. A ameaça direta ao território nacional é, objetivamente, muito baixa. Aumentar drasticamente os gastos militares para fazer face a uma ameaça que não é imediata, num país com défices sérios em saúde, habitação e educação, implica escolhas que a população tem todo o direito de questionar.",
+              "img_path": "image55.png"
+            },
+            "Virtual2": {
+              "title": "O dinheiro gasto em armas é dinheiro que não vai para causas mais urgentes",
+              "quote": "Discordo totalmente, Portugal tem listas de espera no SNS que matam, tem escolas a degradar-se, tem uma crise habitacional que expulsa os jovens das cidades. Cada euro adicional em defesa é um euro que não vai para um bloco operatório, para um professor ou para um programa de habitação pública. Este trade-off não desaparece só porque a geopolítica está mais tensa.",
+              "img_path": "image56.jpg"
+            },
+            "Virtual3": {
+              "title": "Mais armas na Europa não é necessariamente a resposta certa",
+              "quote": "Discordo totalmente, a escalada militar tem a sua própria lógica: quanto mais a NATO investe, mais a Rússia sente justificação para investir também, e vice-versa. Esta espiral pode aumentar o risco de conflito, não diminuí-lo. A história mostra que as corridas ao armamento raramente terminam bem — e que a diplomacia, por mais frustrante que seja, é a única saída sustentável.",
+              "img_path": "image57.jpg"
+            },
+            "Virtual4": {
+              "title": "Uma estratégia de segurança europeia que ignore a diplomacia é incompleta",
+              "quote": "Discordo totalmente, durante décadas, os países europeus construíram relações de interdependência com a Rússia que não se desfazem por decreto. Apostar apenas no rearmamento pode ter efeitos desestabilizadores que ultrapassam largamente os benefícios da dissuasão. A segurança duradoura exige instrumentos políticos, económicos e diplomáticos, não apenas militares.",
+              "img_path": "image58.jpeg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "Portugal está geograficamente no extremo ocidental da Europa",
+              "quote": "Discordo totalmente, a fronteira com a Rússia mais próxima fica a mais de três mil quilómetros. A ameaça direta ao território nacional é, objetivamente, muito baixa. Aumentar drasticamente os gastos militares para fazer face a uma ameaça que não é imediata, num país com défices sérios em saúde, habitação e educação, implica escolhas que a população tem todo o direito de questionar.",
+              "img_path": "image55.png"
+            },
+            "Virtual2": {
+              "title": "O dinheiro gasto em armas é dinheiro que não vai para causas mais urgentes",
+              "quote": "Discordo totalmente, Portugal tem listas de espera no SNS que matam, tem escolas a degradar-se, tem uma crise habitacional que expulsa os jovens das cidades. Cada euro adicional em defesa é um euro que não vai para um bloco operatório, para um professor ou para um programa de habitação pública. Este trade-off não desaparece só porque a geopolítica está mais tensa.",
+              "img_path": "image56.jpg"
+            },
+            "Virtual3": {
+              "title": "A dissuasão coletiva funciona precisamente porque é coletiva",
+              "quote": "Concordo totalmente, a NATO manteve a paz entre os seus membros durante mais de 70 anos, em parte porque qualquer agressor sabe que um ataque a um é um ataque a todos. Esta garantia só é credível se todos os membros contribuírem de forma real. Portugal a subcontribuir enfraquece a dissuasão para todos — incluindo para si próprio.",
+              "img_path": "image53.jpg"
+            },
+            "Virtual4": {
+              "title": "O investimento em defesa tem retorno económico e tecnológico",
+              "quote": "Concordo totalmente, a indústria de defesa é um dos principais motores de inovação tecnológica — a internet, o GPS, os drones civis, os materiais avançados, todos têm raízes em programas militares. Um Portugal mais ativo na defesa europeia pode atrair investimento em setores de alto valor, desenvolver capacidades industriais e criar emprego qualificado.",
+              "img_path": "image54.jpg"
+            }
+          }
+        }
+      },
+      "5": {
+        "statement": "O Estado não tem competência nem vocação para gerir uma companhia aérea. A TAP deve ser totalmente privatizada, sem condicionalismos, para que possa competir num mercado global exigente.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "O Estado já gastou mais de 3,2 mil milhões de euros a salvar a TAP",
+              "quote": "Concordo totalmente, este dinheiro saiu dos impostos dos portugueses para manter em vida uma empresa que, estruturalmente, nunca conseguiu ser rentável de forma sustentada. Numa altura em que o SNS falta médicos e o parque escolar se degrada, é legítimo perguntar: faz sentido o Estado ser acionista de uma companhia aérea?",
+              "img_path": "image59.jpg"
+            },
+            "Virtual2": {
+              "title": "A aviação é um setor ferozmente competitivo onde os privados têm vantagem estrutural",
+              "quote": "Concordo totalmente, a Ryanair, a EasyJet e a Wizz Air operam com eficiências de escala que uma companhia de bandeira, presa a uma estrutura sindical rígida e a objetivos políticos contraditórios, nunca consegue replicar. As companhias de bandeira europeias que sobrevivem bem — como a Lufthansa ou a IAG — são, cada vez mais, grupos privados diversificados, não empresas estatais.",
+              "img_path": "image60.jpg"
+            },
+            "Virtual3": {
+              "title": "A privatização liberta o Estado para fazer o que só o Estado pode fazer",
+              "quote": "Concordo totalmente, regular o mercado, garantir conectividade mínima, proteger os consumidores — estas são funções do Estado. Gerir aviões, negociar contratos de manutenção e competir em rotas transatlânticas não são. Há uma diferença fundamental entre garantir que o serviço existe e ser o prestador desse serviço.",
+              "img_path": "image61.jpg"
+            },
+            "Virtual4": {
+              "title": "Sem condicionalismos é a única forma de a privatização funcionar",
+              "quote": "Concordo totalmente, uma privatização com restrições excessivas — obrigação de manter rotas não rentáveis, limitações à estrutura acionista, tetos salariais — afasta os compradores sérios e atrai os oportunistas. O resultado tende a ser o pior dos dois mundos: nem o dinamismo do privado, nem a responsabilidade do público.",
+              "img_path": "image62.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "Portugal é um país periférico cuja conectividade depende de uma companhia forte",
+              "quote": "Discordo totalmente, Lisboa não é Frankfurt nem Paris — não tem o volume de passageiros que justifica, por si só, rotas transatlânticas ou para destinos menos óbvios. A TAP existe em parte para garantir que Portugal permanece conectado ao mundo de uma forma que o mercado puro não asseguraria. Uma privatização sem condições pode resultar no corte de rotas essenciais para a diáspora e para o turismo em regiões menos apetecíveis comercialmente.",
+              "img_path": "image63.jpg"
+            },
+            "Virtual2": {
+              "title": "O 'sem condicionalismos' é uma ficção no setor da aviação",
+              "quote": "Discordo totalmente, nenhum país que privatizou uma companhia de bandeira o fez sem algum tipo de salvaguarda — rotas estratégicas, direitos de slot em aeroportos congestionados, cláusulas de emprego. Fingir que é possível uma venda completamente livre ignora a realidade de um setor onde o Estado continua inevitavelmente envolvido, seja por questões de segurança, seja por pressão política em tempo de crise.",
+              "img_path": "image64.jpg"
+            },
+            "Virtual3": {
+              "title": "A privatização liberta o Estado para fazer o que só o Estado pode fazer",
+              "quote": "Concordo totalmente, regular o mercado, garantir conectividade mínima, proteger os consumidores — estas são funções do Estado. Gerir aviões, negociar contratos de manutenção e competir em rotas transatlânticas não são. Há uma diferença fundamental entre garantir que o serviço existe e ser o prestador desse serviço.",
+              "img_path": "image61.jpg"
+            },
+            "Virtual4": {
+              "title": "Sem condicionalismos é a única forma de a privatização funcionar",
+              "quote": "Concordo totalmente, uma privatização com restrições excessivas — obrigação de manter rotas não rentáveis, limitações à estrutura acionista, tetos salariais — afasta os compradores sérios e atrai os oportunistas. O resultado tende a ser o pior dos dois mundos: nem o dinamismo do privado, nem a responsabilidade do público.",
+              "img_path": "image62.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "Portugal é um país periférico cuja conectividade depende de uma companhia forte",
+              "quote": "Discordo totalmente, Lisboa não é Frankfurt nem Paris — não tem o volume de passageiros que justifica, por si só, rotas transatlânticas ou para destinos menos óbvios. A TAP existe em parte para garantir que Portugal permanece conectado ao mundo de uma forma que o mercado puro não asseguraria. Uma privatização sem condições pode resultar no corte de rotas essenciais para a diáspora e para o turismo em regiões menos apetecíveis comercialmente.",
+              "img_path": "image63.jpg"
+            },
+            "Virtual2": {
+              "title": "O 'sem condicionalismos' é uma ficção no setor da aviação",
+              "quote": "Discordo totalmente, nenhum país que privatizou uma companhia de bandeira o fez sem algum tipo de salvaguarda — rotas estratégicas, direitos de slot em aeroportos congestionados, cláusulas de emprego. Fingir que é possível uma venda completamente livre ignora a realidade de um setor onde o Estado continua inevitavelmente envolvido, seja por questões de segurança, seja por pressão política em tempo de crise.",
+              "img_path": "image64.jpg"
+            },
+            "Virtual3": {
+              "title": "A volatilidade do setor é um argumento contra, não a favor, da privatização total",
+              "quote": "Discordo totalmente, a aviação é um dos setores mais sensíveis a crises externas — pandemias, guerras, preços do petróleo, recessões económicas. Quando o privado não aguenta, quem paga a fatura é sempre o contribuinte. Já aconteceu em Portugal, já aconteceu em toda a Europa. Vender a empresa e depois ter de a resgatar novamente é o pior dos cenários — e é um cenário plausível.",
+              "img_path": "image65.jpg"
+            },
+            "Virtual4": {
+              "title": "A experiência das privatizações em Portugal não é um argumento de confiança",
+              "quote": "Discordo totalmente, a venda de empresas estratégicas portuguesas, de telecomunicações a energia, produziu resultados mistos: alguns ganhos de eficiência, mas também desinvestimento, deslocalização de centros de decisão e perda de influência do país em setores-chave. Privatizar a TAP sem condicionalismos num contexto de mercado global dominado por grandes grupos pode ser equivalente a vender por uma moeda o que valeria dez com uma negociação mais cuidada.",
+              "img_path": "image66.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "Portugal é um país periférico cuja conectividade depende de uma companhia forte",
+              "quote": "Discordo totalmente, Lisboa não é Frankfurt nem Paris — não tem o volume de passageiros que justifica, por si só, rotas transatlânticas ou para destinos menos óbvios. A TAP existe em parte para garantir que Portugal permanece conectado ao mundo de uma forma que o mercado puro não asseguraria. Uma privatização sem condições pode resultar no corte de rotas essenciais para a diáspora e para o turismo em regiões menos apetecíveis comercialmente.",
+              "img_path": "image63.jpg"
+            },
+            "Virtual2": {
+              "title": "O 'sem condicionalismos' é uma ficção no setor da aviação",
+              "quote": "Discordo totalmente, nenhum país que privatizou uma companhia de bandeira o fez sem algum tipo de salvaguarda — rotas estratégicas, direitos de slot em aeroportos congestionados, cláusulas de emprego. Fingir que é possível uma venda completamente livre ignora a realidade de um setor onde o Estado continua inevitavelmente envolvido, seja por questões de segurança, seja por pressão política em tempo de crise.",
+              "img_path": "image64.jpg"
+            },
+            "Virtual3": {
+              "title": "A privatização liberta o Estado para fazer o que só o Estado pode fazer",
+              "quote": "Concordo totalmente, regular o mercado, garantir conectividade mínima, proteger os consumidores — estas são funções do Estado. Gerir aviões, negociar contratos de manutenção e competir em rotas transatlânticas não são. Há uma diferença fundamental entre garantir que o serviço existe e ser o prestador desse serviço.",
+              "img_path": "image61.jpg"
+            },
+            "Virtual4": {
+              "title": "Sem condicionalismos é a única forma de a privatização funcionar",
+              "quote": "Concordo totalmente, uma privatização com restrições excessivas — obrigação de manter rotas não rentáveis, limitações à estrutura acionista, tetos salariais — afasta os compradores sérios e atrai os oportunistas. O resultado tende a ser o pior dos dois mundos: nem o dinamismo do privado, nem a responsabilidade do público.",
+              "img_path": "image62.jpg"
+            }
+          }
+        }
+      },
+      "6": {
+        "statement": "Portugal precisa de penas muito mais severas e de uma postura repressiva mais firme. Só assim será possível dissuadir os criminosos e devolver o sentimento de segurança à população.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "O sentimento de impunidade corrói a confiança nas instituições",
+              "quote": "Concordo totalmente, quando os cidadãos veem casos de crime, nomeadamente crimes violentos ou de colarinho branco, a serem resolvidos com penas suspensas ou prescrições, a mensagem que recebem é que o sistema não funciona. Esta perceção é tão prejudicial quanto a própria criminalidade — destrói o contrato social que sustenta a ideia de Estado de direito.",
+              "img_path": "image67.jpg"
+            },
+            "Virtual2": {
+              "title": "Penas mais longas mantêm os reincidentes afastados da sociedade",
+              "quote": "Concordo totalmente, uma parte desproporcionada dos crimes é cometida por um número relativamente pequeno de infratores habituais. Em Portugal, a taxa de reincidência no sistema prisional ronda os 50%. Enquanto estes indivíduos cumprem penas, não podem cometer novos crimes. Há um argumento simples, mas não trivial, na incapacitação como medida de proteção da sociedade.",
+              "img_path": "image68.jpg"
+            },
+            "Virtual3": {
+              "title": "A dissuasão existe e funciona, pelo menos para alguns tipos de crime",
+              "quote": "Concordo totalmente, o pressuposto de que as penas não dissuadem é exagerado. Para crimes premeditados — fraudes, crimes económicos, tráfico organizado —, a severidade esperada da punição entra claramente no cálculo do infrator. Sistemas com penalizações mais pesadas para crimes económicos tendem a ver redução nas taxas desse tipo de criminalidade.",
+              "img_path": "image69.jpg"
+            },
+            "Virtual4": {
+              "title": "A comparação internacional tem exemplos relevantes",
+              "quote": "Concordo totalmente, Singapura, com um sistema penal notoriamente severo, tem uma das taxas de criminalidade mais baixas do mundo. O Japão, com penas relativamente duras para crimes violentos, tem uma taxa de homicídios de 0,2 por 100.000 habitantes — dez vezes menos que a média europeia. Estas correlações não provam causalidade direta, mas também não podem ser simplesmente descartadas.",
+              "img_path": "image70.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "A investigação criminológica é clara: o que dissuade não é a severidade, é a certeza da punição",
+              "quote": "Discordo totalmente, um potencial criminoso que sabe que tem 90% de hipóteses de ser apanhado e punido levemente tende a recuar mais do que alguém que sabe que tem 10% de hipóteses de ser apanhado mas enfrenta uma pena pesada. O problema em Portugal não é que as penas sejam leves — é que os crimes muitas vezes não são resolvidos. Endurecer as penas sem aumentar a taxa de resolução criminal é mudar o que não é o problema.",
+              "img_path": "image71.jpg"
+            },
+            "Virtual2": {
+              "title": "Portugal tem uma das taxas de reincidência mais altas da Europa",
+              "quote": "Discordo totalmente, o sistema prisional atual não reabilita. Aumentar as penas sem reformar o que acontece dentro das prisões — formação profissional, apoio psicológico, preparação para a reinserção — é garantir que os reclusos saem mais tarde mas igualmente ou mais propensos a reincidir. O objetivo de um sistema penal eficaz não é punir mais; é ter menos crimes.",
+              "img_path": "image72.jpg"
+            },
+            "Virtual3": {
+              "title": "A dissuasão existe e funciona, pelo menos para alguns tipos de crime",
+              "quote": "Concordo totalmente, o pressuposto de que as penas não dissuadem é exagerado. Para crimes premeditados — fraudes, crimes económicos, tráfico organizado —, a severidade esperada da punição entra claramente no cálculo do infrator. Sistemas com penalizações mais pesadas para crimes económicos tendem a ver redução nas taxas desse tipo de criminalidade.",
+              "img_path": "image69.jpg"
+            },
+            "Virtual4": {
+              "title": "A comparação internacional tem exemplos relevantes",
+              "quote": "Concordo totalmente, Singapura, com um sistema penal notoriamente severo, tem uma das taxas de criminalidade mais baixas do mundo. O Japão, com penas relativamente duras para crimes violentos, tem uma taxa de homicídios de 0,2 por 100.000 habitantes — dez vezes menos que a média europeia. Estas correlações não provam causalidade direta, mas também não podem ser simplesmente descartadas.",
+              "img_path": "image70.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Virtual1": {
+              "title": "A investigação criminológica é clara: o que dissuade não é a severidade, é a certeza da punição",
+              "quote": "Discordo totalmente, um potencial criminoso que sabe que tem 90% de hipóteses de ser apanhado e punido levemente tende a recuar mais do que alguém que sabe que tem 10% de hipóteses de ser apanhado mas enfrenta uma pena pesada. O problema em Portugal não é que as penas sejam leves — é que os crimes muitas vezes não são resolvidos. Endurecer as penas sem aumentar a taxa de resolução criminal é mudar o que não é o problema.",
+              "img_path": "image71.jpg"
+            },
+            "Virtual2": {
+              "title": "Portugal tem uma das taxas de reincidência mais altas da Europa",
+              "quote": "Discordo totalmente, o sistema prisional atual não reabilita. Aumentar as penas sem reformar o que acontece dentro das prisões — formação profissional, apoio psicológico, preparação para a reinserção — é garantir que os reclusos saem mais tarde mas igualmente ou mais propensos a reincidir. O objetivo de um sistema penal eficaz não é punir mais; é ter menos crimes.",
+              "img_path": "image72.jpg"
+            },
+            "Virtual3": {
+              "title": "Os países com menor criminalidade não são necessariamente os mais punitivos",
+              "quote": "Discordo totalmente, os países nórdicos — Finlândia, Noruega, Dinamarca — têm sistemas prisionais focados na reabilitação, penas relativamente curtas e condições dignas de reclusão. A Noruega tem uma taxa de reincidência de 20%, metade da portuguesa. Prender melhor pode ser mais eficaz do que prender por mais tempo.",
+              "img_path": "image73.jpg"
+            },
+            "Virtual4": {
+              "title": "Penas excessivas geram injustiças que o sistema depois não consegue corrigir",
+              "quote": "Discordo totalmente, um sistema mais repressivo tende a punir desproporcionalmente quem tem menos recursos para se defender — quem não pode pagar bons advogados, quem vive em contextos de maior vulnerabilidade social. O endurecimento penal, na prática, acaba frequentemente por recair sobre os mais frágeis, enquanto a criminalidade de colarinho branco, com melhor acesso a defesa jurídica, continua a beneficiar de uma impunidade relativa.",
+              "img_path": "image74.jpg"
+            }
+          },
+          "half_disagree": {
+            "Virtual1": {
+              "title": "A investigação criminológica é clara: o que dissuade não é a severidade, é a certeza da punição",
+              "quote": "Discordo totalmente, um potencial criminoso que sabe que tem 90% de hipóteses de ser apanhado e punido levemente tende a recuar mais do que alguém que sabe que tem 10% de hipóteses de ser apanhado mas enfrenta uma pena pesada. O problema em Portugal não é que as penas sejam leves — é que os crimes muitas vezes não são resolvidos. Endurecer as penas sem aumentar a taxa de resolução criminal é mudar o que não é o problema.",
+              "img_path": "image71.jpg"
+            },
+            "Virtual2": {
+              "title": "Portugal tem uma das taxas de reincidência mais altas da Europa",
+              "quote": "Discordo totalmente, o sistema prisional atual não reabilita. Aumentar as penas sem reformar o que acontece dentro das prisões — formação profissional, apoio psicológico, preparação para a reinserção — é garantir que os reclusos saem mais tarde mas igualmente ou mais propensos a reincidir. O objetivo de um sistema penal eficaz não é punir mais; é ter menos crimes.",
+              "img_path": "image72.jpg"
+            },
+            "Virtual3": {
+              "title": "A dissuasão existe e funciona, pelo menos para alguns tipos de crime",
+              "quote": "Concordo totalmente, o pressuposto de que as penas não dissuadem é exagerado. Para crimes premeditados — fraudes, crimes económicos, tráfico organizado —, a severidade esperada da punição entra claramente no cálculo do infrator. Sistemas com penalizações mais pesadas para crimes económicos tendem a ver redução nas taxas desse tipo de criminalidade.",
+              "img_path": "image69.jpg"
+            },
+            "Virtual4": {
+              "title": "A comparação internacional tem exemplos relevantes",
+              "quote": "Concordo totalmente, Singapura, com um sistema penal notoriamente severo, tem uma das taxas de criminalidade mais baixas do mundo. O Japão, com penas relativamente duras para crimes violentos, tem uma taxa de homicídios de 0,2 por 100.000 habitantes — dez vezes menos que a média europeia. Estas correlações não provam causalidade direta, mas também não podem ser simplesmente descartadas.",
+              "img_path": "image70.jpg"
+            }
+          }
+        }
+      }
+    },
+    "robots": {
+      "1": {
+        "statement": "Portugal deve reduzir drasticamente a imigração, colocando em primeiro lugar a segurança nacional e a proteção dos empregos e dos recursos dos cidadãos portugueses.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio13.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my13",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio13.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my13",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio14.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my14",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio13.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my13",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio14.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my14",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio14.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my14",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio14.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my14",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio13.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my13",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        }
+      },
+      "2": {
+        "statement": "Em Portugal, o sucesso depende sobretudo da origem social e das redes de contactos. A crença de que o mérito por si só chega não passa de um mito que encobre as profundas desigualdades estruturais do país.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio15.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my15",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio15.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my15",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio16.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my16",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio15.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my15",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio16.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my16",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio16.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my16",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio16.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my16",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio15.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my15",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        }
+      },
+      "3": {
+        "statement": "O Estado deve regular ativamente o mercado imobiliário para assegurar que ter onde viver é um direito e não um privilégio.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio17.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my17",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio17.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my17",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio18.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my18",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio17.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my17",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio18.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my18",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio18.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my18",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio18.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my18",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio17.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my17",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        }
+      },
+      "4": {
+        "statement": "A ameaça militar russa à Europa é séria e não pode ser ignorada. Portugal deve aumentar significativamente os seus gastos de defesa e assumir um papel mais ativo na segurança coletiva europeia.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio19.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my19",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio19.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my19",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio20.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my20",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio19.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my19",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio20.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my20",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio20.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my20",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio20.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my20",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio19.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my19",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        }
+      },
+      "5": {
+        "statement": "O Estado não tem competência nem vocação para gerir uma companhia aérea. A TAP deve ser totalmente privatizada, sem condicionalismos, para que possa competir num mercado global exigente.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio21.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my21",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio21.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my21",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio22.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my22",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio21.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my21",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio22.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my22",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio22.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my22",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio22.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my22",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio21.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my21",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        }
+      },
+      "6": {
+        "statement": "Portugal precisa de penas muito mais severas e de uma postura repressiva mais firme. Só assim será possível dissuadir os criminosos e devolver o sentimento de segurança à população.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio23.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my23",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio23.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my23",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio24.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my24",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio23.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my23",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio24.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my24",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio24.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my24",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            }
+          },
+          "half_disagree": {
+            "Robot1": {
+              "type": "reachy",
+              "audio_path": "audio24.wav",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot7": {
+              "type": "dash",
+              "audio_path": "my24",
+              "vote": 1,
+              "vote_label": "Discordo totalmente"
+            },
+            "Robot2": {
+              "type": "reachy",
+              "audio_path": "audio23.wav",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            },
+            "Robot8": {
+              "type": "dash",
+              "audio_path": "my23",
+              "vote": 6,
+              "vote_label": "Concordo totalmente"
+            }
+          }
+        }
+      }
+    },
+    "articles": {
+      "1": {
+        "statement": "Portugal deve reduzir drasticamente a imigração, colocando em primeiro lugar a segurança nacional e a proteção dos empregos e dos recursos dos cidadãos portugueses.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "Os serviços públicos já estão no limite",
+              "quote": "Concordo totalmente, o Serviço Nacional de Saúde tem hoje mais de 1,5 milhões de utentes sem médico de família atribuído. A escola pública debate-se com a falta de professores. Num contexto em que o Estado já não consegue servir adequadamente quem cá vive, receber um número crescente de novos residentes sem capacidade de resposta não é generosidade — é irresponsabilidade.",
+              "img_path": "image27.jpg"
+            },
+            "Article2": {
+              "title": "A pressão sobre os trabalhadores mais vulneráveis é real",
+              "quote": "Concordo totalmente, a imigração massiva e pouco regulada tende a concentrar-se nos setores de trabalho menos qualificado — construção, restauração, agricultura —, criando uma concorrência direta com os portugueses de menores rendimentos. Não é xenofobia reconhecer que, quando a oferta de trabalho aumenta muito rapidamente num dado setor, os salários descem e as condições de trabalho pioram para todos.",
+              "img_path": "image28.jpg"
+            },
+            "Article3": {
+              "title": "Integração mal feita gera problemas a longo prazo",
+              "quote": "Concordo totalmente, países que apostaram em políticas de portas abertas sem investir seriamente em integração — língua, habitação, reconhecimento de qualificações — criaram bolsas de exclusão social. Em França, os subúrbios com maior concentração de imigração apresentam taxas de desemprego juvenil que chegam aos 40%. A intenção de acolher não chega; sem estratégia, cria-se um problema onde antes havia uma solução.",
+              "img_path": "image29.jpg"
+            },
+            "Article4": {
+              "title": "Controlo de fronteiras é uma função legítima do Estado",
+              "quote": "Concordo totalmente, nenhum país do mundo tem fronteiras completamente abertas. Definir quem entra, em que condições e com que propósito é um exercício normal de soberania. Não regular esse fluxo não é progressista — é uma falha de governação que, historicamente, alimenta reações políticas de sentido contrário, muito mais radicais e exclusivistas.",
+              "img_path": "image30.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "Portugal está a envelhecer e nenhuma política natalista consegue travá-lo",
+              "quote": "Discordo totalmente, o país tem hoje cerca de 2,5 ativos por reformado; em 2050, essa proporção pode chegar a 1,5 para 1. Sem imigração, o sistema de segurança social colapsa não por falta de vontade política, mas por falta de gente a pagar descontos. Fechar a porta à imigração, neste contexto, é cortar o oxigénio a um doente que já tem dificuldade em respirar.",
+              "img_path": "image31.jpg"
+            },
+            "Article2": {
+              "title": "Criminalidade e imigração não têm a relação causal que muitos assumem",
+              "quote": "Discordo totalmente, os dados disponíveis não sustentam uma relação causal entre imigração e aumento da criminalidade. A perceção de insegurança é frequentemente alimentada por narrativas políticas e mediáticas que distorcem a realidade estatística. Atribuir problemas de segurança à imigração sem evidência sólida é um atalho argumentativo que prejudica o debate sério.",
+              "img_path": "image32.jpg"
+            },
+            "Article3": {
+              "title": "Integração mal feita gera problemas a longo prazo",
+              "quote": "Concordo totalmente, países que apostaram em políticas de portas abertas sem investir seriamente em integração — língua, habitação, reconhecimento de qualificações — criaram bolsas de exclusão social. Em França, os subúrbios com maior concentração de imigração apresentam taxas de desemprego juvenil que chegam aos 40%. A intenção de acolher não chega; sem estratégia, cria-se um problema onde antes havia uma solução.",
+              "img_path": "image29.jpg"
+            },
+            "Article4": {
+              "title": "Controlo de fronteiras é uma função legítima do Estado",
+              "quote": "Concordo totalmente, nenhum país do mundo tem fronteiras completamente abertas. Definir quem entra, em que condições e com que propósito é um exercício normal de soberania. Não regular esse fluxo não é progressista — é uma falha de governação que, historicamente, alimenta reações políticas de sentido contrário, muito mais radicais e exclusivistas.",
+              "img_path": "image30.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "Portugal está a envelhecer e nenhuma política natalista consegue travá-lo",
+              "quote": "Discordo totalmente, o país tem hoje cerca de 2,5 ativos por reformado; em 2050, essa proporção pode chegar a 1,5 para 1. Sem imigração, o sistema de segurança social colapsa não por falta de vontade política, mas por falta de gente a pagar descontos. Fechar a porta à imigração, neste contexto, é cortar o oxigénio a um doente que já tem dificuldade em respirar.",
+              "img_path": "image31.jpg"
+            },
+            "Article2": {
+              "title": "Criminalidade e imigração não têm a relação causal que muitos assumem",
+              "quote": "Discordo totalmente, os dados disponíveis não sustentam uma relação causal entre imigração e aumento da criminalidade. A perceção de insegurança é frequentemente alimentada por narrativas políticas e mediáticas que distorcem a realidade estatística. Atribuir problemas de segurança à imigração sem evidência sólida é um atalho argumentativo que prejudica o debate sério.",
+              "img_path": "image32.jpg"
+            },
+            "Article3": {
+              "title": "A economia portuguesa depende estruturalmente dos imigrantes",
+              "quote": "Discordo totalmente, setores como a construção, a hotelaria, os cuidados a idosos e a agricultura funcionam, em parte significativa, graças a trabalhadores imigrantes. Reduzir drasticamente estes fluxos não vai criar empregos para os portugueses — vai criar escassez de mão-de-obra e aumentar os preços ao consumidor final.",
+              "img_path": "image33.jpg"
+            },
+            "Article4": {
+              "title": "Portugal foi durante séculos um país de emigrantes",
+              "quote": "Discordo totalmente, há hoje mais de dois milhões de portugueses a viver no estrangeiro. A ideia de que a imigração é um problema e a emigração é uma liberdade individual revela uma contradição que vale a pena reconhecer: exigimos dos outros países que acolham os nossos, mas recusamos estender o mesmo à escala doméstica.",
+              "img_path": "image34.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "Portugal está a envelhecer e nenhuma política natalista consegue travá-lo",
+              "quote": "Discordo totalmente, o país tem hoje cerca de 2,5 ativos por reformado; em 2050, essa proporção pode chegar a 1,5 para 1. Sem imigração, o sistema de segurança social colapsa não por falta de vontade política, mas por falta de gente a pagar descontos. Fechar a porta à imigração, neste contexto, é cortar o oxigénio a um doente que já tem dificuldade em respirar.",
+              "img_path": "image31.jpg"
+            },
+            "Article2": {
+              "title": "Criminalidade e imigração não têm a relação causal que muitos assumem",
+              "quote": "Discordo totalmente, os dados disponíveis não sustentam uma relação causal entre imigração e aumento da criminalidade. A perceção de insegurança é frequentemente alimentada por narrativas políticas e mediáticas que distorcem a realidade estatística. Atribuir problemas de segurança à imigração sem evidência sólida é um atalho argumentativo que prejudica o debate sério.",
+              "img_path": "image32.jpg"
+            },
+            "Article3": {
+              "title": "Integração mal feita gera problemas a longo prazo",
+              "quote": "Concordo totalmente, países que apostaram em políticas de portas abertas sem investir seriamente em integração — língua, habitação, reconhecimento de qualificações — criaram bolsas de exclusão social. Em França, os subúrbios com maior concentração de imigração apresentam taxas de desemprego juvenil que chegam aos 40%. A intenção de acolher não chega; sem estratégia, cria-se um problema onde antes havia uma solução.",
+              "img_path": "image29.jpg"
+            },
+            "Article4": {
+              "title": "Controlo de fronteiras é uma função legítima do Estado",
+              "quote": "Concordo totalmente, nenhum país do mundo tem fronteiras completamente abertas. Definir quem entra, em que condições e com que propósito é um exercício normal de soberania. Não regular esse fluxo não é progressista — é uma falha de governação que, historicamente, alimenta reações políticas de sentido contrário, muito mais radicais e exclusivistas.",
+              "img_path": "image30.jpg"
+            }
+          }
+        }
+      },
+      "2": {
+        "statement": "Em Portugal, o sucesso depende sobretudo da origem social e das redes de contactos. A crença de que o mérito por si só chega não passa de um mito que encobre as profundas desigualdades estruturais do país.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "Os números sobre mobilidade social não deixam dúvidas",
+              "quote": "Concordo totalmente, a OCDE classifica Portugal como um dos países europeus com menor mobilidade intergeracional. Em média, um jovem português nascido numa família de baixos rendimentos demora cerca de cinco gerações a atingir um rendimento médio — nos países nórdicos, são duas. Isto não é uma impressão subjetiva; é uma medida objetiva de quanto o berço pesa no destino.",
+              "img_path": "image35.jpg"
+            },
+            "Article2": {
+              "title": "O acesso à educação de qualidade ainda depende demasiado do código postal",
+              "quote": "Concordo totalmente, um aluno de uma escola pública num bairro periférico de Lisboa ou do interior não tem as mesmas oportunidades que um aluno de um colégio privado no centro da cidade. As explicações, as redes de estágio, os contactos com universidades de prestígio — tudo isto está distribuído de forma profundamente desigual. O mérito até pode existir, mas raramente é reconhecido em igualdade de condições.",
+              "img_path": "image36.png"
+            },
+            "Article3": {
+              "title": "O mercado de trabalho português é marcado pelo nepotismo e pelo 'quem conheces'",
+              "quote": "Concordo totalmente, não faltam estudos e inquéritos a confirmá-lo: uma fatia significativa dos postos de trabalho — sobretudo os mais bem remunerados — é preenchida por via de contactos pessoais, familiares ou políticos. O concurso público existe no papel; na prática, a vaga muitas vezes já tem nome antes de ser aberta.",
+              "img_path": "image37.jpg"
+            },
+            "Article4": {
+              "title": "A concentração de riqueza em Portugal é das mais acentuadas da Europa",
+              "quote": "Concordo totalmente, o coeficiente de Gini coloca Portugal consistentemente no grupo dos países da UE com maior desigualdade de rendimentos. Quando 10% da população detém mais de metade da riqueza nacional, falar de mérito como motor igualitário de sucesso é, no mínimo, ingénuo.",
+              "img_path": "image38.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "O determinismo estrutural, levado ao extremo, paralisa",
+              "quote": "Discordo totalmente, se a mensagem que passa é 'a tua origem determina o teu destino e não há muito que possas fazer', cria-se uma mentalidade de vitimização que pode ser tão nociva quanto a desigualdade que pretende denunciar. As estruturas importam, mas a agência individual também — e ignorar este segundo fator empobrece a análise.",
+              "img_path": "image39.png"
+            },
+            "Article2": {
+              "title": "A expansão do ensino superior em Portugal nas últimas décadas é uma história de mobilidade real",
+              "quote": "Discordo totalmente, em 1980, menos de 5% dos portugueses tinham curso superior. Hoje, esse número ultrapassa os 35%. Muitos destes diplomados são filhos de famílias sem tradição académica, que acederam a empregos e rendimentos que os seus pais nunca tiveram. O sistema tem falhas profundas, mas não é completamente impermeável ao esforço e ao talento.",
+              "img_path": "image40.jpg"
+            },
+            "Article3": {
+              "title": "O mercado de trabalho português é marcado pelo nepotismo e pelo 'quem conheces'",
+              "quote": "Concordo totalmente, não faltam estudos e inquéritos a confirmá-lo: uma fatia significativa dos postos de trabalho — sobretudo os mais bem remunerados — é preenchida por via de contactos pessoais, familiares ou políticos. O concurso público existe no papel; na prática, a vaga muitas vezes já tem nome antes de ser aberta.",
+              "img_path": "image37.jpg"
+            },
+            "Article4": {
+              "title": "A concentração de riqueza em Portugal é das mais acentuadas da Europa",
+              "quote": "Concordo totalmente, o coeficiente de Gini coloca Portugal consistentemente no grupo dos países da UE com maior desigualdade de rendimentos. Quando 10% da população detém mais de metade da riqueza nacional, falar de mérito como motor igualitário de sucesso é, no mínimo, ingénuo.",
+              "img_path": "image38.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "O determinismo estrutural, levado ao extremo, paralisa",
+              "quote": "Discordo totalmente, se a mensagem que passa é 'a tua origem determina o teu destino e não há muito que possas fazer', cria-se uma mentalidade de vitimização que pode ser tão nociva quanto a desigualdade que pretende denunciar. As estruturas importam, mas a agência individual também — e ignorar este segundo fator empobrece a análise.",
+              "img_path": "image39.png"
+            },
+            "Article2": {
+              "title": "A expansão do ensino superior em Portugal nas últimas décadas é uma história de mobilidade real",
+              "quote": "Discordo totalmente, em 1980, menos de 5% dos portugueses tinham curso superior. Hoje, esse número ultrapassa os 35%. Muitos destes diplomados são filhos de famílias sem tradição académica, que acederam a empregos e rendimentos que os seus pais nunca tiveram. O sistema tem falhas profundas, mas não é completamente impermeável ao esforço e ao talento.",
+              "img_path": "image40.jpg"
+            },
+            "Article3": {
+              "title": "O argumento do mérito como 'mito' pode servir interesses instalados",
+              "quote": "Discordo totalmente, paradoxalmente, desacreditar completamente a ideia de que o esforço compensa pode beneficiar quem já tem posição garantida: se ninguém acredita que pode mudar de vida pelo trabalho, a pressão para reformar o sistema diminui, e as elites estabelecidas ficam mais protegidas. A crítica às desigualdades estruturais é legítima; declarar o mérito irrelevante é outra coisa.",
+              "img_path": "image41.jpg"
+            },
+            "Article4": {
+              "title": "Há exemplos concretos e numerosos de mobilidade ascendente em Portugal",
+              "quote": "Discordo totalmente, do desporto à cultura, do empreendedorismo à política, não é difícil encontrar percursos de vida que contradizem o fatalismo da afirmação. Isso não invalida as desigualdades estruturais, mas sugere que o quadro é mais complexo do que 'a origem social é tudo'.",
+              "img_path": "image42.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "O determinismo estrutural, levado ao extremo, paralisa",
+              "quote": "Discordo totalmente, se a mensagem que passa é 'a tua origem determina o teu destino e não há muito que possas fazer', cria-se uma mentalidade de vitimização que pode ser tão nociva quanto a desigualdade que pretende denunciar. As estruturas importam, mas a agência individual também — e ignorar este segundo fator empobrece a análise.",
+              "img_path": "image39.png"
+            },
+            "Article2": {
+              "title": "A expansão do ensino superior em Portugal nas últimas décadas é uma história de mobilidade real",
+              "quote": "Discordo totalmente, em 1980, menos de 5% dos portugueses tinham curso superior. Hoje, esse número ultrapassa os 35%. Muitos destes diplomados são filhos de famílias sem tradição académica, que acederam a empregos e rendimentos que os seus pais nunca tiveram. O sistema tem falhas profundas, mas não é completamente impermeável ao esforço e ao talento.",
+              "img_path": "image40.jpg"
+            },
+            "Article3": {
+              "title": "O mercado de trabalho português é marcado pelo nepotismo e pelo 'quem conheces'",
+              "quote": "Concordo totalmente, não faltam estudos e inquéritos a confirmá-lo: uma fatia significativa dos postos de trabalho — sobretudo os mais bem remunerados — é preenchida por via de contactos pessoais, familiares ou políticos. O concurso público existe no papel; na prática, a vaga muitas vezes já tem nome antes de ser aberta.",
+              "img_path": "image37.jpg"
+            },
+            "Article4": {
+              "title": "A concentração de riqueza em Portugal é das mais acentuadas da Europa",
+              "quote": "Concordo totalmente, o coeficiente de Gini coloca Portugal consistentemente no grupo dos países da UE com maior desigualdade de rendimentos. Quando 10% da população detém mais de metade da riqueza nacional, falar de mérito como motor igualitário de sucesso é, no mínimo, ingénuo.",
+              "img_path": "image38.jpg"
+            }
+          }
+        }
+      },
+      "3": {
+        "statement": "O Estado deve regular ativamente o mercado imobiliário para assegurar que ter onde viver é um direito e não um privilégio.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "A habitação é um direito consagrado na Constituição portuguesa — e está a ser violado a olhos vistos",
+              "quote": "Concordo totalmente, em Lisboa, o preço mediano de compra por metro quadrado ultrapassou os 4.500 euros. Um agregado com dois salários medianos (cerca de 1.400 euros líquidos cada) precisa de mais de 30 anos de rendimento bruto para comprar um T2. Quando os preços atingem este nível de desconexão dos salários reais, o mercado deixou de funcionar para a maioria das pessoas.",
+              "img_path": "image43.jpg"
+            },
+            "Article2": {
+              "title": "A experiência europeia mostra que habitação pública robusta funciona",
+              "quote": "Concordo totalmente, Viena tem mais de 60% dos seus residentes em habitação de custos controlados — e é consistentemente classificada como uma das cidades com melhor qualidade de vida do mundo. Em Singapura, o Estado providencia habitação a mais de 80% da população. Estes exemplos contradizem a ideia de que a intervenção pública é necessariamente ineficiente.",
+              "img_path": "image44.jpg"
+            },
+            "Article3": {
+              "title": "O mercado livre, sem regulação, favorece a especulação sobre o uso real",
+              "quote": "Concordo totalmente, uma proporção significativa dos imóveis em Lisboa está nas mãos de fundos de investimento que os mantêm vazios ou exclusivamente para arrendamento turístico de curto prazo. Isto não é mercado a funcionar bem — é mercado a funcionar para uma minoria, à custa de toda a restante população.",
+              "img_path": "image45.jpg"
+            },
+            "Article4": {
+              "title": "Quem paga o preço desta crise são sempre os mesmos",
+              "quote": "Concordo totalmente, os profissionais jovens, os professores, os enfermeiros, as famílias de rendimento médio — pessoas sem quem as cidades não funcionam — estão a ser expulsos dos centros urbanos para periferias cada vez mais distantes. Esta segregação espacial tem custos sociais e económicos que o Estado acabará por suportar de qualquer maneira, mais tarde e com mais dificuldade.",
+              "img_path": "image46.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "O congelamento de rendas reduz a oferta e agrava o problema que pretende resolver",
+              "quote": "Discordo totalmente, quando o Estado impõe um teto às rendas, os proprietários têm dois incentivos: retirar o imóvel do mercado de arrendamento e não investir em manutenção. Em Berlim, a lei de congelamento de rendas aprovada em 2020 foi declarada inconstitucional em 2021, mas enquanto vigorou, a oferta de arrendamento no mercado livre caiu a pique e os preços dos imóveis para venda dispararam.",
+              "img_path": "image47.jpg"
+            },
+            "Article2": {
+              "title": "O problema central não é a regulação, é a falta de oferta",
+              "quote": "Discordo totalmente, Portugal tem uma das taxas de construção nova mais baixas da Europa Ocidental. Enquanto não se construir muito mais — e mais depressa —, qualquer medida de controlo de preços será um penso rápido numa ferida que precisa de sutura. O foco deveria estar em desburocratizar o licenciamento, libertar solos e criar incentivos reais à construção acessível.",
+              "img_path": "image48.jpg"
+            },
+            "Article3": {
+              "title": "O mercado livre, sem regulação, favorece a especulação sobre o uso real",
+              "quote": "Concordo totalmente, uma proporção significativa dos imóveis em Lisboa está nas mãos de fundos de investimento que os mantêm vazios ou exclusivamente para arrendamento turístico de curto prazo. Isto não é mercado a funcionar bem — é mercado a funcionar para uma minoria, à custa de toda a restante população.",
+              "img_path": "image45.jpg"
+            },
+            "Article4": {
+              "title": "Quem paga o preço desta crise são sempre os mesmos",
+              "quote": "Concordo totalmente, os profissionais jovens, os professores, os enfermeiros, as famílias de rendimento médio — pessoas sem quem as cidades não funcionam — estão a ser expulsos dos centros urbanos para periferias cada vez mais distantes. Esta segregação espacial tem custos sociais e económicos que o Estado acabará por suportar de qualquer maneira, mais tarde e com mais dificuldade.",
+              "img_path": "image46.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "O congelamento de rendas reduz a oferta e agrava o problema que pretende resolver",
+              "quote": "Discordo totalmente, quando o Estado impõe um teto às rendas, os proprietários têm dois incentivos: retirar o imóvel do mercado de arrendamento e não investir em manutenção. Em Berlim, a lei de congelamento de rendas aprovada em 2020 foi declarada inconstitucional em 2021, mas enquanto vigorou, a oferta de arrendamento no mercado livre caiu a pique e os preços dos imóveis para venda dispararam.",
+              "img_path": "image47.jpg"
+            },
+            "Article2": {
+              "title": "O problema central não é a regulação, é a falta de oferta",
+              "quote": "Discordo totalmente, Portugal tem uma das taxas de construção nova mais baixas da Europa Ocidental. Enquanto não se construir muito mais — e mais depressa —, qualquer medida de controlo de preços será um penso rápido numa ferida que precisa de sutura. O foco deveria estar em desburocratizar o licenciamento, libertar solos e criar incentivos reais à construção acessível.",
+              "img_path": "image48.jpg"
+            },
+            "Article3": {
+              "title": "O Estado português não tem um historial brilhante na gestão de habitação pública",
+              "quote": "Discordo totalmente, os bairros sociais construídos nas décadas de 80 e 90 tornaram-se, em muitos casos, bolsas de exclusão e degradação, com custos de manutenção que o Estado nunca conseguiu suportar adequadamente. Replicar esse modelo à grande escala sem uma mudança profunda na forma como é gerido seria repetir erros já conhecidos.",
+              "img_path": "image49.jpg"
+            },
+            "Article4": {
+              "title": "Regulação excessiva afasta o investimento privado que também é necessário",
+              "quote": "Discordo totalmente, construir habitação acessível exige capital, e o capital privado não entra em mercados onde as regras se podem mudar arbitrariamente. Um enquadramento regulatório instável ou punitivo pode resolver o problema a curto prazo criando um deserto de investimento a médio prazo — e aí o Estado terá de assumir sozinho uma fatura que não tem condições de pagar.",
+              "img_path": "image50.png"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "O congelamento de rendas reduz a oferta e agrava o problema que pretende resolver",
+              "quote": "Discordo totalmente, quando o Estado impõe um teto às rendas, os proprietários têm dois incentivos: retirar o imóvel do mercado de arrendamento e não investir em manutenção. Em Berlim, a lei de congelamento de rendas aprovada em 2020 foi declarada inconstitucional em 2021, mas enquanto vigorou, a oferta de arrendamento no mercado livre caiu a pique e os preços dos imóveis para venda dispararam.",
+              "img_path": "image47.jpg"
+            },
+            "Article2": {
+              "title": "O problema central não é a regulação, é a falta de oferta",
+              "quote": "Discordo totalmente, Portugal tem uma das taxas de construção nova mais baixas da Europa Ocidental. Enquanto não se construir muito mais — e mais depressa —, qualquer medida de controlo de preços será um penso rápido numa ferida que precisa de sutura. O foco deveria estar em desburocratizar o licenciamento, libertar solos e criar incentivos reais à construção acessível.",
+              "img_path": "image48.jpg"
+            },
+            "Article3": {
+              "title": "O mercado livre, sem regulação, favorece a especulação sobre o uso real",
+              "quote": "Concordo totalmente, uma proporção significativa dos imóveis em Lisboa está nas mãos de fundos de investimento que os mantêm vazios ou exclusivamente para arrendamento turístico de curto prazo. Isto não é mercado a funcionar bem — é mercado a funcionar para uma minoria, à custa de toda a restante população.",
+              "img_path": "image45.jpg"
+            },
+            "Article4": {
+              "title": "Quem paga o preço desta crise são sempre os mesmos",
+              "quote": "Concordo totalmente, os profissionais jovens, os professores, os enfermeiros, as famílias de rendimento médio — pessoas sem quem as cidades não funcionam — estão a ser expulsos dos centros urbanos para periferias cada vez mais distantes. Esta segregação espacial tem custos sociais e económicos que o Estado acabará por suportar de qualquer maneira, mais tarde e com mais dificuldade.",
+              "img_path": "image46.jpg"
+            }
+          }
+        }
+      },
+      "4": {
+        "statement": "A ameaça militar russa à Europa é séria e não pode ser ignorada. Portugal deve aumentar significativamente os seus gastos de defesa e assumir um papel mais ativo na segurança coletiva europeia.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "A invasão da Ucrânia em 2022 foi um choque de realidade que não admite relativizações",
+              "quote": "Concordo totalmente, pela primeira vez desde a Segunda Guerra Mundial, um país europeu soberano foi invadido por outro Estado, com recurso a tanques, mísseis e ocupação territorial. Quem, antes de fevereiro de 2022, dizia que isto era impossível na Europa do século XXI ficou sem argumentos. A ameaça deixou de ser hipotética.",
+              "img_path": "image51.jpg"
+            },
+            "Article2": {
+              "title": "Portugal gasta apenas cerca de 1,6% do PIB em defesa, abaixo do compromisso de 2% acordado na NATO",
+              "quote": "Concordo totalmente, isto não é apenas uma questão de cumprir promessas formais — é uma questão de equidade. Países como a Polónia, a Estónia e os Estados Bálticos estão a gastar 3% ou mais do PIB. Que Portugal, à distância, contribua menos do que o mínimo acordado é uma posição difícil de defender em termos de solidariedade aliada.",
+              "img_path": "image52.jpg"
+            },
+            "Article3": {
+              "title": "A dissuasão coletiva funciona precisamente porque é coletiva",
+              "quote": "Concordo totalmente, a NATO manteve a paz entre os seus membros durante mais de 70 anos, em parte porque qualquer agressor sabe que um ataque a um é um ataque a todos. Esta garantia só é credível se todos os membros contribuírem de forma real. Portugal a subcontribuir enfraquece a dissuasão para todos — incluindo para si próprio.",
+              "img_path": "image53.jpg"
+            },
+            "Article4": {
+              "title": "O investimento em defesa tem retorno económico e tecnológico",
+              "quote": "Concordo totalmente, a indústria de defesa é um dos principais motores de inovação tecnológica — a internet, o GPS, os drones civis, os materiais avançados, todos têm raízes em programas militares. Um Portugal mais ativo na defesa europeia pode atrair investimento em setores de alto valor, desenvolver capacidades industriais e criar emprego qualificado.",
+              "img_path": "image54.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "Portugal está geograficamente no extremo ocidental da Europa",
+              "quote": "Discordo totalmente, a fronteira com a Rússia mais próxima fica a mais de três mil quilómetros. A ameaça direta ao território nacional é, objetivamente, muito baixa. Aumentar drasticamente os gastos militares para fazer face a uma ameaça que não é imediata, num país com défices sérios em saúde, habitação e educação, implica escolhas que a população tem todo o direito de questionar.",
+              "img_path": "image55.png"
+            },
+            "Article2": {
+              "title": "O dinheiro gasto em armas é dinheiro que não vai para causas mais urgentes",
+              "quote": "Discordo totalmente, Portugal tem listas de espera no SNS que matam, tem escolas a degradar-se, tem uma crise habitacional que expulsa os jovens das cidades. Cada euro adicional em defesa é um euro que não vai para um bloco operatório, para um professor ou para um programa de habitação pública. Este trade-off não desaparece só porque a geopolítica está mais tensa.",
+              "img_path": "image56.jpg"
+            },
+            "Article3": {
+              "title": "A dissuasão coletiva funciona precisamente porque é coletiva",
+              "quote": "Concordo totalmente, a NATO manteve a paz entre os seus membros durante mais de 70 anos, em parte porque qualquer agressor sabe que um ataque a um é um ataque a todos. Esta garantia só é credível se todos os membros contribuírem de forma real. Portugal a subcontribuir enfraquece a dissuasão para todos — incluindo para si próprio.",
+              "img_path": "image53.jpg"
+            },
+            "Article4": {
+              "title": "O investimento em defesa tem retorno económico e tecnológico",
+              "quote": "Concordo totalmente, a indústria de defesa é um dos principais motores de inovação tecnológica — a internet, o GPS, os drones civis, os materiais avançados, todos têm raízes em programas militares. Um Portugal mais ativo na defesa europeia pode atrair investimento em setores de alto valor, desenvolver capacidades industriais e criar emprego qualificado.",
+              "img_path": "image54.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "Portugal está geograficamente no extremo ocidental da Europa",
+              "quote": "Discordo totalmente, a fronteira com a Rússia mais próxima fica a mais de três mil quilómetros. A ameaça direta ao território nacional é, objetivamente, muito baixa. Aumentar drasticamente os gastos militares para fazer face a uma ameaça que não é imediata, num país com défices sérios em saúde, habitação e educação, implica escolhas que a população tem todo o direito de questionar.",
+              "img_path": "image55.png"
+            },
+            "Article2": {
+              "title": "O dinheiro gasto em armas é dinheiro que não vai para causas mais urgentes",
+              "quote": "Discordo totalmente, Portugal tem listas de espera no SNS que matam, tem escolas a degradar-se, tem uma crise habitacional que expulsa os jovens das cidades. Cada euro adicional em defesa é um euro que não vai para um bloco operatório, para um professor ou para um programa de habitação pública. Este trade-off não desaparece só porque a geopolítica está mais tensa.",
+              "img_path": "image56.jpg"
+            },
+            "Article3": {
+              "title": "Mais armas na Europa não é necessariamente a resposta certa",
+              "quote": "Discordo totalmente, a escalada militar tem a sua própria lógica: quanto mais a NATO investe, mais a Rússia sente justificação para investir também, e vice-versa. Esta espiral pode aumentar o risco de conflito, não diminuí-lo. A história mostra que as corridas ao armamento raramente terminam bem — e que a diplomacia, por mais frustrante que seja, é a única saída sustentável.",
+              "img_path": "image57.jpg"
+            },
+            "Article4": {
+              "title": "Uma estratégia de segurança europeia que ignore a diplomacia é incompleta",
+              "quote": "Discordo totalmente, durante décadas, os países europeus construíram relações de interdependência com a Rússia que não se desfazem por decreto. Apostar apenas no rearmamento pode ter efeitos desestabilizadores que ultrapassam largamente os benefícios da dissuasão. A segurança duradoura exige instrumentos políticos, económicos e diplomáticos, não apenas militares.",
+              "img_path": "image58.jpeg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "Portugal está geograficamente no extremo ocidental da Europa",
+              "quote": "Discordo totalmente, a fronteira com a Rússia mais próxima fica a mais de três mil quilómetros. A ameaça direta ao território nacional é, objetivamente, muito baixa. Aumentar drasticamente os gastos militares para fazer face a uma ameaça que não é imediata, num país com défices sérios em saúde, habitação e educação, implica escolhas que a população tem todo o direito de questionar.",
+              "img_path": "image55.png"
+            },
+            "Article2": {
+              "title": "O dinheiro gasto em armas é dinheiro que não vai para causas mais urgentes",
+              "quote": "Discordo totalmente, Portugal tem listas de espera no SNS que matam, tem escolas a degradar-se, tem uma crise habitacional que expulsa os jovens das cidades. Cada euro adicional em defesa é um euro que não vai para um bloco operatório, para um professor ou para um programa de habitação pública. Este trade-off não desaparece só porque a geopolítica está mais tensa.",
+              "img_path": "image56.jpg"
+            },
+            "Article3": {
+              "title": "A dissuasão coletiva funciona precisamente porque é coletiva",
+              "quote": "Concordo totalmente, a NATO manteve a paz entre os seus membros durante mais de 70 anos, em parte porque qualquer agressor sabe que um ataque a um é um ataque a todos. Esta garantia só é credível se todos os membros contribuírem de forma real. Portugal a subcontribuir enfraquece a dissuasão para todos — incluindo para si próprio.",
+              "img_path": "image53.jpg"
+            },
+            "Article4": {
+              "title": "O investimento em defesa tem retorno económico e tecnológico",
+              "quote": "Concordo totalmente, a indústria de defesa é um dos principais motores de inovação tecnológica — a internet, o GPS, os drones civis, os materiais avançados, todos têm raízes em programas militares. Um Portugal mais ativo na defesa europeia pode atrair investimento em setores de alto valor, desenvolver capacidades industriais e criar emprego qualificado.",
+              "img_path": "image54.jpg"
+            }
+          }
+        }
+      },
+      "5": {
+        "statement": "O Estado não tem competência nem vocação para gerir uma companhia aérea. A TAP deve ser totalmente privatizada, sem condicionalismos, para que possa competir num mercado global exigente.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "O Estado já gastou mais de 3,2 mil milhões de euros a salvar a TAP",
+              "quote": "Concordo totalmente, este dinheiro saiu dos impostos dos portugueses para manter em vida uma empresa que, estruturalmente, nunca conseguiu ser rentável de forma sustentada. Numa altura em que o SNS falta médicos e o parque escolar se degrada, é legítimo perguntar: faz sentido o Estado ser acionista de uma companhia aérea?",
+              "img_path": "image59.jpg"
+            },
+            "Article2": {
+              "title": "A aviação é um setor ferozmente competitivo onde os privados têm vantagem estrutural",
+              "quote": "Concordo totalmente, a Ryanair, a EasyJet e a Wizz Air operam com eficiências de escala que uma companhia de bandeira, presa a uma estrutura sindical rígida e a objetivos políticos contraditórios, nunca consegue replicar. As companhias de bandeira europeias que sobrevivem bem — como a Lufthansa ou a IAG — são, cada vez mais, grupos privados diversificados, não empresas estatais.",
+              "img_path": "image60.jpg"
+            },
+            "Article3": {
+              "title": "A privatização liberta o Estado para fazer o que só o Estado pode fazer",
+              "quote": "Concordo totalmente, regular o mercado, garantir conectividade mínima, proteger os consumidores — estas são funções do Estado. Gerir aviões, negociar contratos de manutenção e competir em rotas transatlânticas não são. Há uma diferença fundamental entre garantir que o serviço existe e ser o prestador desse serviço.",
+              "img_path": "image61.jpg"
+            },
+            "Article4": {
+              "title": "Sem condicionalismos é a única forma de a privatização funcionar",
+              "quote": "Concordo totalmente, uma privatização com restrições excessivas — obrigação de manter rotas não rentáveis, limitações à estrutura acionista, tetos salariais — afasta os compradores sérios e atrai os oportunistas. O resultado tende a ser o pior dos dois mundos: nem o dinamismo do privado, nem a responsabilidade do público.",
+              "img_path": "image62.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "Portugal é um país periférico cuja conectividade depende de uma companhia forte",
+              "quote": "Discordo totalmente, Lisboa não é Frankfurt nem Paris — não tem o volume de passageiros que justifica, por si só, rotas transatlânticas ou para destinos menos óbvios. A TAP existe em parte para garantir que Portugal permanece conectado ao mundo de uma forma que o mercado puro não asseguraria. Uma privatização sem condições pode resultar no corte de rotas essenciais para a diáspora e para o turismo em regiões menos apetecíveis comercialmente.",
+              "img_path": "image63.jpg"
+            },
+            "Article2": {
+              "title": "O 'sem condicionalismos' é uma ficção no setor da aviação",
+              "quote": "Discordo totalmente, nenhum país que privatizou uma companhia de bandeira o fez sem algum tipo de salvaguarda — rotas estratégicas, direitos de slot em aeroportos congestionados, cláusulas de emprego. Fingir que é possível uma venda completamente livre ignora a realidade de um setor onde o Estado continua inevitavelmente envolvido, seja por questões de segurança, seja por pressão política em tempo de crise.",
+              "img_path": "image64.jpg"
+            },
+            "Article3": {
+              "title": "A privatização liberta o Estado para fazer o que só o Estado pode fazer",
+              "quote": "Concordo totalmente, regular o mercado, garantir conectividade mínima, proteger os consumidores — estas são funções do Estado. Gerir aviões, negociar contratos de manutenção e competir em rotas transatlânticas não são. Há uma diferença fundamental entre garantir que o serviço existe e ser o prestador desse serviço.",
+              "img_path": "image61.jpg"
+            },
+            "Article4": {
+              "title": "Sem condicionalismos é a única forma de a privatização funcionar",
+              "quote": "Concordo totalmente, uma privatização com restrições excessivas — obrigação de manter rotas não rentáveis, limitações à estrutura acionista, tetos salariais — afasta os compradores sérios e atrai os oportunistas. O resultado tende a ser o pior dos dois mundos: nem o dinamismo do privado, nem a responsabilidade do público.",
+              "img_path": "image62.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "Portugal é um país periférico cuja conectividade depende de uma companhia forte",
+              "quote": "Discordo totalmente, Lisboa não é Frankfurt nem Paris — não tem o volume de passageiros que justifica, por si só, rotas transatlânticas ou para destinos menos óbvios. A TAP existe em parte para garantir que Portugal permanece conectado ao mundo de uma forma que o mercado puro não asseguraria. Uma privatização sem condições pode resultar no corte de rotas essenciais para a diáspora e para o turismo em regiões menos apetecíveis comercialmente.",
+              "img_path": "image63.jpg"
+            },
+            "Article2": {
+              "title": "O 'sem condicionalismos' é uma ficção no setor da aviação",
+              "quote": "Discordo totalmente, nenhum país que privatizou uma companhia de bandeira o fez sem algum tipo de salvaguarda — rotas estratégicas, direitos de slot em aeroportos congestionados, cláusulas de emprego. Fingir que é possível uma venda completamente livre ignora a realidade de um setor onde o Estado continua inevitavelmente envolvido, seja por questões de segurança, seja por pressão política em tempo de crise.",
+              "img_path": "image64.jpg"
+            },
+            "Article3": {
+              "title": "A volatilidade do setor é um argumento contra, não a favor, da privatização total",
+              "quote": "Discordo totalmente, a aviação é um dos setores mais sensíveis a crises externas — pandemias, guerras, preços do petróleo, recessões económicas. Quando o privado não aguenta, quem paga a fatura é sempre o contribuinte. Já aconteceu em Portugal, já aconteceu em toda a Europa. Vender a empresa e depois ter de a resgatar novamente é o pior dos cenários — e é um cenário plausível.",
+              "img_path": "image65.jpg"
+            },
+            "Article4": {
+              "title": "A experiência das privatizações em Portugal não é um argumento de confiança",
+              "quote": "Discordo totalmente, a venda de empresas estratégicas portuguesas, de telecomunicações a energia, produziu resultados mistos: alguns ganhos de eficiência, mas também desinvestimento, deslocalização de centros de decisão e perda de influência do país em setores-chave. Privatizar a TAP sem condicionalismos num contexto de mercado global dominado por grandes grupos pode ser equivalente a vender por uma moeda o que valeria dez com uma negociação mais cuidada.",
+              "img_path": "image66.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "Portugal é um país periférico cuja conectividade depende de uma companhia forte",
+              "quote": "Discordo totalmente, Lisboa não é Frankfurt nem Paris — não tem o volume de passageiros que justifica, por si só, rotas transatlânticas ou para destinos menos óbvios. A TAP existe em parte para garantir que Portugal permanece conectado ao mundo de uma forma que o mercado puro não asseguraria. Uma privatização sem condições pode resultar no corte de rotas essenciais para a diáspora e para o turismo em regiões menos apetecíveis comercialmente.",
+              "img_path": "image63.jpg"
+            },
+            "Article2": {
+              "title": "O 'sem condicionalismos' é uma ficção no setor da aviação",
+              "quote": "Discordo totalmente, nenhum país que privatizou uma companhia de bandeira o fez sem algum tipo de salvaguarda — rotas estratégicas, direitos de slot em aeroportos congestionados, cláusulas de emprego. Fingir que é possível uma venda completamente livre ignora a realidade de um setor onde o Estado continua inevitavelmente envolvido, seja por questões de segurança, seja por pressão política em tempo de crise.",
+              "img_path": "image64.jpg"
+            },
+            "Article3": {
+              "title": "A privatização liberta o Estado para fazer o que só o Estado pode fazer",
+              "quote": "Concordo totalmente, regular o mercado, garantir conectividade mínima, proteger os consumidores — estas são funções do Estado. Gerir aviões, negociar contratos de manutenção e competir em rotas transatlânticas não são. Há uma diferença fundamental entre garantir que o serviço existe e ser o prestador desse serviço.",
+              "img_path": "image61.jpg"
+            },
+            "Article4": {
+              "title": "Sem condicionalismos é a única forma de a privatização funcionar",
+              "quote": "Concordo totalmente, uma privatização com restrições excessivas — obrigação de manter rotas não rentáveis, limitações à estrutura acionista, tetos salariais — afasta os compradores sérios e atrai os oportunistas. O resultado tende a ser o pior dos dois mundos: nem o dinamismo do privado, nem a responsabilidade do público.",
+              "img_path": "image62.jpg"
+            }
+          }
+        }
+      },
+      "6": {
+        "statement": "Portugal precisa de penas muito mais severas e de uma postura repressiva mais firme. Só assim será possível dissuadir os criminosos e devolver o sentimento de segurança à população.",
+        "participant_disagree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "O sentimento de impunidade corrói a confiança nas instituições",
+              "quote": "Concordo totalmente, quando os cidadãos veem casos de crime, nomeadamente crimes violentos ou de colarinho branco, a serem resolvidos com penas suspensas ou prescrições, a mensagem que recebem é que o sistema não funciona. Esta perceção é tão prejudicial quanto a própria criminalidade — destrói o contrato social que sustenta a ideia de Estado de direito.",
+              "img_path": "image67.jpg"
+            },
+            "Article2": {
+              "title": "Penas mais longas mantêm os reincidentes afastados da sociedade",
+              "quote": "Concordo totalmente, uma parte desproporcionada dos crimes é cometida por um número relativamente pequeno de infratores habituais. Em Portugal, a taxa de reincidência no sistema prisional ronda os 50%. Enquanto estes indivíduos cumprem penas, não podem cometer novos crimes. Há um argumento simples, mas não trivial, na incapacitação como medida de proteção da sociedade.",
+              "img_path": "image68.jpg"
+            },
+            "Article3": {
+              "title": "A dissuasão existe e funciona, pelo menos para alguns tipos de crime",
+              "quote": "Concordo totalmente, o pressuposto de que as penas não dissuadem é exagerado. Para crimes premeditados — fraudes, crimes económicos, tráfico organizado —, a severidade esperada da punição entra claramente no cálculo do infrator. Sistemas com penalizações mais pesadas para crimes económicos tendem a ver redução nas taxas desse tipo de criminalidade.",
+              "img_path": "image69.jpg"
+            },
+            "Article4": {
+              "title": "A comparação internacional tem exemplos relevantes",
+              "quote": "Concordo totalmente, Singapura, com um sistema penal notoriamente severo, tem uma das taxas de criminalidade mais baixas do mundo. O Japão, com penas relativamente duras para crimes violentos, tem uma taxa de homicídios de 0,2 por 100.000 habitantes — dez vezes menos que a média europeia. Estas correlações não provam causalidade direta, mas também não podem ser simplesmente descartadas.",
+              "img_path": "image70.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "A investigação criminológica é clara: o que dissuade não é a severidade, é a certeza da punição",
+              "quote": "Discordo totalmente, um potencial criminoso que sabe que tem 90% de hipóteses de ser apanhado e punido levemente tende a recuar mais do que alguém que sabe que tem 10% de hipóteses de ser apanhado mas enfrenta uma pena pesada. O problema em Portugal não é que as penas sejam leves — é que os crimes muitas vezes não são resolvidos. Endurecer as penas sem aumentar a taxa de resolução criminal é mudar o que não é o problema.",
+              "img_path": "image71.jpg"
+            },
+            "Article2": {
+              "title": "Portugal tem uma das taxas de reincidência mais altas da Europa",
+              "quote": "Discordo totalmente, o sistema prisional atual não reabilita. Aumentar as penas sem reformar o que acontece dentro das prisões — formação profissional, apoio psicológico, preparação para a reinserção — é garantir que os reclusos saem mais tarde mas igualmente ou mais propensos a reincidir. O objetivo de um sistema penal eficaz não é punir mais; é ter menos crimes.",
+              "img_path": "image72.jpg"
+            },
+            "Article3": {
+              "title": "A dissuasão existe e funciona, pelo menos para alguns tipos de crime",
+              "quote": "Concordo totalmente, o pressuposto de que as penas não dissuadem é exagerado. Para crimes premeditados — fraudes, crimes económicos, tráfico organizado —, a severidade esperada da punição entra claramente no cálculo do infrator. Sistemas com penalizações mais pesadas para crimes económicos tendem a ver redução nas taxas desse tipo de criminalidade.",
+              "img_path": "image69.jpg"
+            },
+            "Article4": {
+              "title": "A comparação internacional tem exemplos relevantes",
+              "quote": "Concordo totalmente, Singapura, com um sistema penal notoriamente severo, tem uma das taxas de criminalidade mais baixas do mundo. O Japão, com penas relativamente duras para crimes violentos, tem uma taxa de homicídios de 0,2 por 100.000 habitantes — dez vezes menos que a média europeia. Estas correlações não provam causalidade direta, mas também não podem ser simplesmente descartadas.",
+              "img_path": "image70.jpg"
+            }
+          }
+        },
+        "participant_agree": {
+          "all_disagree": {
+            "Article1": {
+              "title": "A investigação criminológica é clara: o que dissuade não é a severidade, é a certeza da punição",
+              "quote": "Discordo totalmente, um potencial criminoso que sabe que tem 90% de hipóteses de ser apanhado e punido levemente tende a recuar mais do que alguém que sabe que tem 10% de hipóteses de ser apanhado mas enfrenta uma pena pesada. O problema em Portugal não é que as penas sejam leves — é que os crimes muitas vezes não são resolvidos. Endurecer as penas sem aumentar a taxa de resolução criminal é mudar o que não é o problema.",
+              "img_path": "image71.jpg"
+            },
+            "Article2": {
+              "title": "Portugal tem uma das taxas de reincidência mais altas da Europa",
+              "quote": "Discordo totalmente, o sistema prisional atual não reabilita. Aumentar as penas sem reformar o que acontece dentro das prisões — formação profissional, apoio psicológico, preparação para a reinserção — é garantir que os reclusos saem mais tarde mas igualmente ou mais propensos a reincidir. O objetivo de um sistema penal eficaz não é punir mais; é ter menos crimes.",
+              "img_path": "image72.jpg"
+            },
+            "Article3": {
+              "title": "Os países com menor criminalidade não são necessariamente os mais punitivos",
+              "quote": "Discordo totalmente, os países nórdicos — Finlândia, Noruega, Dinamarca — têm sistemas prisionais focados na reabilitação, penas relativamente curtas e condições dignas de reclusão. A Noruega tem uma taxa de reincidência de 20%, metade da portuguesa. Prender melhor pode ser mais eficaz do que prender por mais tempo.",
+              "img_path": "image73.jpg"
+            },
+            "Article4": {
+              "title": "Penas excessivas geram injustiças que o sistema depois não consegue corrigir",
+              "quote": "Discordo totalmente, um sistema mais repressivo tende a punir desproporcionalmente quem tem menos recursos para se defender — quem não pode pagar bons advogados, quem vive em contextos de maior vulnerabilidade social. O endurecimento penal, na prática, acaba frequentemente por recair sobre os mais frágeis, enquanto a criminalidade de colarinho branco, com melhor acesso a defesa jurídica, continua a beneficiar de uma impunidade relativa.",
+              "img_path": "image74.jpg"
+            }
+          },
+          "half_disagree": {
+            "Article1": {
+              "title": "A investigação criminológica é clara: o que dissuade não é a severidade, é a certeza da punição",
+              "quote": "Discordo totalmente, um potencial criminoso que sabe que tem 90% de hipóteses de ser apanhado e punido levemente tende a recuar mais do que alguém que sabe que tem 10% de hipóteses de ser apanhado mas enfrenta uma pena pesada. O problema em Portugal não é que as penas sejam leves — é que os crimes muitas vezes não são resolvidos. Endurecer as penas sem aumentar a taxa de resolução criminal é mudar o que não é o problema.",
+              "img_path": "image71.jpg"
+            },
+            "Article2": {
+              "title": "Portugal tem uma das taxas de reincidência mais altas da Europa",
+              "quote": "Discordo totalmente, o sistema prisional atual não reabilita. Aumentar as penas sem reformar o que acontece dentro das prisões — formação profissional, apoio psicológico, preparação para a reinserção — é garantir que os reclusos saem mais tarde mas igualmente ou mais propensos a reincidir. O objetivo de um sistema penal eficaz não é punir mais; é ter menos crimes.",
+              "img_path": "image72.jpg"
+            },
+            "Article3": {
+              "title": "A dissuasão existe e funciona, pelo menos para alguns tipos de crime",
+              "quote": "Concordo totalmente, o pressuposto de que as penas não dissuadem é exagerado. Para crimes premeditados — fraudes, crimes económicos, tráfico organizado —, a severidade esperada da punição entra claramente no cálculo do infrator. Sistemas com penalizações mais pesadas para crimes económicos tendem a ver redução nas taxas desse tipo de criminalidade.",
+              "img_path": "image69.jpg"
+            },
+            "Article4": {
+              "title": "A comparação internacional tem exemplos relevantes",
+              "quote": "Concordo totalmente, Singapura, com um sistema penal notoriamente severo, tem uma das taxas de criminalidade mais baixas do mundo. O Japão, com penas relativamente duras para crimes violentos, tem uma taxa de homicídios de 0,2 por 100.000 habitantes — dez vezes menos que a média europeia. Estas correlações não provam causalidade direta, mas também não podem ser simplesmente descartadas.",
+              "img_path": "image70.jpg"
+            }
+          }
+        }
+      }
+    }
   },
   "robot_related":{
     "robots": {
@@ -572,7 +2382,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     },
@@ -584,7 +2394,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     }
@@ -598,7 +2408,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     },
@@ -610,7 +2420,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     }
@@ -626,7 +2436,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     },
@@ -638,7 +2448,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     }
@@ -652,7 +2462,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     },
@@ -664,7 +2474,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     }

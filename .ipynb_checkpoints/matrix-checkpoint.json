@@ -1,7 +1,5 @@
 {
-  "economic": {
-  },
-  "social": {
+  "socio-economic": {
   },
   "robot_related":{
     "robots": {
@@ -572,7 +570,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     },
@@ -584,7 +582,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     }
@@ -598,7 +596,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     },
@@ -610,7 +608,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     }
@@ -626,7 +624,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     },
@@ -638,7 +636,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     }
@@ -652,7 +650,7 @@
                     },
                     "Robot9":{
                         "type":"dash",
-                        "audio_path":"my2",
+                        "audio_path":"my12",
                         "vote": 1,
                         "vote_label": "Discordo totalmente"
                     },
@@ -664,7 +662,7 @@
                     },
                     "Robot10":{
                         "type":"dash",
-                        "audio_path":"my1",
+                        "audio_path":"my11",
                         "vote": 6,
                         "vote_label": "Concordo totalmente"
                     }

@@ -424,6 +424,18 @@ textarea#prompt::placeholder { color: #444; }
   padding: 7px 18px; cursor: pointer; transition: opacity .15s;
 }
 .bsave:hover { opacity: .85; }
+
+.statement-label {
+  font-size:15px;  
+  color: #bfbfbf;
+  font-weight: 600;
+  white-space: nowrap;
+}
+#stmt-text {
+  font-size:15px;  
+  color: #bfbfbf;
+}
+
 </style>
 </head>
 <body>
@@ -436,6 +448,8 @@ textarea#prompt::placeholder { color: #444; }
     <div class="tog on" data-m="gemini" onclick="tog('gemini')">Gemini</div>
     <div class="tog on" data-m="deepseek"onclick="tog('mistral')">Deepseek</div>
   </div>
+    <span class="statement-label">Em debate:</span>
+  <span id="stmt-text">{{STATEMENT_PLACEHOLDER}}</span>
   <div class="topbar-spacer"></div>
   <button class="clear-btn" onclick="clearAll()">Limpar</button>
   
@@ -539,7 +553,7 @@ function addMsg(model,role,html){
     claude:{ user:`<div class="cu"><div class="b">${html}</div></div>`, ai:`<div class="ca"><div class="av">C</div><div class="b">${html}</div></div>` },
     gpt:   { user:`<div class="gu"><div class="b">${html}</div></div>`, ai:`<div class="ga"><div class="av">G</div><div class="b">${html}</div></div>` },
     gemini:{ user:`<div class="gemu"><div class="b">${html}</div></div>`, ai:`<div class="gema"><div class="av">G</div><div class="b">${html}</div></div>` },
-    mistral:{ user:`<div class="mu"><div class="b">${html}</div></div>`, ai:`<div class="ma"><div class="av">M</div><div class="b">${html}</div></div>` }
+    mistral:{ user:`<div class="mu"><div class="b">${html}</div></div>`, ai:`<div class="ma"><div class="av">D</div><div class="b">${html}</div></div>` }
   };
   d.innerHTML=v[model][role==='user'?'user':'ai'];
   c.appendChild(d);
@@ -602,7 +616,7 @@ async function send(){
         const agents = ['claude', 'gpt', 'gemini', 'mistral'];
         
         for (const agent of agents) {
-          await new Promise(r => setTimeout(r, 2000)); // espera 2s
+          await new Promise(r => setTimeout(r, 15000)); // espera 2s
           removeTyping(agent);
           addMsg(agent, 'assistant', esc(data.responses[agent]));
           pill(agent, 'sp-done', '✓');

@@ -80,13 +80,15 @@
         "statement_id": "3",
         "agents": "articles",
         "condition": "all_disagree",
-        "participant_opinion": "participant_agree"
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "5"
       },
       "3": {
         "statement_id": "4",
         "agents": "robots",
         "condition": "all_disagree",
-        "participant_opinion": "participant_agree"
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "1"
       },
       "4": {
         "statement_id": "6",
@@ -99,6 +101,279 @@
         "agents": "articles",
         "condition": "half_disagree",
         "participant_opinion": "participant_disagree"
+      }
+    }
+  },
+  "2": {
+    "timestamp": "2026-05-18T09:58:23.275130",
+    "topic": "robot_related",
+    "pre": {
+      "participant_id": "2",
+      "phase": "pre",
+      "topic": "robot_related",
+      "age": "53",
+      "gender": "checkbox",
+      "nationality": "portuguesa",
+      "university": "faculdade",
+      "course": "Informatica",
+      "q_robot_related_1": "4",
+      "q_knowledge_robot_related_1_1": "6",
+      "q_knowledge_robot_related_1_2": "4",
+      "q_knowledge_robot_related_1_3": "6",
+      "q_knowledge_robot_related_1_4": "4",
+      "q_robot_related_2": "4",
+      "q_knowledge_robot_related_2_1": "5",
+      "q_knowledge_robot_related_2_2": "5",
+      "q_knowledge_robot_related_2_3": "6",
+      "q_knowledge_robot_related_2_4": "6",
+      "q_robot_related_3": "4",
+      "q_knowledge_robot_related_3_1": "3",
+      "q_knowledge_robot_related_3_2": "4",
+      "q_knowledge_robot_related_3_3": "5",
+      "q_knowledge_robot_related_3_4": "6",
+      "q_robot_related_4": "3",
+      "q_knowledge_robot_related_4_1": "7",
+      "q_knowledge_robot_related_4_2": "4",
+      "q_knowledge_robot_related_4_3": "6",
+      "q_knowledge_robot_related_4_4": "7",
+      "q_robot_related_5": "5",
+      "q_knowledge_robot_related_5_1": "8",
+      "q_knowledge_robot_related_5_2": "7",
+      "q_knowledge_robot_related_5_3": "7",
+      "q_knowledge_robot_related_5_4": "7",
+      "q_robot_related_6": "5",
+      "q_knowledge_robot_related_6_1": "8",
+      "q_knowledge_robot_related_6_2": "7",
+      "q_knowledge_robot_related_6_3": "7",
+      "q_knowledge_robot_related_6_4": "8",
+      "q_robot_related_7": "5",
+      "q_knowledge_robot_related_7_1": "7",
+      "q_knowledge_robot_related_7_2": "8",
+      "q_knowledge_robot_related_7_3": "9",
+      "q_knowledge_robot_related_7_4": "8",
+      "q_robot_related_8": "6",
+      "q_knowledge_robot_related_8_1": "7",
+      "q_knowledge_robot_related_8_2": "7",
+      "q_knowledge_robot_related_8_3": "7",
+      "q_knowledge_robot_related_8_4": "7",
+      "q_robot_related_9": "3",
+      "q_knowledge_robot_related_9_1": "6",
+      "q_knowledge_robot_related_9_2": "7",
+      "q_knowledge_robot_related_9_3": "8",
+      "q_knowledge_robot_related_9_4": "7",
+      "q_robot_related_10": "4",
+      "q_knowledge_robot_related_10_1": "7",
+      "q_knowledge_robot_related_10_2": "7",
+      "q_knowledge_robot_related_10_3": "6",
+      "q_knowledge_robot_related_10_4": "8"
+    },
+    "rounds": {
+      "0": {
+        "statement_id": "3",
+        "agents": "virtuals",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "4"
+      },
+      "1": {
+        "statement_id": "5",
+        "agents": "robots",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "1"
+      },
+      "2": {
+        "statement_id": "4",
+        "agents": "robots",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_disagree"
+      },
+      "3": {
+        "statement_id": "1",
+        "agents": "articles",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "1"
+      },
+      "4": {
+        "statement_id": "2",
+        "agents": "virtuals",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "1"
+      },
+      "5": {
+        "statement_id": "6",
+        "agents": "articles",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree"
+      }
+    }
+  },
+  "3": {
+    "timestamp": "2026-05-20T14:35:55.285593",
+    "topic": "socio-economic",
+    "pre": {
+      "participant_id": "3",
+      "phase": "pre",
+      "topic": "socio-economic",
+      "age": "23",
+      "gender": "Masculino",
+      "nationality": "Portuguesa",
+      "university": "FCUL",
+      "course": "MEI",
+      "q_socio-economic_1": "3",
+      "q_knowledge_socio-economic_1_1": "5",
+      "q_knowledge_socio-economic_1_2": "5",
+      "q_socio-economic_2": "5",
+      "q_knowledge_socio-economic_2_1": "5",
+      "q_knowledge_socio-economic_2_2": "5",
+      "q_socio-economic_3": "6",
+      "q_knowledge_socio-economic_3_1": "5",
+      "q_knowledge_socio-economic_3_2": "5",
+      "q_socio-economic_4": "2",
+      "q_knowledge_socio-economic_4_1": "5",
+      "q_knowledge_socio-economic_4_2": "5",
+      "q_socio-economic_5": "2",
+      "q_knowledge_socio-economic_5_1": "4",
+      "q_knowledge_socio-economic_5_2": "4",
+      "q_socio-economic_6": "3",
+      "q_knowledge_socio-economic_6_1": "4",
+      "q_knowledge_socio-economic_6_2": "4"
+    }
+  },
+  "4": {
+    "timestamp": "2026-05-21T15:09:39.213553",
+    "topic": "socio-economic",
+    "pre": {
+      "participant_id": "4",
+      "phase": "pre",
+      "topic": "socio-economic",
+      "age": "23",
+      "gender": "M",
+      "nationality": "Pt",
+      "university": "FCUL",
+      "course": "MEI",
+      "q_socio-economic_1": "4",
+      "q_knowledge_socio-economic_1_1": "4",
+      "q_knowledge_socio-economic_1_2": "4",
+      "q_socio-economic_2": "4",
+      "q_knowledge_socio-economic_2_1": "4",
+      "q_knowledge_socio-economic_2_2": "4",
+      "q_socio-economic_3": "4",
+      "q_knowledge_socio-economic_3_1": "4",
+      "q_knowledge_socio-economic_3_2": "4",
+      "q_socio-economic_4": "4",
+      "q_knowledge_socio-economic_4_1": "4",
+      "q_knowledge_socio-economic_4_2": "4",
+      "q_socio-economic_5": "4",
+      "q_knowledge_socio-economic_5_1": "4",
+      "q_knowledge_socio-economic_5_2": "4",
+      "q_socio-economic_6": "4",
+      "q_knowledge_socio-economic_6_1": "4",
+      "q_knowledge_socio-economic_6_2": "4"
+    }
+  },
+  "5": {
+    "timestamp": "2026-05-21T15:17:46.320385",
+    "topic": "socio-economic",
+    "pre": {
+      "participant_id": "5",
+      "phase": "pre",
+      "topic": "socio-economic",
+      "age": "21",
+      "gender": "M",
+      "nationality": "PT",
+      "university": "FCUL",
+      "course": "MEI",
+      "q_socio-economic_1": "4",
+      "q_knowledge_socio-economic_1_1": "4",
+      "q_knowledge_socio-economic_1_2": "4",
+      "q_socio-economic_2": "4",
+      "q_knowledge_socio-economic_2_1": "4",
+      "q_knowledge_socio-economic_2_2": "4",
+      "q_socio-economic_3": "4",
+      "q_knowledge_socio-economic_3_1": "4",
+      "q_knowledge_socio-economic_3_2": "4",
+      "q_socio-economic_4": "4",
+      "q_knowledge_socio-economic_4_1": "4",
+      "q_knowledge_socio-economic_4_2": "4",
+      "q_socio-economic_5": "4",
+      "q_knowledge_socio-economic_5_1": "4",
+      "q_knowledge_socio-economic_5_2": "4",
+      "q_socio-economic_6": "4",
+      "q_knowledge_socio-economic_6_1": "4",
+      "q_knowledge_socio-economic_6_2": "4"
+    }
+  },
+  "6": {
+    "timestamp": "2026-05-21T15:24:49.353452",
+    "topic": "socio-economic",
+    "pre": {
+      "participant_id": "6",
+      "phase": "pre",
+      "topic": "socio-economic",
+      "age": "21",
+      "gender": "Masc",
+      "nationality": "Pt",
+      "university": "Fcul",
+      "course": "MEI",
+      "q_socio-economic_1": "4",
+      "q_knowledge_socio-economic_1_1": "4",
+      "q_knowledge_socio-economic_1_2": "4",
+      "q_socio-economic_2": "4",
+      "q_knowledge_socio-economic_2_1": "4",
+      "q_knowledge_socio-economic_2_2": "4",
+      "q_socio-economic_3": "4",
+      "q_knowledge_socio-economic_3_1": "4",
+      "q_knowledge_socio-economic_3_2": "4",
+      "q_socio-economic_4": "4",
+      "q_knowledge_socio-economic_4_1": "4",
+      "q_knowledge_socio-economic_4_2": "4",
+      "q_socio-economic_5": "4",
+      "q_knowledge_socio-economic_5_1": "4",
+      "q_knowledge_socio-economic_5_2": "4",
+      "q_socio-economic_6": "4",
+      "q_knowledge_socio-economic_6_1": "4",
+      "q_knowledge_socio-economic_6_2": "4"
+    },
+    "rounds": {
+      "0": {
+        "statement_id": "6",
+        "agents": "articles",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "1": {
+        "statement_id": "5",
+        "agents": "robots",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "2": {
+        "statement_id": "1",
+        "agents": "robots",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "3": {
+        "statement_id": "4",
+        "agents": "articles",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "4": {
+        "statement_id": "2",
+        "agents": "virtuals",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "1"
+      },
+      "5": {
+        "statement_id": "3",
+        "agents": "virtuals",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree"
       }
     }
   }
