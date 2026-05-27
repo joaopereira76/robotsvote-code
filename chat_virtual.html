@@ -616,11 +616,13 @@ async function send(){
         const agents = ['claude', 'gpt', 'gemini', 'mistral'];
         
         for (const agent of agents) {
-          await new Promise(r => setTimeout(r, 15000)); // espera 2s
+          await new Promise(r => setTimeout(r, 5000));
           removeTyping(agent);
           addMsg(agent, 'assistant', esc(data.responses[agent]));
           pill(agent, 'sp-done', '✓');
+          await new Promise(r => setTimeout(r, 5000));
         }
+        break;
         
           
       } catch(err) {
