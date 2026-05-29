@@ -591,49 +591,41 @@ function clearAll(){
 function resize(el){ el.style.height='auto'; el.style.height=Math.min(el.scrollHeight,130)+'px'; }
 function onKey(e){ if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send();} }
 
-async function send(){
-  
-    while(true){
-      try {
-        const r = await fetch('/ask');
+async function send() {
+    while (true) {
+        try {
+            const r = await fetch('/ask');
+            const data = await r.json();
 
-        
-        const data = await r.json();
+            if (data.ok) {
+                await new Promise(r => setTimeout(r, 1000));
+                continue;
+            }
 
-        if (data.ok) {
-            continue;
+            // Confirmar receção ANTES de processar visualmente
+            await fetch('/ack');
+
+            ['claude', 'gpt', 'gemini', 'mistral'].forEach(m => {
+                addTyping(m);
+                pill(m, 'sp-loading', 'a pensar…');
+            });
+
+            const agents = ['claude', 'gpt', 'gemini', 'mistral'];
+            for (const agent of agents) {
+                await new Promise(r => setTimeout(r, 5000));
+                removeTyping(agent);
+                addMsg(agent, 'assistant', esc(data.responses[agent]));
+                pill(agent, 'sp-done', '✓');
+                await new Promise(r => setTimeout(r, 5000));
+            }
+
+        } catch (err) {
+            ['claude', 'gpt', 'gemini', 'mistral'].forEach(m => {
+                removeTyping(m);
+                pill(m, 'sp-err', 'erro');
+            });
+            await new Promise(r => setTimeout(r, 2000));
         }
-
-        console.log(data);
-
-    
-        // mostrar prompt e typing em todos os paineis
-        ['claude','gpt','gemini','mistral'].forEach(m=>{
-            addTyping(m);
-            pill(m,'sp-loading','a pensar…');
-          });
-    
-        const agents = ['claude', 'gpt', 'gemini', 'mistral'];
-        
-        for (const agent of agents) {
-          await new Promise(r => setTimeout(r, 5000));
-          removeTyping(agent);
-          addMsg(agent, 'assistant', esc(data.responses[agent]));
-          pill(agent, 'sp-done', '✓');
-          await new Promise(r => setTimeout(r, 5000));
-        }
-        break;
-        
-          
-      } catch(err) {
-        ['claude','gpt','gemini','mistral'].forEach(m=>{
-          removeTyping(m);
-          addMsg(m,'assistant',`⚠ Erro: ${esc(err.message)}`);
-          pill(m,'sp-err','erro');
-        });
-      }
-    
-      
     }
 }
 
