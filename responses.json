@@ -950,7 +950,7 @@
         "agents": "articles",
         "condition": "half_disagree",
         "participant_opinion": "participant_agree",
-        "participant_public_opinion": "4"
+        "participant_public_opinion": "1"
       },
       "1": {
         "statement_id": "4",
