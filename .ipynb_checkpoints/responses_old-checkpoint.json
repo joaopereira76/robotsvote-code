@@ -1,0 +1,104 @@
+{
+  "1": {
+    "timestamp": "2026-05-12T16:00:54.602969",
+    "topic": "robot_related",
+    "pre": {
+      "participant_id": "1",
+      "phase": "pre",
+      "topic": "robot_related",
+      "age": "21",
+      "gender": "M",
+      "nationality": "PT",
+      "university": "FCUL",
+      "course": "MEI",
+      "q_robot_related_1": "3",
+      "q_knowledge_robot_related_1_1": "5",
+      "q_knowledge_robot_related_1_2": "5",
+      "q_knowledge_robot_related_1_3": "5",
+      "q_knowledge_robot_related_1_4": "5",
+      "q_robot_related_2": "4",
+      "q_knowledge_robot_related_2_1": "5",
+      "q_knowledge_robot_related_2_2": "5",
+      "q_knowledge_robot_related_2_3": "5",
+      "q_knowledge_robot_related_2_4": "5",
+      "q_robot_related_3": "3",
+      "q_knowledge_robot_related_3_1": "5",
+      "q_knowledge_robot_related_3_2": "5",
+      "q_knowledge_robot_related_3_3": "5",
+      "q_knowledge_robot_related_3_4": "5",
+      "q_robot_related_4": "4",
+      "q_knowledge_robot_related_4_1": "5",
+      "q_knowledge_robot_related_4_2": "5",
+      "q_knowledge_robot_related_4_3": "5",
+      "q_knowledge_robot_related_4_4": "5",
+      "q_robot_related_5": "3",
+      "q_knowledge_robot_related_5_1": "5",
+      "q_knowledge_robot_related_5_2": "5",
+      "q_knowledge_robot_related_5_3": "5",
+      "q_knowledge_robot_related_5_4": "5",
+      "q_robot_related_6": "4",
+      "q_knowledge_robot_related_6_1": "5",
+      "q_knowledge_robot_related_6_2": "5",
+      "q_knowledge_robot_related_6_3": "5",
+      "q_knowledge_robot_related_6_4": "5",
+      "q_robot_related_7": "3",
+      "q_knowledge_robot_related_7_1": "5",
+      "q_knowledge_robot_related_7_2": "5",
+      "q_knowledge_robot_related_7_3": "5",
+      "q_knowledge_robot_related_7_4": "5",
+      "q_robot_related_8": "4",
+      "q_knowledge_robot_related_8_1": "5",
+      "q_knowledge_robot_related_8_2": "5",
+      "q_knowledge_robot_related_8_3": "5",
+      "q_knowledge_robot_related_8_4": "5",
+      "q_robot_related_9": "3",
+      "q_knowledge_robot_related_9_1": "5",
+      "q_knowledge_robot_related_9_2": "5",
+      "q_knowledge_robot_related_9_3": "5",
+      "q_knowledge_robot_related_9_4": "5",
+      "q_robot_related_10": "4",
+      "q_knowledge_robot_related_10_1": "5",
+      "q_knowledge_robot_related_10_2": "5",
+      "q_knowledge_robot_related_10_3": "5",
+      "q_knowledge_robot_related_10_4": "5"
+    },
+    "rounds": {
+      "0": {
+        "statement_id": "5",
+        "agents": "virtuals",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_disagree"
+      },
+      "1": {
+        "statement_id": "2",
+        "agents": "virtuals",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_disagree"
+      },
+      "2": {
+        "statement_id": "3",
+        "agents": "articles",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "3": {
+        "statement_id": "4",
+        "agents": "robots",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "4": {
+        "statement_id": "6",
+        "agents": "robots",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree"
+      },
+      "5": {
+        "statement_id": "1",
+        "agents": "articles",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_disagree"
+      }
+    }
+  }
+}
