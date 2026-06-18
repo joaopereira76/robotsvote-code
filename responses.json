@@ -1378,5 +1378,41 @@
       "robot_freq_other": "",
       "robot_types": "Robots Sociais"
     }
+  },
+  "18": {
+    "timestamp": "2026-06-09T09:22:12.285894",
+    "topic": "socio-economic",
+    "pre": {
+      "participant_id": "18",
+      "phase": "pre",
+      "topic": "socio-economic",
+      "age": "22",
+      "gender": "Feminino",
+      "gender_other": "",
+      "nationality": "Portuguesa",
+      "nationality_other": "",
+      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university_other": "",
+      "course": "Matemática e Estatística",
+      "course_other": "",
+      "q_socio-economic_1": "4",
+      "q_knowledge_socio-economic_1_1": "4",
+      "q_knowledge_socio-economic_1_2": "4",
+      "q_socio-economic_2": "4",
+      "q_knowledge_socio-economic_2_1": "3",
+      "q_knowledge_socio-economic_2_2": "4",
+      "q_socio-economic_3": "4",
+      "q_knowledge_socio-economic_3_1": "2",
+      "q_knowledge_socio-economic_3_2": "3",
+      "q_socio-economic_4": "3",
+      "q_knowledge_socio-economic_4_1": "2",
+      "q_knowledge_socio-economic_4_2": "2",
+      "q_socio-economic_5": "5",
+      "q_knowledge_socio-economic_5_1": "2",
+      "q_knowledge_socio-economic_5_2": "2",
+      "q_socio-economic_6": "2",
+      "q_knowledge_socio-economic_6_1": "3",
+      "q_knowledge_socio-economic_6_2": "4"
+    }
   }
 }
