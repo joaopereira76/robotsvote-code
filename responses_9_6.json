@@ -4599,5 +4599,328 @@
       "robot_freq_other": "",
       "robot_types": "Robôs de limpeza, robôs que imitam expressoes faciais para desenvolvimento tecnologico, robôs de corrida tipo concurso de robotica"
     }
+  },
+  "45": {
+    "timestamp": "2026-06-19T10:40:47.926901",
+    "topic": "robot_related",
+    "pre": {
+      "participant_id": "45",
+      "phase": "pre",
+      "topic": "robot_related",
+      "age": "35",
+      "gender": "Masculino",
+      "gender_other": "",
+      "nationality": "Portuguesa",
+      "nationality_other": "",
+      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university_other": "",
+      "course": "Informática",
+      "course_other": "",
+      "q_robot_related_1": "6",
+      "q_knowledge_robot_related_1_1": "5",
+      "q_knowledge_robot_related_1_2": "3",
+      "q_robot_related_2": "5",
+      "q_knowledge_robot_related_2_1": "5",
+      "q_knowledge_robot_related_2_2": "5",
+      "q_robot_related_3": "4",
+      "q_knowledge_robot_related_3_1": "5",
+      "q_knowledge_robot_related_3_2": "3",
+      "q_robot_related_4": "5",
+      "q_knowledge_robot_related_4_1": "3",
+      "q_knowledge_robot_related_4_2": "3",
+      "q_robot_related_5": "2",
+      "q_knowledge_robot_related_5_1": "5",
+      "q_knowledge_robot_related_5_2": "3",
+      "q_robot_related_6": "3",
+      "q_knowledge_robot_related_6_1": "4",
+      "q_knowledge_robot_related_6_2": "3",
+      "q_robot_related_7": "4",
+      "q_knowledge_robot_related_7_1": "3",
+      "q_knowledge_robot_related_7_2": "3",
+      "q_robot_related_8": "1",
+      "q_knowledge_robot_related_8_1": "4",
+      "q_knowledge_robot_related_8_2": "4",
+      "q_robot_related_9": "5",
+      "q_knowledge_robot_related_9_1": "4",
+      "q_knowledge_robot_related_9_2": "3",
+      "q_robot_related_10": "6",
+      "q_knowledge_robot_related_10_1": "3",
+      "q_knowledge_robot_related_10_2": "4"
+    },
+    "rounds": {
+      "0": {
+        "statement_id": "5",
+        "agents": "robots",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "4"
+      },
+      "1": {
+        "statement_id": "2",
+        "agents": "virtuals",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "3"
+      },
+      "2": {
+        "statement_id": "4",
+        "agents": "articles",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "5"
+      },
+      "3": {
+        "statement_id": "1",
+        "agents": "virtuals",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_disagree",
+        "participant_public_opinion": "3"
+      },
+      "4": {
+        "statement_id": "3",
+        "agents": "robots",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_disagree",
+        "participant_public_opinion": "2"
+      },
+      "5": {
+        "statement_id": "6",
+        "agents": "articles",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "6"
+      }
+    },
+    "pro": {
+      "participant_id": "45",
+      "phase": "pro",
+      "topic": "robot_related",
+      "q_robot_related_1": "5",
+      "q_robot_related_2": "5",
+      "q_robot_related_3": "3",
+      "q_robot_related_4": "5",
+      "q_robot_related_5": "3",
+      "q_robot_related_6": "2",
+      "q_robot_related_7": "5",
+      "q_robot_related_8": "2",
+      "q_robot_related_9": "5",
+      "q_robot_related_10": "6",
+      "party": "Livre",
+      "ai_freq": "Diariamente",
+      "ai_freq_other": "",
+      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq_other": "",
+      "robot_types": "Aspiradores, entregar de comida em restaurante, dash, reachy, blossom qt"
+    }
+  },
+  "46": {
+    "timestamp": "2026-06-19T11:36:23.412298",
+    "topic": "socio-economic",
+    "pre": {
+      "participant_id": "46",
+      "phase": "pre",
+      "topic": "socio-economic",
+      "age": "19",
+      "gender": "Masculino",
+      "gender_other": "",
+      "nationality": "Portuguesa",
+      "nationality_other": "",
+      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university_other": "",
+      "course": "Matemática e Estatística",
+      "course_other": "",
+      "q_socio-economic_1": "4",
+      "q_knowledge_socio-economic_1_1": "4",
+      "q_knowledge_socio-economic_1_2": "5",
+      "q_socio-economic_2": "3",
+      "q_knowledge_socio-economic_2_1": "5",
+      "q_knowledge_socio-economic_2_2": "3",
+      "q_socio-economic_3": "5",
+      "q_knowledge_socio-economic_3_1": "3",
+      "q_knowledge_socio-economic_3_2": "6",
+      "q_socio-economic_4": "5",
+      "q_knowledge_socio-economic_4_1": "2",
+      "q_knowledge_socio-economic_4_2": "5",
+      "q_socio-economic_5": "3",
+      "q_knowledge_socio-economic_5_1": "1",
+      "q_knowledge_socio-economic_5_2": "3",
+      "q_socio-economic_6": "5",
+      "q_knowledge_socio-economic_6_1": "4",
+      "q_knowledge_socio-economic_6_2": "5"
+    },
+    "rounds": {
+      "0": {
+        "statement_id": "1",
+        "agents": "robots",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "4"
+      },
+      "1": {
+        "statement_id": "2",
+        "agents": "robots",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_disagree",
+        "participant_public_opinion": "3"
+      },
+      "2": {
+        "statement_id": "3",
+        "agents": "articles",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "2"
+      },
+      "3": {
+        "statement_id": "4",
+        "agents": "virtuals",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "3"
+      },
+      "4": {
+        "statement_id": "5",
+        "agents": "articles",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_disagree",
+        "participant_public_opinion": "2"
+      },
+      "5": {
+        "statement_id": "6",
+        "agents": "virtuals",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "4"
+      }
+    },
+    "pro": {
+      "participant_id": "46",
+      "phase": "pro",
+      "topic": "socio-economic",
+      "q_socio-economic_1": "4",
+      "q_socio-economic_2": "4",
+      "q_socio-economic_3": "4",
+      "q_socio-economic_4": "2",
+      "q_socio-economic_5": "2",
+      "q_socio-economic_6": "4",
+      "party": "LIVRE",
+      "ai_freq": "Cerca de três vezes por mês",
+      "ai_freq_other": "",
+      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq_other": "",
+      "robot_types": "Nenhum"
+    }
+  },
+  "47": {
+    "timestamp": "2026-06-19T13:04:45.408852",
+    "topic": "robot_related",
+    "pre": {
+      "participant_id": "47",
+      "phase": "pre",
+      "topic": "robot_related",
+      "age": "22",
+      "gender": "Masculino",
+      "gender_other": "",
+      "nationality": "Portuguesa",
+      "nationality_other": "",
+      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university_other": "",
+      "course": "Engenharia e Técnicas Afins",
+      "course_other": "",
+      "q_robot_related_1": "6",
+      "q_knowledge_robot_related_1_1": "5",
+      "q_knowledge_robot_related_1_2": "6",
+      "q_robot_related_2": "6",
+      "q_knowledge_robot_related_2_1": "5",
+      "q_knowledge_robot_related_2_2": "7",
+      "q_robot_related_3": "4",
+      "q_knowledge_robot_related_3_1": "6",
+      "q_knowledge_robot_related_3_2": "7",
+      "q_robot_related_4": "6",
+      "q_knowledge_robot_related_4_1": "6",
+      "q_knowledge_robot_related_4_2": "7",
+      "q_robot_related_5": "5",
+      "q_knowledge_robot_related_5_1": "6",
+      "q_knowledge_robot_related_5_2": "7",
+      "q_robot_related_6": "2",
+      "q_knowledge_robot_related_6_1": "6",
+      "q_knowledge_robot_related_6_2": "7",
+      "q_robot_related_7": "3",
+      "q_knowledge_robot_related_7_1": "5",
+      "q_knowledge_robot_related_7_2": "7",
+      "q_robot_related_8": "6",
+      "q_knowledge_robot_related_8_1": "7",
+      "q_knowledge_robot_related_8_2": "7",
+      "q_robot_related_9": "5",
+      "q_knowledge_robot_related_9_1": "6",
+      "q_knowledge_robot_related_9_2": "7",
+      "q_robot_related_10": "6",
+      "q_knowledge_robot_related_10_1": "5",
+      "q_knowledge_robot_related_10_2": "7"
+    },
+    "rounds": {
+      "0": {
+        "statement_id": "4",
+        "agents": "articles",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "5"
+      },
+      "1": {
+        "statement_id": "3",
+        "agents": "articles",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "3"
+      },
+      "2": {
+        "statement_id": "6",
+        "agents": "virtuals",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "6"
+      },
+      "3": {
+        "statement_id": "2",
+        "agents": "robots",
+        "condition": "half_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "3"
+      },
+      "4": {
+        "statement_id": "1",
+        "agents": "virtuals",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_agree",
+        "participant_public_opinion": "3"
+      },
+      "5": {
+        "statement_id": "5",
+        "agents": "robots",
+        "condition": "all_disagree",
+        "participant_opinion": "participant_disagree",
+        "participant_public_opinion": "3"
+      }
+    },
+    "pro": {
+      "participant_id": "47",
+      "phase": "pro",
+      "topic": "robot_related",
+      "q_robot_related_1": "5",
+      "q_robot_related_2": "3",
+      "q_robot_related_3": "3",
+      "q_robot_related_4": "4",
+      "q_robot_related_5": "3",
+      "q_robot_related_6": "3",
+      "q_robot_related_7": "3",
+      "q_robot_related_8": "2",
+      "q_robot_related_9": "5",
+      "q_robot_related_10": "5",
+      "party": "Livre",
+      "ai_freq": "Semanalmente",
+      "ai_freq_other": "",
+      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq_other": "",
+      "robot_types": "Apenas robôs de movimentação, nunca com robôs com alguma IA."
+    }
   }
 }
