@@ -1,0 +1,254 @@
+[
+  {
+    "statement_id": 1,
+    "agent": "robots",
+    "topic": "robot_related",
+    "conformity": 0.10763888888888888,
+    "n": 6
+  },
+  {
+    "statement_id": 1,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "conformity": 0.0390625,
+    "n": 8
+  },
+  {
+    "statement_id": 1,
+    "agent": "articles",
+    "topic": "robot_related",
+    "conformity": -0.006944444444444445,
+    "n": 6
+  },
+  {
+    "statement_id": 2,
+    "agent": "robots",
+    "topic": "robot_related",
+    "conformity": -0.006944444444444444,
+    "n": 9
+  },
+  {
+    "statement_id": 2,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "conformity": 0.06041666666666667,
+    "n": 6
+  },
+  {
+    "statement_id": 2,
+    "agent": "articles",
+    "topic": "robot_related",
+    "conformity": 0.022083333333333333,
+    "n": 10
+  },
+  {
+    "statement_id": 3,
+    "agent": "robots",
+    "topic": "robot_related",
+    "conformity": 0.055059523809523815,
+    "n": 14
+  },
+  {
+    "statement_id": 3,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "conformity": 0.0732142857142857,
+    "n": 7
+  },
+  {
+    "statement_id": 3,
+    "agent": "articles",
+    "topic": "robot_related",
+    "conformity": 0.05052083333333333,
+    "n": 8
+  },
+  {
+    "statement_id": 4,
+    "agent": "robots",
+    "topic": "robot_related",
+    "conformity": 0.0861111111111111,
+    "n": 6
+  },
+  {
+    "statement_id": 4,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "conformity": -0.008333333333333337,
+    "n": 7
+  },
+  {
+    "statement_id": 4,
+    "agent": "articles",
+    "topic": "robot_related",
+    "conformity": 0.10347222222222223,
+    "n": 6
+  },
+  {
+    "statement_id": 5,
+    "agent": "robots",
+    "topic": "robot_related",
+    "conformity": 0.0763888888888889,
+    "n": 9
+  },
+  {
+    "statement_id": 5,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "conformity": 0.029166666666666667,
+    "n": 9
+  },
+  {
+    "statement_id": 5,
+    "agent": "articles",
+    "topic": "robot_related",
+    "conformity": 0.0,
+    "n": 6
+  },
+  {
+    "statement_id": 6,
+    "agent": "robots",
+    "topic": "robot_related",
+    "conformity": 0.03125,
+    "n": 2
+  },
+  {
+    "statement_id": 6,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "conformity": 0.07361111111111111,
+    "n": 9
+  },
+  {
+    "statement_id": 6,
+    "agent": "articles",
+    "topic": "robot_related",
+    "conformity": -0.0012500000000000011,
+    "n": 10
+  },
+  {
+    "statement_id": 1,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "conformity": 0.027777777777777776,
+    "n": 6
+  },
+  {
+    "statement_id": 1,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "conformity": 0.04791666666666666,
+    "n": 10
+  },
+  {
+    "statement_id": 1,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "conformity": -0.016666666666666666,
+    "n": 7
+  },
+  {
+    "statement_id": 2,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "conformity": 0.0125,
+    "n": 5
+  },
+  {
+    "statement_id": 2,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "conformity": 0.025,
+    "n": 10
+  },
+  {
+    "statement_id": 2,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "conformity": 0.09907407407407408,
+    "n": 9
+  },
+  {
+    "statement_id": 3,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "conformity": 0.00416666666666667,
+    "n": 6
+  },
+  {
+    "statement_id": 3,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "conformity": 0.047619047619047616,
+    "n": 7
+  },
+  {
+    "statement_id": 3,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "conformity": 0.049999999999999996,
+    "n": 7
+  },
+  {
+    "statement_id": 4,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "conformity": 0.004861111111111111,
+    "n": 12
+  },
+  {
+    "statement_id": 4,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "conformity": 0.11458333333333333,
+    "n": 6
+  },
+  {
+    "statement_id": 4,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "conformity": -0.03125,
+    "n": 4
+  },
+  {
+    "statement_id": 5,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "conformity": 0.03863636363636363,
+    "n": 11
+  },
+  {
+    "statement_id": 5,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "conformity": 0.038690476190476185,
+    "n": 7
+  },
+  {
+    "statement_id": 5,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "conformity": 0.0787037037037037,
+    "n": 9
+  },
+  {
+    "statement_id": 6,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "conformity": 0.042361111111111106,
+    "n": 6
+  },
+  {
+    "statement_id": 6,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "conformity": 0.052083333333333336,
+    "n": 6
+  },
+  {
+    "statement_id": 6,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "conformity": 0.08416666666666667,
+    "n": 10
+  }
+]
