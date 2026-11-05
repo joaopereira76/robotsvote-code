@@ -11,9 +11,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto de Geografia e Ordenamento do Território",
+      "university": "Universidade de Lisboa - Instituto de Geografia e Ordenamento do TerritÃ³rio",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "1",
@@ -40,7 +40,7 @@
         "agents": "articles",
         "condition": "all_disagree",
         "participant_opinion": "participant_disagree",
-        "participant_public_opinion": "3"
+        "participant_public_opinion": "1"
       },
       "1": {
         "statement_id": "6",
@@ -105,7 +105,7 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
       "course": "Outro",
       "course_other": "Geologia",
@@ -183,9 +183,9 @@
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "4",
       "party": "IL",
-      "ai_freq": "Cerca de uma vez por mês",
+      "ai_freq": "Cerca de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -202,9 +202,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -298,7 +298,7 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -315,9 +315,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Medicina Veterinária",
+      "university": "Universidade de Lisboa - Faculdade de Medicina VeterinÃ¡ria",
       "university_other": "",
-      "course": "Ciências Veterinárias",
+      "course": "CiÃªncias VeterinÃ¡rias",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -393,9 +393,9 @@
       "q_socio-economic_5": "4",
       "q_socio-economic_6": "1",
       "party": "CDU",
-      "ai_freq": "Menos de uma vez por mês",
+      "ai_freq": "Menos de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -412,7 +412,7 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade Católica Portuguesa - Faculdade de Ciências Humanas",
+      "university": "Universidade CatÃ³lica Portuguesa - Faculdade de CiÃªncias Humanas",
       "university_other": "",
       "course": "Humanidades",
       "course_other": "",
@@ -506,9 +506,9 @@
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
       "party": "BE",
-      "ai_freq": "Cerca de uma vez por mês",
+      "ai_freq": "Cerca de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -528,7 +528,7 @@
       "university": "Universidade Nova de Lisboa - Faculdade de Economia",
       "university_other": "",
       "course": "Outro",
-      "course_other": "Gestão",
+      "course_other": "GestÃ£o",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
       "q_knowledge_socio-economic_1_2": "6",
@@ -605,7 +605,7 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhuns sem ser Estes, creio"
     }
@@ -624,7 +624,7 @@
       "nationality_other": "",
       "university": "Universidade Nova de Lisboa - Faculdade de Economia",
       "university_other": "",
-      "course": "Ciências Empresariais",
+      "course": "CiÃªncias Empresariais",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -718,9 +718,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "8": {
@@ -735,9 +735,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "5",
@@ -815,9 +815,9 @@
       "party": "Nao votei",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público, entertenimento"
+      "robot_types": "Atendimento ao pÃºblico, entertenimento"
     }
   },
   "9": {
@@ -832,10 +832,10 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas",
+      "university": "Universidade Nova de Lisboa - Faculdade de CiÃªncias Sociais e Humanas",
       "university_other": "",
       "course": "Outro",
-      "course_other": "Ciencia Politica e Relações Internacionais",
+      "course_other": "Ciencia Politica e RelaÃ§Ãµes Internacionais",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "4",
       "q_knowledge_robot_related_1_2": "4",
@@ -928,7 +928,7 @@
       "party": "BE",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Atendimento "
     }
@@ -945,9 +945,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "4",
@@ -1025,7 +1025,7 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Furhat, reachy mini, franka (braco robotico), cao robo, humanoides, Nao"
     }
@@ -1042,9 +1042,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -1122,7 +1122,7 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -1139,9 +1139,9 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Italiana",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -1219,9 +1219,9 @@
       "party": "Nao votei",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "13": {
@@ -1236,9 +1236,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "3",
@@ -1332,7 +1332,7 @@
       "party": "L",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum "
     }
@@ -1349,10 +1349,10 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
       "course": "Outro",
-      "course_other": "Geologia / Ciências da Terra",
+      "course_other": "Geologia / CiÃªncias da Terra",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "5",
       "q_knowledge_robot_related_1_2": "7",
@@ -1445,9 +1445,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs de auxilio em casa, Alexas, telemóveis"
+      "robot_types": "RobÃ´s de auxilio em casa, Alexas, telemÃ³veis"
     }
   },
   "15": {
@@ -1462,10 +1462,10 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
       "course": "Outro",
-      "course_other": "Ciências da Terra",
+      "course_other": "CiÃªncias da Terra",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
       "q_knowledge_robot_related_1_2": "3",
@@ -1556,9 +1556,9 @@
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
       "party": "PS",
-      "ai_freq": "Menos de uma vez por mês",
+      "ai_freq": "Menos de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -1575,9 +1575,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "3",
@@ -1655,7 +1655,7 @@
       "party": "PS",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Apenas os que fazem parte deste estudo"
     }
@@ -1672,9 +1672,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "2",
       "q_knowledge_robot_related_1_1": "4",
@@ -1768,9 +1768,9 @@
       "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robô que leva comida à mesa"
+      "robot_types": "RobÃ´ que leva comida Ã  mesa"
     }
   },
   "18": {
@@ -1785,9 +1785,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "4",
@@ -1865,7 +1865,7 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Dash, ozobot, temi"
     }
@@ -1882,9 +1882,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "ISCTE - Instituto Universitário de Lisboa",
+      "university": "ISCTE - Instituto UniversitÃ¡rio de Lisboa",
       "university_other": "",
-      "course": "Ciências Sociais e do Comportamento",
+      "course": "CiÃªncias Sociais e do Comportamento",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -1976,9 +1976,9 @@
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
       "party": "L",
-      "ai_freq": "Cerca de três vezes por mês",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -1995,9 +1995,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -2075,7 +2075,7 @@
       "party": "IL",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -2092,9 +2092,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -2190,7 +2190,7 @@
       "ai_freq_other": "",
       "robot_freq": "Diariamente",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "22": {
@@ -2205,9 +2205,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "5",
@@ -2285,9 +2285,9 @@
       "party": "PS",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs de limpeza, robôs de diálogo"
+      "robot_types": "RobÃ´s de limpeza, robÃ´s de diÃ¡logo"
     }
   },
   "23": {
@@ -2302,9 +2302,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "3",
@@ -2396,11 +2396,11 @@
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
       "party": "CDU",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs industrais, chatbots de ai e os 4 robozinhos desta atividade"
+      "robot_types": "RobÃ´s industrais, chatbots de ai e os 4 robozinhos desta atividade"
     }
   },
   "24": {
@@ -2415,9 +2415,9 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Brasileira",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "6",
@@ -2495,9 +2495,9 @@
       "party": "Nao votei",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "25": {
@@ -2512,9 +2512,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "2",
@@ -2608,7 +2608,7 @@
       "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Especialmente aqueles que agora sao usados em restaurants, que servem para colocar tabuleiros"
     }
@@ -2625,9 +2625,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "3",
@@ -2705,7 +2705,7 @@
       "party": "BE",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "No restaurante"
     }
@@ -2722,9 +2722,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "5",
@@ -2818,7 +2818,7 @@
       "party": "Branco",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Drones, aspiradores automaticos"
     }
@@ -2835,9 +2835,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -2913,9 +2913,9 @@
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "2",
       "party": "Nao votei",
-      "ai_freq": "Cerca de três vezes por mês",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Limpeza"
     }
@@ -2932,9 +2932,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "5",
@@ -3028,9 +3028,9 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "30": {
@@ -3045,9 +3045,9 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Brasileira",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "5",
@@ -3125,9 +3125,9 @@
       "party": "Nao votei",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "31": {
@@ -3142,9 +3142,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "6",
@@ -3238,9 +3238,9 @@
       "party": "L",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores, temi, robôs sociais"
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores, temi, robÃ´s sociais"
     }
   },
   "32": {
@@ -3255,9 +3255,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto Superior Técnico",
+      "university": "Universidade de Lisboa - Instituto Superior TÃ©cnico",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "5",
@@ -3335,9 +3335,9 @@
       "party": "BE",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "33": {
@@ -3352,9 +3352,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "5",
@@ -3448,9 +3448,9 @@
       "party": "Nao votei",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Este estudo é a primeira vez que interajo com um robô."
+      "robot_types": "Este estudo Ã© a primeira vez que interajo com um robÃ´."
     }
   },
   "34": {
@@ -3465,9 +3465,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "4",
@@ -3545,9 +3545,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Um robô que seguia uma linha preta, era o trabalho de fisica da Minha irmã"
+      "robot_types": "Um robÃ´ que seguia uma linha preta, era o trabalho de fisica da Minha irmÃ£"
     }
   },
   "35": {
@@ -3562,9 +3562,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "5",
@@ -3656,11 +3656,11 @@
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
       "party": "L",
-      "ai_freq": "Menos de uma vez por mês",
+      "ai_freq": "Menos de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs sociais, robôs que assistem na restauração"
+      "robot_types": "RobÃ´s sociais, robÃ´s que assistem na restauraÃ§Ã£o"
     }
   },
   "36": {
@@ -3675,9 +3675,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "2",
@@ -3755,7 +3755,7 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Limpeza"
     }
@@ -3772,9 +3772,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -3870,7 +3870,7 @@
       "ai_freq_other": "",
       "robot_freq": "Diariamente",
       "robot_freq_other": "",
-      "robot_types": "Computadores, ferramentas de AI, robôs de cozinha"
+      "robot_types": "Computadores, ferramentas de AI, robÃ´s de cozinha"
     }
   },
   "38": {
@@ -3885,9 +3885,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -3965,7 +3965,7 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum."
     }
@@ -3982,9 +3982,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -4078,9 +4078,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs de limpeza "
+      "robot_types": "RobÃ´s de limpeza "
     }
   },
   "40": {
@@ -4091,13 +4091,13 @@
       "phase": "pre",
       "topic": "socio-economic",
       "age": "21",
-      "gender": "Prefiro não responder",
+      "gender": "Prefiro nÃ£o responder",
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "3",
@@ -4175,7 +4175,7 @@
       "party": "L",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -4192,9 +4192,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -4288,9 +4288,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "42": {
@@ -4305,9 +4305,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "5",
@@ -4385,9 +4385,9 @@
       "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robô a entregar comida no restaurante; aspirador"
+      "robot_types": "RobÃ´ a entregar comida no restaurante; aspirador"
     }
   },
   "43": {
@@ -4402,9 +4402,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "6",
@@ -4515,9 +4515,9 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Brasil",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -4595,9 +4595,9 @@
       "party": "Nao votei",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs de limpeza, robôs que imitam expressoes faciais para desenvolvimento tecnologico, robôs de corrida tipo concurso de robotica"
+      "robot_types": "RobÃ´s de limpeza, robÃ´s que imitam expressoes faciais para desenvolvimento tecnologico, robÃ´s de corrida tipo concurso de robotica"
     }
   },
   "45": {
@@ -4612,9 +4612,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "5",
@@ -4708,7 +4708,7 @@
       "party": "L",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Aspiradores, entregar de comida em restaurante, dash, reachy, blossom qt"
     }
@@ -4725,9 +4725,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -4803,9 +4803,9 @@
       "q_socio-economic_5": "2",
       "q_socio-economic_6": "4",
       "party": "L",
-      "ai_freq": "Cerca de três vezes por mês",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -4822,9 +4822,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "5",
@@ -4918,9 +4918,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Apenas robôs de movimentação, nunca com robôs com alguma IA."
+      "robot_types": "Apenas robÃ´s de movimentaÃ§Ã£o, nunca com robÃ´s com alguma IA."
     }
   },
   "48": {
@@ -4935,9 +4935,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa",
+      "university": "Escola Superior de SaÃºde da Cruz Vermelha Portuguesa - Lisboa",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -5013,9 +5013,9 @@
       "q_socio-economic_5": "5",
       "q_socio-economic_6": "4",
       "party": "L",
-      "ai_freq": "Cerca de uma vez por mês",
+      "ai_freq": "Cerca de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Roombas, robots aspirar no suoermercado"
     }
@@ -5032,9 +5032,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Instituto Politécnico de Lisboa - Escola Superior de Saúde de Lisboa",
+      "university": "Instituto PolitÃ©cnico de Lisboa - Escola Superior de SaÃºde de Lisboa",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_robot_related_1": "3",
       "q_knowledge_robot_related_1_1": "4",
@@ -5128,9 +5128,9 @@
       "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem as mesas ,as de retirar senhas no supermercado , robôs de segurança"
+      "robot_types": "RobÃ´s que servem as mesas ,as de retirar senhas no supermercado , robÃ´s de seguranÃ§a"
     }
   },
   "50": {
@@ -5145,9 +5145,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "2",
@@ -5225,9 +5225,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "51": {
@@ -5242,9 +5242,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "5",
@@ -5338,9 +5338,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de três vezes por mês",
+      "robot_freq": "Cerca de trÃªs vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores, atendimento ao público "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores, atendimento ao pÃºblico "
     }
   },
   "52": {
@@ -5355,7 +5355,7 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Guine-Bissau ",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
       "course": "Outro",
       "course_other": "Geologia ",
@@ -5435,9 +5435,9 @@
       "party": "Nao votei",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "53": {
@@ -5452,9 +5452,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -5548,9 +5548,9 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas"
+      "robot_types": "RobÃ´s que servem Ã s mesas"
     }
   },
   "54": {
@@ -5565,9 +5565,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -5645,9 +5645,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "55": {
@@ -5662,9 +5662,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "6",
@@ -5760,7 +5760,7 @@
       "ai_freq_other": "",
       "robot_freq": "Semanalmente",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "56": {
@@ -5775,9 +5775,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "5",
@@ -5855,9 +5855,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Limpeza e robôs que servem às mesas"
+      "robot_types": "Limpeza e robÃ´s que servem Ã s mesas"
     }
   },
   "57": {
@@ -5874,7 +5874,7 @@
       "nationality_other": "",
       "university": "Universidade de Lisboa - Faculdade de Medicina",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -5968,9 +5968,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robô aspirador"
+      "robot_types": "RobÃ´ aspirador"
     }
   },
   "58": {
@@ -5985,9 +5985,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -6065,9 +6065,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas"
+      "robot_types": "RobÃ´s que servem Ã s mesas"
     }
   },
   "59": {
@@ -6078,14 +6078,14 @@
       "phase": "pre",
       "topic": "robot_related",
       "age": "21",
-      "gender": "Não-binário",
+      "gender": "NÃ£o-binÃ¡rio",
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
       "course": "Outro",
-      "course_other": "Química",
+      "course_other": "QuÃ­mica",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "5",
       "q_knowledge_robot_related_1_2": "6",
@@ -6176,11 +6176,11 @@
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
       "party": "L",
-      "ai_freq": "Não utilizei nos últimos seis meses",
+      "ai_freq": "NÃ£o utilizei nos Ãºltimos seis meses",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "60": {
@@ -6195,9 +6195,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "3",
@@ -6273,11 +6273,11 @@
       "q_socio-economic_5": "5",
       "q_socio-economic_6": "2",
       "party": "Nao votei",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "61": {
@@ -6292,9 +6292,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "3",
@@ -6388,9 +6388,9 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Que me lembre, até à experiência de hoje, relacionada a este inquérito, nunca"
+      "robot_types": "Que me lembre, atÃ© Ã  experiÃªncia de hoje, relacionada a este inquÃ©rito, nunca"
     }
   },
   "62": {
@@ -6405,9 +6405,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -6485,7 +6485,7 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum "
     }
@@ -6502,9 +6502,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "5",
@@ -6598,7 +6598,7 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -6611,13 +6611,13 @@
       "phase": "pre",
       "topic": "socio-economic",
       "age": "26",
-      "gender": "Prefiro não responder",
+      "gender": "Prefiro nÃ£o responder",
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "3",
@@ -6695,7 +6695,7 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Ri"
     }
@@ -6712,9 +6712,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -6806,11 +6806,11 @@
       "q_robot_related_9": "4",
       "q_robot_related_10": "4",
       "party": "AD",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robô de restaurante"
+      "robot_types": "RobÃ´ de restaurante"
     }
   },
   "66": {
@@ -6825,9 +6825,9 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "China",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "3",
@@ -6905,7 +6905,7 @@
       "party": "Nao votei",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -6922,9 +6922,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto Superior Técnico",
+      "university": "Universidade de Lisboa - Instituto Superior TÃ©cnico",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "2",
@@ -7035,9 +7035,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "4",
@@ -7115,7 +7115,7 @@
       "party": "CDU",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -7132,9 +7132,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -7228,9 +7228,9 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Os que tratam de limpar o chão."
+      "robot_types": "Os que tratam de limpar o chÃ£o."
     }
   },
   "70": {
@@ -7245,9 +7245,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto Superior Técnico",
+      "university": "Universidade de Lisboa - Instituto Superior TÃ©cnico",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "6",
@@ -7325,7 +7325,7 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Robot de preenchimento de faturas ao cliente com base em materials utilizados durante a cirurgia"
     }
@@ -7342,9 +7342,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Proteção do Ambiente",
+      "course": "ProteÃ§Ã£o do Ambiente",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "4",
@@ -7438,7 +7438,7 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "IA"
     }
@@ -7455,9 +7455,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "5",
@@ -7535,7 +7535,7 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum "
     }
@@ -7552,9 +7552,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -7648,7 +7648,7 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Workshop Wendy Wu"
     }
@@ -7665,9 +7665,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "4",
@@ -7745,7 +7745,7 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -7762,9 +7762,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto Superior Técnico",
+      "university": "Universidade de Lisboa - Instituto Superior TÃ©cnico",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "4",
@@ -7860,7 +7860,7 @@
       "ai_freq_other": "",
       "robot_freq": "Semanalmente",
       "robot_freq_other": "",
-      "robot_types": "Maioritariamente robôs de limpeza, já com algumas características humanas"
+      "robot_types": "Maioritariamente robÃ´s de limpeza, jÃ¡ com algumas caracterÃ­sticas humanas"
     }
   },
   "76": {
@@ -7875,9 +7875,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -7955,9 +7955,9 @@
       "party": "Branco",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs de limpeza"
+      "robot_types": "RobÃ´s de limpeza"
     }
   },
   "77": {
@@ -7972,9 +7972,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -8068,9 +8068,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Serviço de mesa e limpeza"
+      "robot_types": "ServiÃ§o de mesa e limpeza"
     }
   },
   "78": {
@@ -8085,9 +8085,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -8165,9 +8165,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "79": {
@@ -8182,9 +8182,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "2",
@@ -8278,9 +8278,9 @@
       "party": "CDU",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs aspiradores; Robôs falantes :);"
+      "robot_types": "RobÃ´s aspiradores; RobÃ´s falantes :);"
     }
   },
   "80": {
@@ -8295,9 +8295,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -8375,7 +8375,7 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -8394,7 +8394,7 @@
       "nationality_other": "",
       "university": "Universidade de Lisboa - Faculdade de Medicina",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "7",
@@ -8488,9 +8488,9 @@
       "party": "PS",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "82": {
@@ -8504,11 +8504,11 @@
       "gender": "Masculino",
       "gender_other": "",
       "nationality": "Outro",
-      "nationality_other": "França",
+      "nationality_other": "FranÃ§a",
       "university": "Outro",
       "university_other": "Chimie Paristech",
       "course": "Outro",
-      "course_other": "Química",
+      "course_other": "QuÃ­mica",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "5",
       "q_knowledge_robot_related_1_2": "6",
@@ -8601,7 +8601,7 @@
       "party": "Nao votei",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Aspirador inteligente"
     }
@@ -8618,9 +8618,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "1",
@@ -8698,9 +8698,9 @@
       "party": "Branco",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Nenhum 😔"
+      "robot_types": "Nenhum ðŸ˜”"
     }
   },
   "84": {
@@ -8717,7 +8717,7 @@
       "nationality_other": "",
       "university": "Universidade de Lisboa - Faculdade de Medicina",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -8795,7 +8795,7 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum "
     }
@@ -8814,7 +8814,7 @@
       "nationality_other": "",
       "university": "Universidade de Lisboa - Faculdade de Medicina",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -8908,7 +8908,7 @@
       "party": "Nao votei",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -8925,9 +8925,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "4",
@@ -9005,9 +9005,9 @@
       "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs aspiradores de supermercado"
+      "robot_types": "RobÃ´s aspiradores de supermercado"
     }
   },
   "87": {
@@ -9023,7 +9023,7 @@
       "nationality": "Portuguesa",
       "nationality_other": "",
       "university": "Outro",
-      "university_other": "Não ",
+      "university_other": "NÃ£o ",
       "course": "Humanidades",
       "course_other": "",
       "q_robot_related_1": "4",
@@ -9118,7 +9118,7 @@
       "party": "CH",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Limpeza"
     }
@@ -9137,7 +9137,7 @@
       "nationality_other": "",
       "university": "Universidade de Lisboa - Faculdade de Medicina",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -9215,9 +9215,9 @@
       "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robo aspirados, limpeza de supermercado, atendimentoà mesa"
+      "robot_types": "Robo aspirados, limpeza de supermercado, atendimentoÃ  mesa"
     }
   },
   "89": {
@@ -9232,9 +9232,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "4",
@@ -9330,7 +9330,7 @@
       "ai_freq_other": "",
       "robot_freq": "Semanalmente",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores, atendimento ao público "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores, atendimento ao pÃºblico "
     }
   },
   "90": {
@@ -9345,9 +9345,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "3",
@@ -9427,7 +9427,7 @@
       "ai_freq_other": "",
       "robot_freq": "Semanalmente",
       "robot_freq_other": "",
-      "robot_types": "Robôs das inteligências artificiais e deste estudo"
+      "robot_types": "RobÃ´s das inteligÃªncias artificiais e deste estudo"
     }
   },
   "91": {
@@ -9442,9 +9442,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -9538,7 +9538,7 @@
       "party": "CDU",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nada"
     }
@@ -9555,9 +9555,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "3",
@@ -9633,11 +9633,11 @@
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "3",
       "party": "Nao votei",
-      "ai_freq": "Cerca de três vezes por mês",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Não interajo "
+      "robot_types": "NÃ£o interajo "
     }
   },
   "93": {
@@ -9652,9 +9652,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto Superior Técnico",
+      "university": "Universidade de Lisboa - Instituto Superior TÃ©cnico",
       "university_other": "",
-      "course": "Engenharia e Técnicas Afins",
+      "course": "Engenharia e TÃ©cnicas Afins",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "5",
@@ -9842,10 +9842,10 @@
       "q_socio-economic_4": "3",
       "q_socio-economic_5": "2",
       "q_socio-economic_6": "5",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "De restaurantes e aspiradores "
     }
@@ -9862,9 +9862,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "2",
@@ -9940,9 +9940,9 @@
       "q_socio-economic_5": "2",
       "q_socio-economic_6": "5",
       "party": "IL",
-      "ai_freq": "Não utilizei nos últimos seis meses",
+      "ai_freq": "NÃ£o utilizei nos Ãºltimos seis meses",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Robots interativos na expo 2020"
     }
@@ -9959,9 +9959,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -10055,7 +10055,7 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Robots sociais, robots aspiradores"
     }
@@ -10072,9 +10072,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "3",
@@ -10166,11 +10166,11 @@
       "q_robot_related_9": "6",
       "q_robot_related_10": "5",
       "party": "PS",
-      "ai_freq": "Menos de uma vez por mês",
+      "ai_freq": "Menos de uma vez por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robô aspirador"
+      "robot_types": "RobÃ´ aspirador"
     }
   },
   "98": {
@@ -10185,9 +10185,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "2",
@@ -10262,10 +10262,10 @@
       "q_socio-economic_4": "3",
       "q_socio-economic_5": "4",
       "q_socio-economic_6": "2",
-      "party": "Não podia votar",
+      "party": "NÃ£o podia votar",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Limpeza, sociais"
     }
@@ -10282,9 +10282,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -10375,10 +10375,10 @@
       "q_robot_related_8": "4",
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
-      "party": "Iniciativa Liberal ",
+      "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Qtrobot"
     }
@@ -10472,10 +10472,10 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "1",
       "q_socio-economic_6": "4",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum"
     }
@@ -10585,12 +10585,12 @@
       "q_robot_related_8": "6",
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
-      "party": "Bloco de esquerda",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "party": "BE",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem as mesas "
+      "robot_types": "RobÃ´s que servem as mesas "
     }
   },
   "102": {
@@ -10605,9 +10605,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -10685,9 +10685,9 @@
       "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Não me recordo"
+      "robot_types": "NÃ£o me recordo"
     }
   },
   "103": {
@@ -10702,9 +10702,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -10798,9 +10798,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs nos restaurantes que servem a mesa"
+      "robot_types": "RobÃ´s nos restaurantes que servem a mesa"
     }
   },
   "104": {
@@ -10815,9 +10815,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "5",
@@ -10895,9 +10895,9 @@
       "party": "PS",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "105": {
@@ -10912,9 +10912,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Instituto Politécnico de Lisboa - Escola Superior de Saúde de Lisboa",
+      "university": "Instituto PolitÃ©cnico de Lisboa - Escola Superior de SaÃºde de Lisboa",
       "university_other": "",
-      "course": "Saúde",
+      "course": "SaÃºde",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "3",
@@ -11005,12 +11005,12 @@
       "q_robot_related_8": "5",
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
-      "party": "Psd",
+      "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "106": {
@@ -11025,9 +11025,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "5",
       "q_knowledge_socio-economic_1_1": "4",
@@ -11102,12 +11102,12 @@
       "q_socio-economic_4": "3",
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "5",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de uma vez por mês",
+      "robot_freq": "Cerca de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs de limpar o chão, bem como robôs de trazer a comida à mesa em por exemplo restaurantes de sushi"
+      "robot_types": "RobÃ´s de limpar o chÃ£o, bem como robÃ´s de trazer a comida Ã  mesa em por exemplo restaurantes de sushi"
     }
   },
   "107": {
@@ -11122,9 +11122,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "1",
@@ -11218,9 +11218,9 @@
       "party": "AD",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Não se aplica."
+      "robot_types": "NÃ£o se aplica."
     }
   },
   "108": {
@@ -11235,9 +11235,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "3",
@@ -11285,7 +11285,7 @@
         "agents": "robots",
         "condition": "all_disagree",
         "participant_opinion": "participant_agree",
-        "participant_public_opinion": "5"
+        "participant_public_opinion": "4"
       },
       "4": {
         "statement_id": "3",
@@ -11312,10 +11312,10 @@
       "q_socio-economic_4": "3",
       "q_socio-economic_5": "5",
       "q_socio-economic_6": "6",
-      "party": "Iniciativa Liberal",
+      "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Limpeza"
     }
@@ -11408,7 +11408,7 @@
         "agents": "articles",
         "condition": "all_disagree",
         "participant_opinion": "participant_agree",
-        "participant_public_opinion": "3"
+        "participant_public_opinion": "4"
       }
     },
     "pro": {
@@ -11426,11 +11426,11 @@
       "q_robot_related_9": "6",
       "q_robot_related_10": "5",
       "party": "CDU",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
       "robot_freq": "Semanalmente",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "110": {
@@ -11445,9 +11445,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "4",
@@ -11495,7 +11495,7 @@
         "agents": "articles",
         "condition": "half_disagree",
         "participant_opinion": "participant_agree",
-        "participant_public_opinion": "2"
+        "participant_public_opinion": "6"
       },
       "4": {
         "statement_id": "2",
@@ -11522,10 +11522,10 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "2",
       "q_socio-economic_6": "2",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Limpeza"
     }
@@ -11542,9 +11542,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -11590,7 +11590,7 @@
         "agents": "articles",
         "condition": "all_disagree",
         "participant_opinion": "participant_agree",
-        "participant_public_opinion": "1"
+        "participant_public_opinion": "4"
       },
       "2": {
         "statement_id": "2",
@@ -11635,12 +11635,12 @@
       "q_robot_related_8": "5",
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
-      "party": "PCP",
+      "party": "CDU",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "112": {
@@ -11655,9 +11655,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -11732,7 +11732,7 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "2",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
       "robot_freq": "Semanalmente",
@@ -11752,9 +11752,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "3",
@@ -11846,11 +11846,11 @@
       "q_robot_related_9": "6",
       "q_robot_related_10": "5",
       "party": "PS",
-      "ai_freq": "Cerca de três vezes por mês",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Atendimento ao público"
+      "robot_types": "Atendimento ao pÃºblico"
     }
   },
   "114": {
@@ -11865,9 +11865,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "6",
@@ -11942,12 +11942,12 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "1",
-      "party": "Livre",
-      "ai_freq": "Cerca de três vezes por mês",
+      "party": "L",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores "
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores "
     }
   },
   "115": {
@@ -11962,9 +11962,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "6",
       "q_knowledge_robot_related_1_1": "4",
@@ -12058,9 +12058,9 @@
       "party": "Voto branco",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robô de limpeza de supermercado"
+      "robot_types": "RobÃ´ de limpeza de supermercado"
     }
   },
   "116": {
@@ -12075,9 +12075,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "5",
@@ -12153,9 +12153,9 @@
       "q_socio-economic_5": "1",
       "q_socio-economic_6": "1",
       "party": "CDU",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Limpeza"
     }
@@ -12172,9 +12172,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "2",
       "q_knowledge_robot_related_1_1": "3",
@@ -12268,7 +12268,7 @@
       "party": "PS",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Robot de estudo cientifico"
     }
@@ -12285,9 +12285,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto de Geografia e Ordenamento do Território",
+      "university": "Universidade de Lisboa - Instituto de Geografia e Ordenamento do TerritÃ³rio",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_socio-economic_1": "4",
       "q_knowledge_socio-economic_1_1": "4",
@@ -12365,7 +12365,7 @@
       "party": "PAN",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Robots que servem a mesa "
     }
@@ -12382,9 +12382,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Instituto Superior Técnico",
+      "university": "Universidade de Lisboa - Instituto Superior TÃ©cnico",
       "university_other": "",
-      "course": "Ciências Físicas",
+      "course": "CiÃªncias FÃ­sicas",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "5",
@@ -12475,12 +12475,12 @@
       "q_robot_related_8": "4",
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Aspirador, robôsde entrga de comida no restaurantes. "
+      "robot_types": "Aspirador, robÃ´sde entrga de comida no restaurantes. "
     }
   },
   "120": {
@@ -12497,7 +12497,7 @@
       "nationality_other": "",
       "university": "Universidade de Lisboa - Faculdade de Psicologia",
       "university_other": "",
-      "course": "Ciências Sociais e do Comportamento",
+      "course": "CiÃªncias Sociais e do Comportamento",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -12575,7 +12575,7 @@
       "party": "CDU",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nunca"
     }
@@ -12688,9 +12688,9 @@
       "party": "Em branco",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Nunca havia interagido com um robò"
+      "robot_types": "Nunca havia interagido com um robÃ²"
     }
   },
   "122": {
@@ -12705,9 +12705,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "3",
@@ -12783,9 +12783,9 @@
       "q_socio-economic_5": "2",
       "q_socio-economic_6": "3",
       "party": "PS",
-      "ai_freq": "Cerca de duas vezes por mês",
+      "ai_freq": "Cerca de duas vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Nenhum "
     }
@@ -12802,9 +12802,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -12895,12 +12895,12 @@
       "q_robot_related_8": "4",
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
-      "party": "Pcp",
-      "ai_freq": "Cerca de três vezes por mês",
+      "party": "CDU",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Que servem à mesa em restaurantes e ai de apoio ao cliente "
+      "robot_types": "Que servem Ã  mesa em restaurantes e ai de apoio ao cliente "
     }
   },
   "124": {
@@ -12915,9 +12915,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "ISCTE - Instituto Universitário de Lisboa",
+      "university": "ISCTE - Instituto UniversitÃ¡rio de Lisboa",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "3",
       "q_knowledge_socio-economic_1_1": "3",
@@ -12992,10 +12992,10 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "4",
       "q_socio-economic_6": "6",
-      "party": "PSD",
+      "party": "AD",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Robo de entrega"
     }
@@ -13013,8 +13013,8 @@
       "nationality": "Portuguesa",
       "nationality_other": "",
       "university": "Outro",
-      "university_other": "Universidade de Évora",
-      "course": "Proteção do Ambiente",
+      "university_other": "Universidade de Ã‰vora",
+      "course": "ProteÃ§Ã£o do Ambiente",
       "course_other": "",
       "q_robot_related_1": "4",
       "q_knowledge_robot_related_1_1": "2",
@@ -13105,10 +13105,10 @@
       "q_robot_related_8": "6",
       "q_robot_related_9": "5",
       "q_robot_related_10": "5",
-      "party": "Pan",
+      "party": "PAN",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Aspiradores e robos em restaurantes "
     }
@@ -13125,9 +13125,9 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Brasil",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Matemática e Estatística",
+      "course": "MatemÃ¡tica e EstatÃ­stica",
       "course_other": "",
       "q_socio-economic_1": "1",
       "q_knowledge_socio-economic_1_1": "5",
@@ -13202,12 +13202,12 @@
       "q_socio-economic_4": "1",
       "q_socio-economic_5": "2",
       "q_socio-economic_6": "1",
-      "party": "Não votei",
+      "party": "NÃ£o votei",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
-      "robot_types": "Com os robôs de serviços gerais, nomeadamente de limpeza e atendimento rápido."
+      "robot_types": "Com os robÃ´s de serviÃ§os gerais, nomeadamente de limpeza e atendimento rÃ¡pido."
     }
   },
   "127": {
@@ -13222,9 +13222,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_robot_related_1": "5",
       "q_knowledge_robot_related_1_1": "4",
@@ -13315,10 +13315,10 @@
       "q_robot_related_8": "4",
       "q_robot_related_9": "6",
       "q_robot_related_10": "5",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Não interagi nos últimos seis meses",
+      "robot_freq": "NÃ£o interagi nos Ãºltimos seis meses",
       "robot_freq_other": "",
       "robot_types": "Empregado de mesa, aspirador"
     }
@@ -13335,9 +13335,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Informática",
+      "course": "InformÃ¡tica",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "5",
@@ -13412,10 +13412,10 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "4",
       "q_socio-economic_6": "1",
-      "party": "Livre",
+      "party": "L",
       "ai_freq": "Semanalmente",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Roomba"
     }
@@ -13432,7 +13432,7 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
       "course": "Outro",
       "course_other": "Quimica ",
@@ -13525,12 +13525,12 @@
       "q_robot_related_8": "3",
       "q_robot_related_9": "6",
       "q_robot_related_10": "6",
-      "party": "Iniciativa Liberal",
-      "ai_freq": "Cerca de uma vez por mês",
+      "party": "IL",
+      "ai_freq": "Cerca de uma vez por mÃªs",
       "ai_freq_other": "",
       "robot_freq": "Diariamente",
       "robot_freq_other": "",
-      "robot_types": "Chatbots e robôs utilizados por eficiencia ou custo de empresas em exemplo customer service"
+      "robot_types": "Chatbots e robÃ´s utilizados por eficiencia ou custo de empresas em exemplo customer service"
     }
   },
   "130": {
@@ -13545,9 +13545,9 @@
       "gender_other": "",
       "nationality": "Portuguesa",
       "nationality_other": "",
-      "university": "Universidade de Lisboa - Faculdade de Ciências",
+      "university": "Universidade de Lisboa - Faculdade de CiÃªncias",
       "university_other": "",
-      "course": "Ciências da Vida",
+      "course": "CiÃªncias da Vida",
       "course_other": "",
       "q_socio-economic_1": "2",
       "q_knowledge_socio-economic_1_1": "3",
@@ -13622,12 +13622,12 @@
       "q_socio-economic_4": "4",
       "q_socio-economic_5": "3",
       "q_socio-economic_6": "5",
-      "party": "PSD",
-      "ai_freq": "Cerca de três vezes por mês",
+      "party": "AD",
+      "ai_freq": "Cerca de trÃªs vezes por mÃªs",
       "ai_freq_other": "",
-      "robot_freq": "Menos de uma vez por mês",
+      "robot_freq": "Menos de uma vez por mÃªs",
       "robot_freq_other": "",
-      "robot_types": "Robôs que servem às mesas, robôs aspiradores, robo social"
+      "robot_types": "RobÃ´s que servem Ã s mesas, robÃ´s aspiradores, robo social"
     }
   },
   "131": {
@@ -13642,7 +13642,7 @@
       "gender_other": "",
       "nationality": "Outro",
       "nationality_other": "Brasileira",
-      "university": "Instituto Politécnico da Lusofonia - Escola Superior de Comunicação, Inovação e Artes",
+      "university": "Instituto PolitÃ©cnico da Lusofonia - Escola Superior de ComunicaÃ§Ã£o, InovaÃ§Ã£o e Artes",
       "university_other": "",
       "course": "Humanidades",
       "course_other": "",
@@ -13722,7 +13722,7 @@
       "party": "IL",
       "ai_freq": "Diariamente",
       "ai_freq_other": "",
-      "robot_freq": "Cerca de duas vezes por mês",
+      "robot_freq": "Cerca de duas vezes por mÃªs",
       "robot_freq_other": "",
       "robot_types": "Aspirador, waiter restaurante"
     }

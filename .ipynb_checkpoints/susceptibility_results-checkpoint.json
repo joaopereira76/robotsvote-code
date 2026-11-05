@@ -1,0 +1,254 @@
+[
+  {
+    "statement_id": 1,
+    "agent": "robots",
+    "topic": "robot_related",
+    "susceptibility": -0.023,
+    "n": 9
+  },
+  {
+    "statement_id": 1,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "susceptibility": 0.0,
+    "n": 11
+  },
+  {
+    "statement_id": 1,
+    "agent": "articles",
+    "topic": "robot_related",
+    "susceptibility": 0.015,
+    "n": 12
+  },
+  {
+    "statement_id": 2,
+    "agent": "robots",
+    "topic": "robot_related",
+    "susceptibility": 0.017,
+    "n": 11
+  },
+  {
+    "statement_id": 2,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "susceptibility": 0.053,
+    "n": 12
+  },
+  {
+    "statement_id": 2,
+    "agent": "articles",
+    "topic": "robot_related",
+    "susceptibility": 0.006,
+    "n": 12
+  },
+  {
+    "statement_id": 3,
+    "agent": "robots",
+    "topic": "robot_related",
+    "susceptibility": 0.056,
+    "n": 17
+  },
+  {
+    "statement_id": 3,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "susceptibility": 0.029,
+    "n": 7
+  },
+  {
+    "statement_id": 3,
+    "agent": "articles",
+    "topic": "robot_related",
+    "susceptibility": 0.069,
+    "n": 9
+  },
+  {
+    "statement_id": 4,
+    "agent": "robots",
+    "topic": "robot_related",
+    "susceptibility": 0.048,
+    "n": 9
+  },
+  {
+    "statement_id": 4,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "susceptibility": -0.006,
+    "n": 10
+  },
+  {
+    "statement_id": 4,
+    "agent": "articles",
+    "topic": "robot_related",
+    "susceptibility": 0.053,
+    "n": 9
+  },
+  {
+    "statement_id": 5,
+    "agent": "robots",
+    "topic": "robot_related",
+    "susceptibility": 0.057,
+    "n": 12
+  },
+  {
+    "statement_id": 5,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "susceptibility": 0.033,
+    "n": 11
+  },
+  {
+    "statement_id": 5,
+    "agent": "articles",
+    "topic": "robot_related",
+    "susceptibility": -0.032,
+    "n": 10
+  },
+  {
+    "statement_id": 6,
+    "agent": "robots",
+    "topic": "robot_related",
+    "susceptibility": 0.0,
+    "n": 6
+  },
+  {
+    "statement_id": 6,
+    "agent": "virtuals",
+    "topic": "robot_related",
+    "susceptibility": 0.038,
+    "n": 13
+  },
+  {
+    "statement_id": 6,
+    "agent": "articles",
+    "topic": "robot_related",
+    "susceptibility": 0.02,
+    "n": 12
+  },
+  {
+    "statement_id": 1,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "susceptibility": 0.023,
+    "n": 12
+  },
+  {
+    "statement_id": 1,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "susceptibility": 0.059,
+    "n": 13
+  },
+  {
+    "statement_id": 1,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "susceptibility": -0.006,
+    "n": 7
+  },
+  {
+    "statement_id": 2,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "susceptibility": 0.035,
+    "n": 6
+  },
+  {
+    "statement_id": 2,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "susceptibility": 0.029,
+    "n": 13
+  },
+  {
+    "statement_id": 2,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "susceptibility": 0.049,
+    "n": 14
+  },
+  {
+    "statement_id": 3,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "susceptibility": 0.009,
+    "n": 10
+  },
+  {
+    "statement_id": 3,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "susceptibility": 0.042,
+    "n": 12
+  },
+  {
+    "statement_id": 3,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "susceptibility": 0.049,
+    "n": 12
+  },
+  {
+    "statement_id": 4,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "susceptibility": 0.021,
+    "n": 14
+  },
+  {
+    "statement_id": 4,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "susceptibility": 0.069,
+    "n": 9
+  },
+  {
+    "statement_id": 4,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "susceptibility": 0.023,
+    "n": 8
+  },
+  {
+    "statement_id": 5,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "susceptibility": 0.046,
+    "n": 16
+  },
+  {
+    "statement_id": 5,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "susceptibility": 0.014,
+    "n": 11
+  },
+  {
+    "statement_id": 5,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "susceptibility": 0.106,
+    "n": 12
+  },
+  {
+    "statement_id": 6,
+    "agent": "robots",
+    "topic": "socio-economic",
+    "susceptibility": 0.04,
+    "n": 8
+  },
+  {
+    "statement_id": 6,
+    "agent": "virtuals",
+    "topic": "socio-economic",
+    "susceptibility": 0.016,
+    "n": 8
+  },
+  {
+    "statement_id": 6,
+    "agent": "articles",
+    "topic": "socio-economic",
+    "susceptibility": 0.059,
+    "n": 13
+  }
+]
